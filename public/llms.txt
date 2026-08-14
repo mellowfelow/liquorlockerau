@@ -1,0 +1,31 @@
+# Liquor Locker AU
+> Australia
+
+Liquor Locker AU is Australia's premier climate-controlled vault and online boutique for rare single malt whiskies, artisanal Australian craft gins, extra añejo tequilas, small-batch bourbon, and museum-release fine wines delivered nationwide across Australia.
+
+- **Minimum Vault Order:** $250 AUD
+- **Free Express Shipping:** Orders over $350 AUD
+- **10% Crypto Discount:** Automatic 10% discount for Bitcoin (BTC) & Tether (USDT)
+- **Payment Options:** PayID, Bank Transfer, Bitcoin, USDT
+- **HQ Location:** Sydney, NSW 2000, Australia
+- **Contact Email:** orders@liquorlocker.com.au
+- **WhatsApp Concierge:** +61400123456
+
+## Product Categories
+- [Single Malt & Fine Whisky](https://liquorlocker.com.au/shop/single-malt-whisky/): Rare Tasmanian single malts, prestige Scotch, and Japanese allocations.
+- [Artisanal Gin & Botanical Spirits](https://liquorlocker.com.au/shop/craft-gin/): Award-winning Yarra Valley and Sydney craft gins.
+- [Premium Agave & Tequila](https://liquorlocker.com.au/shop/tequila-agave/): Handcrafted Extra Añejo, Reposado decanters, and artisanal mezcal.
+- [Small Batch Bourbon & Rum](https://liquorlocker.com.au/shop/bourbon-dark-rum/): Rare Kentucky straight bourbon and aged dark rums.
+- [Boutique Wines & Champagne](https://liquorlocker.com.au/shop/fine-wines-champagne/): Iconic Penfolds Grange, Barossa Shiraz, and vintage Champagnes.
+
+## Wholesale & Corporate
+- [Wholesale Inquiries](https://liquorlocker.com.au/wholesale/): Tiered bulk pricing and dedicated account management for licensed venues.
+
+## Educational Content
+- [Spirits Journal & Guides](https://liquorlocker.com.au/blog/): Expert collector guides on whisky investment, gin botanicals, and wine cellaring.
+
+## Optional Agent Resources
+- [API Catalog](https://liquorlocker.com.au/.well-known/api-catalog): Service directory and API endpoints.
+- [Agent Skills](https://liquorlocker.com.au/.well-known/agent-skills/index.json): Declarative skills catalog for AI assistants.
+- [MCP Server Card](https://liquorlocker.com.au/.well-known/mcp/server-card.json): Streamable HTTP MCP capability definition.
+- [Auth Documentation](https://liquorlocker.com.au/auth.md): Authentication policy declaration.

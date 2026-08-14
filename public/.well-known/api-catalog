@@ -1,0 +1,48 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://liquorlocker.com.au/",
+      "https://www.iana.org/assignments/link-relations/service-doc": [
+        {
+          "href": "https://liquorlocker.com.au/faq/"
+        }
+      ],
+      "title": "Liquor Locker AU — Australia"
+    },
+    {
+      "anchor": "https://liquorlocker.com.au/shop/",
+      "type": "text/html",
+      "title": "Liquor Locker AU Product Catalog"
+    },
+    {
+      "anchor": "https://liquorlocker.com.au/wholesale/",
+      "type": "text/html",
+      "title": "Liquor Locker AU Wholesale"
+    },
+    {
+      "anchor": "https://liquorlocker.com.au/api/products",
+      "type": "application/json",
+      "title": "Liquor Locker AU Products API"
+    },
+    {
+      "anchor": "https://liquorlocker.com.au/api/categories",
+      "type": "application/json",
+      "title": "Liquor Locker AU Categories API"
+    },
+    {
+      "anchor": "https://liquorlocker.com.au/api/search",
+      "type": "application/json",
+      "title": "Liquor Locker AU Search API"
+    },
+    {
+      "anchor": "https://liquorlocker.com.au/api/mcp",
+      "type": "application/json",
+      "https://www.iana.org/assignments/link-relations/service-desc": [
+        {
+          "href": "https://liquorlocker.com.au/.well-known/mcp/server-card.json"
+        }
+      ],
+      "title": "Liquor Locker AU MCP Server"
+    }
+  ]
+}

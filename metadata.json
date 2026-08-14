@@ -1,0 +1,6 @@
+{
+  "name": "Liquor Locker AU",
+  "description": "Australia's premier online boutique for fine spirits, rare whiskies, craft gins, and boutique wines delivered nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

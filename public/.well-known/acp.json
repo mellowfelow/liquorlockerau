@@ -1,0 +1,43 @@
+{
+  "protocol": {
+    "name": "acp",
+    "version": "0.1.0"
+  },
+  "name": "Liquor Locker AU",
+  "description": "Australia",
+  "api_base_url": "https://liquorlocker.com.au",
+  "homepage": "https://liquorlocker.com.au",
+  "transports": [
+    "https"
+  ],
+  "capabilities": {
+    "services": [
+      "product-catalog",
+      "wholesale",
+      "blog",
+      "faq",
+      "mcp-server"
+    ],
+    "ordering": "human-assisted",
+    "payment_methods": [
+      "bank-transfer",
+      "payid",
+      "crypto-BTC",
+      "crypto-USDT"
+    ],
+    "currency": "AUD",
+    "minimum_order_usd": 250,
+    "free_shipping_threshold_usd": 350
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/61400123456",
+    "email": "orders@liquorlocker.com.au"
+  },
+  "legal": {
+    "age_restriction": "21+",
+    "region": "Australia",
+    "ships_to": "Nationwide Australia",
+    "productType": "Spirits & Wine",
+    "compliance": "LIQP770010234"
+  }
+}

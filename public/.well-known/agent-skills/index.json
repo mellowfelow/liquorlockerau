@@ -1,0 +1,50 @@
+{
+  "$schema": "https://agentskills.io/schema/v0.2.0/index.json",
+  "name": "Liquor Locker AU",
+  "url": "https://liquorlocker.com.au",
+  "description": "Australia",
+  "skills": [
+    {
+      "name": "search-products",
+      "type": "commerce",
+      "description": "Search spirits, whiskies, gins, and wines by keyword, category, or price",
+      "url": "https://liquorlocker.com.au/api/mcp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "browse-catalog",
+      "type": "navigation",
+      "description": "Browse full liquor vault catalog by category",
+      "url": "https://liquorlocker.com.au/shop/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "order-draft",
+      "type": "commerce",
+      "description": "Create prefilled order draft. Human completes age verification and payment.",
+      "url": "https://liquorlocker.com.au/api/mcp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "wholesale-inquiry",
+      "type": "commerce",
+      "description": "Wholesale pricing tiers and bulk liquor ordering for licensed venues",
+      "url": "https://liquorlocker.com.au/wholesale/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "spirits-education",
+      "type": "content",
+      "description": "Spirits journal and collector guides",
+      "url": "https://liquorlocker.com.au/blog/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "contact",
+      "type": "support",
+      "description": "Contact vault concierge for product inquiries",
+      "url": "https://liquorlocker.com.au/contact/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

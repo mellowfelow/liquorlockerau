@@ -1,0 +1,119 @@
+{
+  "$schema": "https://modelcontextprotocol.io/schemas/server-card/v1.json",
+  "serverInfo": {
+    "name": "Liquor Locker AU",
+    "version": "1.0.0",
+    "description": "Australia",
+    "homepage": "https://liquorlocker.com.au",
+    "contact": {
+      "email": "orders@liquorlocker.com.au",
+      "whatsapp": "+61400123456"
+    }
+  },
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": "https://liquorlocker.com.au/api/mcp"
+  },
+  "capabilities": {
+    "tools": [
+      {
+        "name": "search_products",
+        "description": "Search products by keyword, category, max_price",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "query": {
+              "type": "string"
+            },
+            "category": {
+              "type": "string"
+            },
+            "max_price": {
+              "type": "number"
+            }
+          }
+        }
+      },
+      {
+        "name": "get_product",
+        "description": "Get full product details by slug",
+        "inputSchema": {
+          "type": "object",
+          "required": [
+            "slug"
+          ],
+          "properties": {
+            "slug": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      {
+        "name": "list_categories",
+        "description": "List all product categories",
+        "inputSchema": {
+          "type": "object",
+          "properties": {}
+        }
+      },
+      {
+        "name": "get_policies",
+        "description": "Get shipping, payment, returns policies",
+        "inputSchema": {
+          "type": "object",
+          "properties": {}
+        }
+      },
+      {
+        "name": "create_order_draft",
+        "description": "Create prefilled order URL. Human completes — never captures payment.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "items": {
+              "type": "array"
+            },
+            "notes": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    ],
+    "resources": [
+      {
+        "name": "product-catalog",
+        "description": "Full product catalog",
+        "uri": "https://liquorlocker.com.au/shop/"
+      },
+      {
+        "name": "wholesale",
+        "description": "Wholesale pricing",
+        "uri": "https://liquorlocker.com.au/wholesale/"
+      },
+      {
+        "name": "blog",
+        "description": "Spirits journal and guides",
+        "uri": "https://liquorlocker.com.au/blog/"
+      }
+    ],
+    "commerce": {
+      "ordering": "human-assisted-whatsapp-or-form",
+      "payment": [
+        "bank-transfer",
+        "payid",
+        "crypto-BTC",
+        "crypto-USDT"
+      ],
+      "currency": "AUD",
+      "minimumOrder": 250,
+      "freeShipping": 350
+    }
+  },
+  "legal": {
+    "ageRestriction": "21+",
+    "productType": "Fine Spirits & Wine",
+    "compliance": "Liquor Act 2007: LIQP770010234. Enjoy Responsibly."
+  }
+}

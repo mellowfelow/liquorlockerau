@@ -1,11 +1,35 @@
-<div align="center">
+# Liquor Locker AU — Premium Online Spirits Boutique
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Liquor Locker AU is Australia's premier online boutique and climate-controlled vault for rare single malt whiskies, small-batch craft gins, extra añejo tequilas, and iconic Australian wines.
 
-  <h1>Built with AI Studio</h2>
+## Key Features
+- **Mobile-First Luxury UI:** Custom dark charcoal & warm gold aesthetic designed for mobile viewports up to ultra-wide displays.
+- **Age Verification Gate:** 21+ compliance gate in accordance with Australian RSA standards and Liquor Act 2007.
+- **Interactive Vault Cart & Checkout:** Live minimum order validation ($250 AUD), free shipping progress bar ($350 AUD threshold), 10% instant Crypto discount calculation, PayID & Bank Transfer support, and WhatsApp Concierge integration.
+- **Agent-Ready Ecosystem:** Full implementation of MCP Streamable HTTP server (`/api/mcp`), ACP (`.well-known/acp.json`), UCP (`.well-known/ucp`), OpenAPI Linksets (`.well-known/api-catalog`), `llms.txt`, and `webmcp.js`.
+- **Search & Filter:** Instant client-side search and category filtering with JSON-LD schema integration.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Getting Started
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+```bash
+# Install dependencies
+npm install
 
-</div>
+# Generate agent static files
+npm run gen
+
+# Run development server
+npm run dev
+
+# Run pre-ship crosscheck verification
+npm run crosscheck
+
+# Build for production
+npm run build
+```
+
+## Deployment to Vercel
+1. Push code to GitHub repository.
+2. Import repository in Vercel Dashboard.
+3. Ensure **Framework Preset** is set to **Next.js**.
+4. Deploy.

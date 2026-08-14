@@ -1,0 +1,65 @@
+{
+  "ucp": "1.0",
+  "protocol_version": "1.0",
+  "spec": "https://ucp.dev/specification/overview/",
+  "schema": "https://ucp.dev/schema/v1.json",
+  "site": "https://liquorlocker.com.au",
+  "name": "Liquor Locker AU",
+  "description": "Australia",
+  "services": [
+    {
+      "id": "product-catalog",
+      "type": "catalog",
+      "url": "https://liquorlocker.com.au/shop/",
+      "description": "Full product catalog"
+    },
+    {
+      "id": "mcp-server",
+      "type": "mcp",
+      "url": "https://liquorlocker.com.au/api/mcp",
+      "description": "MCP Streamable HTTP server"
+    },
+    {
+      "id": "order",
+      "type": "commerce",
+      "url": "https://wa.me/61400123456",
+      "description": "Place orders via WhatsApp Concierge"
+    },
+    {
+      "id": "wholesale",
+      "type": "b2b",
+      "url": "https://liquorlocker.com.au/wholesale/",
+      "description": "Wholesale pricing and bulk ordering"
+    }
+  ],
+  "capabilities": [
+    "browse",
+    "search",
+    "inquiry",
+    "wholesale",
+    "content",
+    "mcp"
+  ],
+  "endpoints": {
+    "mcp": "https://liquorlocker.com.au/api/mcp",
+    "catalog": "https://liquorlocker.com.au/shop/",
+    "contact": "https://liquorlocker.com.au/contact/",
+    "agent_skills": "https://liquorlocker.com.au/.well-known/agent-skills/index.json",
+    "mcp_server_card": "https://liquorlocker.com.au/.well-known/mcp/server-card.json",
+    "api_catalog": "https://liquorlocker.com.au/.well-known/api-catalog",
+    "llms_txt": "https://liquorlocker.com.au/llms.txt"
+  },
+  "currency": "AUD",
+  "minimum_order_usd": 250,
+  "payment_methods": [
+    "bank-transfer",
+    "payid",
+    "crypto-BTC",
+    "crypto-USDT"
+  ],
+  "legal": {
+    "age_restriction": "21+",
+    "product_type": "Spirits & Wine",
+    "compliance": "Liquor License LIQP770010234"
+  }
+}
