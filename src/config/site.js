@@ -130,6 +130,7 @@ export const CATEGORIES = [
       { slug: 'aperitifs-digestifs', name: 'Aperitifs & Digestifs', description: 'Campari, Aperol, Amaro, Vermouth, and botanical digestifs.' },
       { slug: 'australian-spirits', name: 'Australian Spirits', description: 'Artisanal spirits crafted locally using native Australian botanicals and grains.' },
       { slug: 'premium-collectable-spirits', name: 'Premium & Collectable Spirits', description: 'Rare allocations, numbered bottles, and private cellar collectibles.' },
+      { slug: 'soju-shochu', name: 'Soju & Shochu', description: 'Korean soju in classic and fruit-infused styles, plus Japanese barley, rice, and sweet potato shochu.' },
     ],
   },
   {
@@ -75142,6 +75143,799 @@ export const PRODUCTS = [
         "weight": "0.4kg",
         "availability": "https://schema.org/InStock",
         "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jinro-chamisul-fresh-soju",
+    "name": "Jinro Chamisul Fresh Soju",
+    "price": 13.49,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Jinro",
+    "countryOfOrigin": "South Korea",
+    "regionOrState": "South Korea",
+    "abv": "16.9%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "360ml",
+    "packSize": "360ml Bottle",
+    "primaryProductType": "Soju",
+    "styleOrVariety": "Classic Fresh Soju",
+    "flavourProfile": [
+      "Clean",
+      "Light Sweetness",
+      "Smooth",
+      "Neutral"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Filtered Through Bamboo Charcoal",
+    "controlledTags": [
+      "Spirits",
+      "Soju",
+      "Jinro",
+      "South Korea"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "soju"
+    ],
+    "seoUrl": "/spirits/soju-shochu/jinro-chamisul-fresh-soju",
+    "description": "The world's best-selling spirit, Jinro Chamisul Fresh is filtered through bamboo charcoal for a clean, smooth, gently sweet soju perfect with Korean BBQ.",
+    "shortDescription": "The world's best-selling spirit — clean, smooth, gently sweet.",
+    "searchKeywords": "jinro chamisul fresh soju south korea 16.9% 360ml clean smooth",
+    "badge": "World's Best-Selling Spirit",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jinro-chamisul-fresh-soju-360ml-bottle",
+        "sku": "SPIRIT-SOJU-001-360ML",
+        "unitSize": "360ml",
+        "container": "Bottle",
+        "packSize": "360ml Bottle",
+        "price": 13.49,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jinro-chamisul-original-soju",
+    "name": "Jinro Chamisul Original Soju",
+    "price": 13.49,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Jinro",
+    "countryOfOrigin": "South Korea",
+    "regionOrState": "South Korea",
+    "abv": "20.1%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "360ml",
+    "packSize": "360ml Bottle",
+    "primaryProductType": "Soju",
+    "styleOrVariety": "Classic Soju",
+    "flavourProfile": [
+      "Clean",
+      "Neutral Grain",
+      "Smooth",
+      "Traditional"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Filtered Through Bamboo Charcoal",
+    "controlledTags": [
+      "Spirits",
+      "Soju",
+      "Jinro",
+      "South Korea"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "soju"
+    ],
+    "seoUrl": "/spirits/soju-shochu/jinro-chamisul-original-soju",
+    "description": "Jinro's original higher-strength soju, bamboo charcoal filtered for a clean, traditional profile favoured by soju purists.",
+    "shortDescription": "Jinro's original higher-strength soju, clean and traditional.",
+    "searchKeywords": "jinro chamisul original soju south korea 20.1% 360ml clean traditional",
+    "badge": "Korean Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jinro-chamisul-original-soju-360ml-bottle",
+        "sku": "SPIRIT-SOJU-002-360ML",
+        "unitSize": "360ml",
+        "container": "Bottle",
+        "packSize": "360ml Bottle",
+        "price": 13.49,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jinro-chamisul-green-grape-soju",
+    "name": "Jinro Chamisul Green Grape Soju",
+    "price": 13.49,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Jinro",
+    "countryOfOrigin": "South Korea",
+    "regionOrState": "South Korea",
+    "abv": "13.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "360ml",
+    "packSize": "360ml Bottle",
+    "primaryProductType": "Soju",
+    "styleOrVariety": "Fruit-Infused Soju",
+    "flavourProfile": [
+      "Green Grape",
+      "Sweet",
+      "Fruity",
+      "Light"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Natural Green Grape Flavour",
+    "controlledTags": [
+      "Spirits",
+      "Soju",
+      "Jinro",
+      "South Korea",
+      "Fruit Soju"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "soju"
+    ],
+    "seoUrl": "/spirits/soju-shochu/jinro-chamisul-green-grape-soju",
+    "description": "A lighter, fruit-infused soju with natural green grape flavour, easy-drinking and popular for casual sipping over ice.",
+    "shortDescription": "A lighter, fruit-infused soju with natural green grape flavour.",
+    "searchKeywords": "jinro chamisul green grape soju south korea 13% 360ml sweet fruity",
+    "badge": "Fruit Soju",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jinro-chamisul-green-grape-soju-360ml-bottle",
+        "sku": "SPIRIT-SOJU-003-360ML",
+        "unitSize": "360ml",
+        "container": "Bottle",
+        "packSize": "360ml Bottle",
+        "price": 13.49,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jinro-chamisul-strawberry-soju",
+    "name": "Jinro Chamisul Strawberry Soju",
+    "price": 13.49,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Jinro",
+    "countryOfOrigin": "South Korea",
+    "regionOrState": "South Korea",
+    "abv": "13.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "360ml",
+    "packSize": "360ml Bottle",
+    "primaryProductType": "Soju",
+    "styleOrVariety": "Fruit-Infused Soju",
+    "flavourProfile": [
+      "Strawberry",
+      "Sweet",
+      "Fruity",
+      "Light"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Natural Strawberry Flavour",
+    "controlledTags": [
+      "Spirits",
+      "Soju",
+      "Jinro",
+      "South Korea",
+      "Fruit Soju"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "soju"
+    ],
+    "seoUrl": "/spirits/soju-shochu/jinro-chamisul-strawberry-soju",
+    "description": "A fruit-infused soju with natural strawberry flavour, part of Jinro's lighter, lower-ABV flavoured range.",
+    "shortDescription": "A fruit-infused soju with natural strawberry flavour.",
+    "searchKeywords": "jinro chamisul strawberry soju south korea 13% 360ml sweet fruity",
+    "badge": "Fruit Soju",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jinro-chamisul-strawberry-soju-360ml-bottle",
+        "sku": "SPIRIT-SOJU-004-360ML",
+        "unitSize": "360ml",
+        "container": "Bottle",
+        "packSize": "360ml Bottle",
+        "price": 13.49,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "chum-churum-original-soju",
+    "name": "Chum Churum Original Soju",
+    "price": 13.49,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Lotte Liquor",
+    "countryOfOrigin": "South Korea",
+    "regionOrState": "Gangwon-do",
+    "abv": "16.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "360ml",
+    "packSize": "360ml Bottle",
+    "primaryProductType": "Soju",
+    "styleOrVariety": "Classic Soju",
+    "flavourProfile": [
+      "Mild",
+      "Smooth",
+      "Clean",
+      "Slightly Sweet"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Filtered with Bamboo Charcoal & Alkaline Water",
+    "controlledTags": [
+      "Spirits",
+      "Soju",
+      "Chum Churum",
+      "Lotte",
+      "South Korea"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "soju"
+    ],
+    "seoUrl": "/spirits/soju-shochu/chum-churum-original-soju",
+    "description": "Originating from Gangwon-do, Chum Churum is known for its mild, smooth flavour using alkaline-reduced water, perfect for K-BBQ night.",
+    "shortDescription": "A mild, smooth soju from Gangwon-do, perfect for K-BBQ.",
+    "searchKeywords": "chum churum original soju lotte south korea 16.5% 360ml mild smooth",
+    "badge": "K-BBQ Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "chum-churum-original-soju-360ml-bottle",
+        "sku": "SPIRIT-SOJU-005-360ML",
+        "unitSize": "360ml",
+        "container": "Bottle",
+        "packSize": "360ml Bottle",
+        "price": 13.49,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "chateul-soorok-strawberry-soju",
+    "name": "Chateul Soorok Strawberry Soju",
+    "price": 14.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Chateul Soorok",
+    "countryOfOrigin": "South Korea",
+    "regionOrState": "South Korea",
+    "abv": "14.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Soju",
+    "styleOrVariety": "Fruit-Infused Soju",
+    "flavourProfile": [
+      "Strawberry",
+      "Sweet",
+      "Fruity",
+      "Sippable"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Strawberry",
+    "controlledTags": [
+      "Spirits",
+      "Soju",
+      "Chateul Soorok",
+      "South Korea",
+      "Fruit Soju"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "soju"
+    ],
+    "seoUrl": "/spirits/soju-shochu/chateul-soorok-strawberry-soju",
+    "description": "A sweet, fruity strawberry soju, easy to sip cold or mix into a fruity cocktail.",
+    "shortDescription": "A sweet, fruity strawberry soju — sip cold or mix into cocktails.",
+    "searchKeywords": "chateul soorok strawberry soju south korea 14% 375ml sweet fruity",
+    "badge": "Fruit Soju",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "chateul-soorok-strawberry-soju-375ml-bottle",
+        "sku": "SPIRIT-SOJU-006-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 14.99,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "charm-malgeun-original-soju",
+    "name": "Charm Malgeun Original Soju",
+    "price": 13.49,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Charm Malgeun",
+    "countryOfOrigin": "South Korea",
+    "regionOrState": "South Korea",
+    "abv": "16.9%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "360ml",
+    "packSize": "360ml Bottle",
+    "primaryProductType": "Soju",
+    "styleOrVariety": "Classic Soju",
+    "flavourProfile": [
+      "Clean",
+      "Crisp",
+      "Neutral",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Filtered for Purity",
+    "controlledTags": [
+      "Spirits",
+      "Soju",
+      "Charm Malgeun",
+      "South Korea"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "soju"
+    ],
+    "seoUrl": "/spirits/soju-shochu/charm-malgeun-original-soju",
+    "description": "A clean, crisp classic soju with a neutral, smooth character — a staple choice across Korean bars and restaurants.",
+    "shortDescription": "A clean, crisp classic soju, a staple Korean bar choice.",
+    "searchKeywords": "charm malgeun original soju south korea 16.9% 360ml clean crisp",
+    "badge": "Korean Bar Staple",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "charm-malgeun-original-soju-360ml-bottle",
+        "sku": "SPIRIT-SOJU-007-360ML",
+        "unitSize": "360ml",
+        "container": "Bottle",
+        "packSize": "360ml Bottle",
+        "price": 13.49,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "hwayo-soju-17",
+    "name": "Hwayo Soju 17",
+    "price": 44.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Hwayo",
+    "countryOfOrigin": "South Korea",
+    "regionOrState": "South Korea",
+    "abv": "17.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Soju",
+    "styleOrVariety": "Premium Distilled Soju",
+    "flavourProfile": [
+      "Rice",
+      "Nutty",
+      "Clean",
+      "Refined"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Distilled from Rice, Traditional Method",
+    "controlledTags": [
+      "Spirits",
+      "Soju",
+      "Hwayo",
+      "South Korea",
+      "Premium"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "soju"
+    ],
+    "seoUrl": "/spirits/soju-shochu/hwayo-soju-17",
+    "description": "A premium distilled soju made entirely from rice using traditional methods, offering a refined, nutty character well above mass-market soju.",
+    "shortDescription": "A premium, entirely rice-distilled soju with refined nutty character.",
+    "searchKeywords": "hwayo soju 17 premium south korea 17% 375ml rice nutty refined",
+    "badge": "Premium Distilled",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hwayo-soju-17-375ml-bottle",
+        "sku": "SPIRIT-SOJU-008-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 44.99,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "hwayo-soju-25",
+    "name": "Hwayo Soju 25",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Hwayo",
+    "countryOfOrigin": "South Korea",
+    "regionOrState": "South Korea",
+    "abv": "25.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Soju",
+    "styleOrVariety": "Premium Distilled Soju",
+    "flavourProfile": [
+      "Rice",
+      "Toasted Grain",
+      "Bold",
+      "Warming"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Distilled from Rice, Traditional Method",
+    "controlledTags": [
+      "Spirits",
+      "Soju",
+      "Hwayo",
+      "South Korea",
+      "Premium"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "soju"
+    ],
+    "seoUrl": "/spirits/soju-shochu/hwayo-soju-25",
+    "description": "A bolder, higher-proof premium rice soju from Hwayo, with toasted grain depth for sipping neat or on the rocks.",
+    "shortDescription": "A bolder, higher-proof premium rice soju with toasted grain depth.",
+    "searchKeywords": "hwayo soju 25 premium south korea 25% 375ml rice toasted grain bold",
+    "badge": "Premium Distilled",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hwayo-soju-25-375ml-bottle",
+        "sku": "SPIRIT-SOJU-009-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "setsugen-gokujo-komeshochu",
+    "name": "Setsugen Gokujo Komeshochu",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Furusawa Shuzou",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Kumamoto",
+    "abv": "25.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "720ml",
+    "packSize": "720ml Bottle",
+    "primaryProductType": "Shochu",
+    "styleOrVariety": "Rice Shochu (Komeshochu)",
+    "flavourProfile": [
+      "Rice",
+      "Umami",
+      "Delicate",
+      "Clean"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Traditional Rice Fermentation & Distillation",
+    "controlledTags": [
+      "Spirits",
+      "Shochu",
+      "Setsugen",
+      "Japan",
+      "Rice Shochu"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "shochu"
+    ],
+    "seoUrl": "/spirits/soju-shochu/setsugen-gokujo-komeshochu",
+    "description": "An award-winning rice shochu from Kumamoto's Furusawa Shuzou, delicate and umami-rich with a clean traditional profile.",
+    "shortDescription": "An award-winning rice shochu, delicate and umami-rich.",
+    "searchKeywords": "setsugen gokujo komeshochu rice shochu japan kumamoto 25% 720ml umami clean",
+    "badge": "Award-Winning",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "setsugen-gokujo-komeshochu-720ml-bottle",
+        "sku": "SPIRIT-SOJU-010-720ML",
+        "unitSize": "720ml",
+        "container": "Bottle",
+        "packSize": "720ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kojika-ao-tonbo-dragonfly-shochu",
+    "name": "Kojika Ao Tonbo Dragonfly Shochu",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Kojika",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Kagoshima",
+    "abv": "25.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "720ml",
+    "packSize": "720ml Bottle",
+    "primaryProductType": "Shochu",
+    "styleOrVariety": "Sweet Potato Shochu (Imojochu)",
+    "flavourProfile": [
+      "Sweet Potato",
+      "Floral",
+      "Light",
+      "Delicate"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Traditional Sweet Potato Fermentation",
+    "controlledTags": [
+      "Spirits",
+      "Shochu",
+      "Kojika",
+      "Japan",
+      "Kagoshima",
+      "Sweet Potato Shochu"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "shochu"
+    ],
+    "seoUrl": "/spirits/soju-shochu/kojika-ao-tonbo-dragonfly-shochu",
+    "description": "A delicate, light sweet potato shochu from Kagoshima with gentle floral notes, easy to enjoy on the rocks or with soda.",
+    "shortDescription": "A delicate Kagoshima sweet potato shochu with floral notes.",
+    "searchKeywords": "kojika ao tonbo dragonfly shochu kagoshima japan 25% 720ml sweet potato floral",
+    "badge": "Kagoshima Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kojika-ao-tonbo-dragonfly-shochu-720ml-bottle",
+        "sku": "SPIRIT-SOJU-011-720ML",
+        "unitSize": "720ml",
+        "container": "Bottle",
+        "packSize": "720ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "yamamoto-leona-sparkling-shochu-yuzu",
+    "name": "Yamamoto Leona Sparkling Shochu Yuzu",
+    "price": 32.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Yamamoto",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Kagoshima",
+    "abv": "8.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Shochu",
+    "styleOrVariety": "Sparkling Shochu Liqueur",
+    "flavourProfile": [
+      "Yuzu",
+      "Sparkling",
+      "Citrus",
+      "Refreshing"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Sparkling Shochu Infused with Yuzu",
+    "controlledTags": [
+      "Spirits",
+      "Shochu",
+      "Yamamoto",
+      "Japan",
+      "Kagoshima",
+      "Sparkling"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu",
+      "shochu"
+    ],
+    "seoUrl": "/spirits/soju-shochu/yamamoto-leona-sparkling-shochu-yuzu",
+    "description": "A refreshing sparkling shochu liqueur from Kagoshima infused with bright, zesty yuzu citrus — a lighter, lower-ABV alternative to standard shochu.",
+    "shortDescription": "A refreshing sparkling shochu liqueur with bright yuzu citrus.",
+    "searchKeywords": "yamamoto leona sparkling shochu yuzu kagoshima japan 8% 375ml citrus refreshing",
+    "badge": "Sparkling & Low ABV",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "yamamoto-leona-sparkling-shochu-yuzu-375ml-bottle",
+        "sku": "SPIRIT-SOJU-012-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 32.99,
+        "stockLevel": 25,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
       }
     ]
   },
