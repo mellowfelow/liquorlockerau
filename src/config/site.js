@@ -77947,6 +77947,490 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "chivas-regal-25-year-old",
+    "name": "Chivas Regal 25 Year Old",
+    "price": 439.95,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "premium-collectable-spirits",
+    "subcategory": "premium-collectable-spirits",
+    "brand": "Chivas Regal",
+    "countryOfOrigin": "Scotland",
+    "regionOrState": "Speyside",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Whisky",
+    "styleOrVariety": "Blended Scotch Whisky",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Dark Chocolate",
+      "Honey",
+      "Long Oak Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "25 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 25 Years in Oak Casks",
+    "servingSuggestion": "Neat, in a Glencairn glass",
+    "controlledTags": [
+      "Spirits",
+      "Whisky",
+      "Chivas Regal",
+      "Scotland",
+      "Premium",
+      "25 Years"
+    ],
+    "collections": [
+      "spirits",
+      "premium-collectable-spirits",
+      "scotch-whisky"
+    ],
+    "seoUrl": "/spirits/premium-collectable-spirits/chivas-regal-25-year-old",
+    "description": "A rare, exceptionally smooth 25 year old blended Scotch, layering dried fruit and dark chocolate over a long, honeyed oak finish.",
+    "shortDescription": "A rare 25 year old blend with dried fruit and dark chocolate depth.",
+    "searchKeywords": "chivas regal 25 year old scotch whisky scotland 40% 700ml dried fruit chocolate honey",
+    "badge": "25 Year Rarity",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "chivas-regal-25-year-old-700ml-bottle",
+        "sku": "SPIRIT-PREM-001-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 439.95,
+        "stockLevel": 15,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "the-macallan-double-cask-18-year-old",
+    "name": "The Macallan Double Cask 18 Year Old",
+    "price": 399.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "premium-collectable-spirits",
+    "subcategory": "premium-collectable-spirits",
+    "brand": "The Macallan",
+    "countryOfOrigin": "Scotland",
+    "regionOrState": "Speyside",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Whisky",
+    "styleOrVariety": "Single Malt Scotch Whisky",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Ginger",
+      "Toffee",
+      "Wood Smoke"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "18 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 18 Years in American & European Oak Sherry Casks",
+    "servingSuggestion": "Neat or with a few drops of water",
+    "controlledTags": [
+      "Spirits",
+      "Whisky",
+      "The Macallan",
+      "Scotland",
+      "Premium",
+      "18 Years"
+    ],
+    "collections": [
+      "spirits",
+      "premium-collectable-spirits",
+      "scotch-whisky"
+    ],
+    "seoUrl": "/spirits/premium-collectable-spirits/the-macallan-double-cask-18-year-old",
+    "description": "Matured in a combination of American and European oak sherry-seasoned casks for 18 years, delivering dried fruit, ginger and toffee complexity.",
+    "shortDescription": "18 years in sherry-seasoned oak — dried fruit, ginger and toffee.",
+    "searchKeywords": "macallan double cask 18 year old single malt scotch whisky scotland 43% 700ml dried fruit ginger toffee",
+    "badge": "18 Year Double Cask",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "the-macallan-double-cask-18-year-old-700ml-bottle",
+        "sku": "SPIRIT-PREM-002-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 399.99,
+        "stockLevel": 15,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "glenfiddich-21-year-old-gran-reserva",
+    "name": "Glenfiddich 21 Year Old Gran Reserva",
+    "price": 339.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "premium-collectable-spirits",
+    "subcategory": "premium-collectable-spirits",
+    "brand": "Glenfiddich",
+    "countryOfOrigin": "Scotland",
+    "regionOrState": "Speyside",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Whisky",
+    "styleOrVariety": "Single Malt Scotch Whisky",
+    "flavourProfile": [
+      "Toffee",
+      "Dried Fruit",
+      "Spiced Rum",
+      "Vanilla"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "21 Years",
+    "vintage": "",
+    "caskMaturation": "Matured 21 Years, Finished in Caribbean Rum Casks",
+    "servingSuggestion": "Neat, in a Glencairn glass",
+    "controlledTags": [
+      "Spirits",
+      "Whisky",
+      "Glenfiddich",
+      "Scotland",
+      "Premium",
+      "21 Years"
+    ],
+    "collections": [
+      "spirits",
+      "premium-collectable-spirits",
+      "scotch-whisky"
+    ],
+    "seoUrl": "/spirits/premium-collectable-spirits/glenfiddich-21-year-old-gran-reserva",
+    "description": "Matured for 21 years then finished for a further four months in Caribbean rum casks, giving Gran Reserva a distinctive spiced rum complexity.",
+    "shortDescription": "21 years finished in Caribbean rum casks for spiced complexity.",
+    "searchKeywords": "glenfiddich 21 year old gran reserva single malt scotch whisky scotland 40% 700ml toffee rum vanilla",
+    "badge": "Rum Cask Finish",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "glenfiddich-21-year-old-gran-reserva-700ml-bottle",
+        "sku": "SPIRIT-PREM-003-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 339.99,
+        "stockLevel": 15,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "the-glenlivet-archive-21-year-old",
+    "name": "The Glenlivet Archive 21 Year Old",
+    "price": 379.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "premium-collectable-spirits",
+    "subcategory": "premium-collectable-spirits",
+    "brand": "The Glenlivet",
+    "countryOfOrigin": "Scotland",
+    "regionOrState": "Speyside",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Whisky",
+    "styleOrVariety": "Single Malt Scotch Whisky",
+    "flavourProfile": [
+      "Orange Marmalade",
+      "Dark Chocolate",
+      "Coconut",
+      "Rich Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "21 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 21 Years in a Blend of American & European Oak",
+    "servingSuggestion": "Neat, in a Glencairn glass",
+    "controlledTags": [
+      "Spirits",
+      "Whisky",
+      "The Glenlivet",
+      "Scotland",
+      "Premium",
+      "21 Years"
+    ],
+    "collections": [
+      "spirits",
+      "premium-collectable-spirits",
+      "scotch-whisky"
+    ],
+    "seoUrl": "/spirits/premium-collectable-spirits/the-glenlivet-archive-21-year-old",
+    "description": "A rich, complex 21 year old single malt ranging from orange marmalade to dark chocolate and coconut, from The Glenlivet's Archive series.",
+    "shortDescription": "A rich 21 year old single malt from The Glenlivet's Archive series.",
+    "searchKeywords": "glenlivet archive 21 year old single malt scotch whisky scotland 43% 700ml orange marmalade chocolate coconut",
+    "badge": "Archive Series",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "the-glenlivet-archive-21-year-old-700ml-bottle",
+        "sku": "SPIRIT-PREM-004-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 379.99,
+        "stockLevel": 15,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "laphroaig-25-year-old",
+    "name": "Laphroaig 25 Year Old",
+    "price": 799.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "premium-collectable-spirits",
+    "subcategory": "premium-collectable-spirits",
+    "brand": "Laphroaig",
+    "countryOfOrigin": "Scotland",
+    "regionOrState": "Islay",
+    "abv": "45.1%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Whisky",
+    "styleOrVariety": "Single Malt Scotch Whisky",
+    "flavourProfile": [
+      "Heavy Peat Smoke",
+      "Iodine",
+      "Dark Chocolate",
+      "Maritime Salt"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "25 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 25 Years, Cask Strength",
+    "servingSuggestion": "Neat, with a splash of water to open the peat",
+    "controlledTags": [
+      "Spirits",
+      "Whisky",
+      "Laphroaig",
+      "Scotland",
+      "Islay",
+      "Premium",
+      "25 Years"
+    ],
+    "collections": [
+      "spirits",
+      "premium-collectable-spirits",
+      "scotch-whisky"
+    ],
+    "seoUrl": "/spirits/premium-collectable-spirits/laphroaig-25-year-old",
+    "description": "A rare, cask strength 25 year old from Islay's most intensely peated distillery, layering heavy smoke and iodine over dark chocolate depth.",
+    "shortDescription": "A rare cask strength 25 year old — heavy peat and iodine intensity.",
+    "searchKeywords": "laphroaig 25 year old islay single malt scotch whisky scotland 45.1% 700ml peat smoke iodine chocolate",
+    "badge": "Cask Strength Rarity",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "laphroaig-25-year-old-700ml-bottle",
+        "sku": "SPIRIT-PREM-005-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 799.99,
+        "stockLevel": 15,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "royal-salute-21-year-old",
+    "name": "Royal Salute 21 Year Old",
+    "price": 379.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "premium-collectable-spirits",
+    "subcategory": "premium-collectable-spirits",
+    "brand": "Royal Salute",
+    "countryOfOrigin": "Scotland",
+    "regionOrState": "Scotland",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Whisky",
+    "styleOrVariety": "Blended Scotch Whisky",
+    "flavourProfile": [
+      "Orange Marmalade",
+      "Dark Chocolate",
+      "Coconut",
+      "Silky"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "21 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 21 Years in Oak Casks",
+    "servingSuggestion": "Neat, from its iconic ceramic flagon",
+    "controlledTags": [
+      "Spirits",
+      "Whisky",
+      "Royal Salute",
+      "Scotland",
+      "Premium",
+      "21 Years"
+    ],
+    "collections": [
+      "spirits",
+      "premium-collectable-spirits",
+      "scotch-whisky"
+    ],
+    "seoUrl": "/spirits/premium-collectable-spirits/royal-salute-21-year-old",
+    "description": "Created by Chivas Brothers in 1953 to mark Queen Elizabeth II's coronation, Royal Salute 21 Year Old is a complex, silky blend of orange marmalade, chocolate and coconut, presented in its iconic ceramic flagon.",
+    "shortDescription": "Created for the 1953 coronation — silky, complex, in an iconic flagon.",
+    "searchKeywords": "royal salute 21 year old blended scotch whisky scotland 40% 700ml orange marmalade chocolate coconut",
+    "badge": "Coronation Heritage",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "royal-salute-21-year-old-700ml-bottle",
+        "sku": "SPIRIT-PREM-006-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 379.99,
+        "stockLevel": 15,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "clase-azul-reposado-tequila",
+    "name": "Clase Azul Reposado Tequila",
+    "price": 249.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "premium-collectable-spirits",
+    "subcategory": "premium-collectable-spirits",
+    "brand": "Clase Azul",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "flavourProfile": [
+      "Caramel",
+      "Vanilla",
+      "Roasted Agave",
+      "Cinnamon"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "8 Months",
+    "vintage": "",
+    "caskMaturation": "Aged 8 Months in American Oak, Hand-Painted Ceramic Decanter",
+    "servingSuggestion": "Neat, in the iconic hand-painted ceramic decanter",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Clase Azul",
+      "Mexico",
+      "Reposado",
+      "Premium"
+    ],
+    "collections": [
+      "spirits",
+      "premium-collectable-spirits",
+      "tequila"
+    ],
+    "seoUrl": "/spirits/premium-collectable-spirits/clase-azul-reposado-tequila",
+    "description": "Aged eight months in American oak and presented in its iconic hand-painted Talavera-style ceramic decanter, Clase Azul Reposado is one of the most recognisable ultra-premium tequilas.",
+    "shortDescription": "Presented in its iconic hand-painted ceramic decanter.",
+    "searchKeywords": "clase azul reposado tequila mexico 40% 750ml caramel vanilla roasted agave ceramic decanter",
+    "badge": "Iconic Ceramic Decanter",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "clase-azul-reposado-tequila-750ml-bottle",
+        "sku": "SPIRIT-PREM-007-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 249.99,
+        "stockLevel": 15,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
