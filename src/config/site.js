@@ -78431,6 +78431,1883 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "jim-beam-white-label",
+    "name": "Jim Beam White Label",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Jim Beam",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Clermont, Kentucky",
+    "abv": "37.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Vanilla",
+      "Caramel",
+      "Oak",
+      "Light Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "4 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 4 Years in New Charred Oak",
+    "servingSuggestion": "Neat, on the rocks, or in a Whiskey Sour",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Jim Beam",
+      "USA"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/jim-beam-white-label",
+    "description": "The world's best-selling bourbon, Jim Beam White Label is aged four years for a smooth, approachable vanilla and caramel profile.",
+    "shortDescription": "The world's best-selling bourbon — smooth vanilla and caramel.",
+    "searchKeywords": "jim beam white label bourbon usa 37% 700ml vanilla caramel oak",
+    "badge": "World's #1 Bourbon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jim-beam-white-label-700ml-bottle",
+        "sku": "SPIRIT-BRBN-001-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "jim-beam-white-label-1l-bottle",
+        "sku": "SPIRIT-BRBN-001-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jim-beam-black-aged-7-years",
+    "name": "Jim Beam Black Aged 7 Years",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Jim Beam",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Clermont, Kentucky",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "Extra-Aged Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Rich Caramel",
+      "Vanilla",
+      "Toasted Oak",
+      "Warm Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "7 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 7 Years, Double-Charred Barrels",
+    "servingSuggestion": "Neat or on the rocks",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Jim Beam",
+      "USA",
+      "Extra-Aged"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/jim-beam-black-aged-7-years",
+    "description": "Extra-aged seven years in double-charred oak, Jim Beam Black is richer and more robust than White Label with deep caramel and toasted oak character.",
+    "shortDescription": "Extra-aged 7 years for deep caramel and toasted oak richness.",
+    "searchKeywords": "jim beam black aged 7 years bourbon usa 43% 700ml rich caramel vanilla oak",
+    "badge": "Extra-Aged",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jim-beam-black-aged-7-years-700ml-bottle",
+        "sku": "SPIRIT-BRBN-002-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jim-beam-devils-cut",
+    "name": "Jim Beam Devil's Cut",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Jim Beam",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Clermont, Kentucky",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "Extra-Aged Bourbon Blend",
+    "flavourProfile": [
+      "Intense Oak",
+      "Vanilla",
+      "Toffee",
+      "Bold Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "6 Years",
+    "vintage": "",
+    "caskMaturation": "Blended with Liquid Extracted from Spent Barrel Wood",
+    "servingSuggestion": "Neat or on the rocks",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Jim Beam",
+      "USA",
+      "90 Proof"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/jim-beam-devils-cut",
+    "description": "Bottled at 90 proof, Devil's Cut blends extra-aged Kentucky straight bourbon with liquid extracted from the barrel's charred wood for intense oak character.",
+    "shortDescription": "Bottled at 90 proof, with liquid extracted from charred barrel wood.",
+    "searchKeywords": "jim beam devils cut bourbon usa 45% 700ml intense oak vanilla toffee",
+    "badge": "90 Proof",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jim-beam-devils-cut-700ml-bottle",
+        "sku": "SPIRIT-BRBN-003-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "makers-mark",
+    "name": "Maker's Mark",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Maker's Mark",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Loretto, Kentucky",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Wheated Bourbon",
+    "styleOrVariety": "Handmade Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Caramel",
+      "Vanilla",
+      "Soft Wheat",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Air-Dried, Hand-Selected Oak Barrels",
+    "servingSuggestion": "Neat, on the rocks, or in an Old Fashioned",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Maker's Mark",
+      "USA",
+      "Wheated"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/makers-mark",
+    "description": "A wheated bourbon handmade in small batches in Loretto, Kentucky, using soft red winter wheat instead of rye for a distinctively smooth, caramel-forward profile.",
+    "shortDescription": "A handmade wheated bourbon, distinctively smooth and caramel-forward.",
+    "searchKeywords": "makers mark bourbon usa 40% 700ml caramel vanilla soft wheat",
+    "badge": "Handmade Wheated",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "makers-mark-700ml-bottle",
+        "sku": "SPIRIT-BRBN-004-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "makers-mark-46",
+    "name": "Maker's Mark 46",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Maker's Mark",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Loretto, Kentucky",
+    "abv": "47.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Finished Bourbon",
+    "styleOrVariety": "French Oak Finished Wheated Bourbon",
+    "flavourProfile": [
+      "Toasted Vanilla",
+      "Caramel",
+      "Spice",
+      "Rich Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Finished with Seared French Oak Staves",
+    "servingSuggestion": "Neat or on the rocks",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Maker's Mark",
+      "USA",
+      "Finished"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/makers-mark-46",
+    "description": "Original Maker's Mark returned to the barrel with seared French oak staves added, deepening the wheated bourbon into a richer, spicier expression.",
+    "shortDescription": "Original Maker's Mark finished with seared French oak staves.",
+    "searchKeywords": "makers mark 46 bourbon usa 47% 700ml toasted vanilla caramel spice oak",
+    "badge": "French Oak Finish",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "makers-mark-46-700ml-bottle",
+        "sku": "SPIRIT-BRBN-005-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bulleit-bourbon",
+    "name": "Bulleit Frontier Bourbon",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Bulleit",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Kentucky",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "High-Rye Bourbon",
+    "styleOrVariety": "High-Rye Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Maple",
+      "Nutmeg",
+      "Oak",
+      "Dry Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Charred American Oak",
+    "servingSuggestion": "Neat, on the rocks, or in a Manhattan",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Bulleit",
+      "USA",
+      "High-Rye"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/bulleit-bourbon",
+    "description": "A distinctive high-rye bourbon with gentle spiciness and sweet oak aromas, smooth mid-palate tones of maple and nutmeg, and a long, dry finish.",
+    "shortDescription": "A distinctive high-rye bourbon with maple, nutmeg and a long dry finish.",
+    "searchKeywords": "bulleit frontier bourbon usa 45% 700ml maple nutmeg oak dry spice",
+    "badge": "High-Rye",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bulleit-bourbon-700ml-bottle",
+        "sku": "SPIRIT-BRBN-006-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "woodford-reserve",
+    "name": "Woodford Reserve",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Woodford Reserve",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Versailles, Kentucky",
+    "abv": "43.2%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Vanilla",
+      "Toffee",
+      "Baking Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Triple Distilled, Aged in Charred Oak",
+    "servingSuggestion": "Neat, or the classic Kentucky Derby Mint Julep base",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Woodford Reserve",
+      "USA"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/woodford-reserve",
+    "description": "Triple distilled in copper pot stills at Kentucky's oldest and smallest distillery, Woodford Reserve is rich and complex with dried fruit and baking spice.",
+    "shortDescription": "Triple distilled at Kentucky's oldest and smallest distillery.",
+    "searchKeywords": "woodford reserve bourbon usa 43.2% 700ml dried fruit vanilla toffee spice",
+    "badge": "Kentucky Derby's Official Bourbon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "woodford-reserve-700ml-bottle",
+        "sku": "SPIRIT-BRBN-007-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "woodford-reserve-double-oaked",
+    "name": "Woodford Reserve Double Oaked",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Woodford Reserve",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Versailles, Kentucky",
+    "abv": "43.2%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Finished Bourbon",
+    "styleOrVariety": "Double Oaked Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Toasted Coconut",
+      "Vanilla",
+      "Rich Wood"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Finished in a Second, Deeply Toasted New Oak Barrel",
+    "servingSuggestion": "Neat or on the rocks",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Woodford Reserve",
+      "USA",
+      "Finished"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/woodford-reserve-double-oaked",
+    "description": "Woodford Reserve rested a second time in a deeply toasted new oak barrel, deepening the profile into dark caramel, toasted coconut and rich wood.",
+    "shortDescription": "Rested a second time in deeply toasted oak for dark caramel richness.",
+    "searchKeywords": "woodford reserve double oaked bourbon usa 43.2% 700ml dark caramel coconut vanilla",
+    "badge": "Double Oaked",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "woodford-reserve-double-oaked-700ml-bottle",
+        "sku": "SPIRIT-BRBN-008-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "wild-turkey-101",
+    "name": "Wild Turkey 101",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Wild Turkey",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Lawrenceburg, Kentucky",
+    "abv": "50.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "101 Proof Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Vanilla",
+      "Toffee",
+      "Charred Oak",
+      "Bold Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "6-8 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 6-8 Years in American Oak Barrels",
+    "servingSuggestion": "Neat, on the rocks, or in an Old Fashioned",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Wild Turkey",
+      "USA",
+      "101 Proof"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/wild-turkey-101",
+    "description": "Bottled at a bold 101 proof and aged 6 to 8 years, Wild Turkey 101 is a full-flavoured, high-proof bourbon prized by bartenders for cocktails.",
+    "shortDescription": "A bold, full-flavoured 101 proof bourbon prized by bartenders.",
+    "searchKeywords": "wild turkey 101 bourbon usa 50.5% 700ml vanilla toffee charred oak spice",
+    "badge": "101 Proof",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "wild-turkey-101-700ml-bottle",
+        "sku": "SPIRIT-BRBN-009-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "wild-turkey-rare-breed",
+    "name": "Wild Turkey Rare Breed",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Wild Turkey",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Lawrenceburg, Kentucky",
+    "abv": "58.4%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Barrel Proof / Cask Strength",
+    "styleOrVariety": "Barrel Proof Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Intense Caramel",
+      "Charred Oak",
+      "Cinnamon",
+      "Long Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Batch Blend, No Age Statement",
+    "vintage": "",
+    "caskMaturation": "Blend of 6, 8 & 12 Year Old Barrels, Uncut & Unfiltered",
+    "servingSuggestion": "Neat, with a few drops of water",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Wild Turkey",
+      "USA",
+      "Barrel Proof"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/wild-turkey-rare-breed",
+    "description": "A batch of 6, 8 and 12 year old barrels bottled uncut and unfiltered at barrel strength, Rare Breed delivers intense caramel and charred oak power (strength varies by batch, typically 108-112 proof).",
+    "shortDescription": "Uncut, unfiltered barrel strength — intense caramel and charred oak.",
+    "searchKeywords": "wild turkey rare breed bourbon usa 58.4% 700ml intense caramel charred oak cinnamon",
+    "badge": "Barrel Proof",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "wild-turkey-rare-breed-700ml-bottle",
+        "sku": "SPIRIT-BRBN-010-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "four-roses-small-batch",
+    "name": "Four Roses Small Batch",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Four Roses",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Lawrenceburg, Kentucky",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Small Batch",
+    "styleOrVariety": "Small Batch Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Ripe Fruit",
+      "Caramel",
+      "Spice",
+      "Mellow"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blend of 4 Distinct Bourbon Recipes",
+    "servingSuggestion": "Neat, on the rocks, or in a Manhattan",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Four Roses",
+      "USA",
+      "Small Batch"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/four-roses-small-batch",
+    "description": "A blend of four of Four Roses' ten distinct bourbon recipes, Small Batch is fuller-bodied and richer than the standard yellow label with ripe fruit and spice.",
+    "shortDescription": "A blend of four distinct recipes, fuller-bodied with ripe fruit and spice.",
+    "searchKeywords": "four roses small batch bourbon usa 45% 700ml ripe fruit caramel spice mellow",
+    "badge": "Small Batch Blend",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "four-roses-small-batch-700ml-bottle",
+        "sku": "SPIRIT-BRBN-011-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "four-roses-single-barrel",
+    "name": "Four Roses Single Barrel",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Four Roses",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Lawrenceburg, Kentucky",
+    "abv": "50.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Single Barrel",
+    "styleOrVariety": "Single Barrel Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Full-Bodied Fruit",
+      "Spice",
+      "Mellow Oak",
+      "Long Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Single Recipe, Single Barrel",
+    "servingSuggestion": "Neat, on the rocks, or in an Old Fashioned",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Four Roses",
+      "USA",
+      "Single Barrel"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/four-roses-single-barrel",
+    "description": "Bottled from a single barrel of Four Roses' most full-bodied recipe, this expression offers rich fruit and spice with a long, mellow finish.",
+    "shortDescription": "Bottled from a single barrel of Four Roses' most full-bodied recipe.",
+    "searchKeywords": "four roses single barrel bourbon usa 50% 700ml full bodied fruit spice mellow oak",
+    "badge": "Single Barrel",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "four-roses-single-barrel-700ml-bottle",
+        "sku": "SPIRIT-BRBN-012-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "elijah-craig-small-batch",
+    "name": "Elijah Craig Small Batch",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Elijah Craig",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Bardstown, Kentucky",
+    "abv": "47.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Small Batch",
+    "styleOrVariety": "Small Batch Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Vanilla",
+      "Toasted Oak",
+      "Nutmeg",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Charred New Oak Barrels",
+    "servingSuggestion": "Neat, on the rocks, or in an Old Fashioned",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Elijah Craig",
+      "USA",
+      "Small Batch"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/elijah-craig-small-batch",
+    "description": "Named for the Baptist minister often credited with inventing bourbon, Elijah Craig Small Batch is smooth and full-flavoured with vanilla and toasted oak.",
+    "shortDescription": "Named for the minister credited with inventing bourbon — smooth and full-flavoured.",
+    "searchKeywords": "elijah craig small batch bourbon usa 47% 700ml vanilla toasted oak nutmeg",
+    "badge": "Kentucky Icon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "elijah-craig-small-batch-700ml-bottle",
+        "sku": "SPIRIT-BRBN-013-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "buffalo-trace",
+    "name": "Buffalo Trace",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Buffalo Trace",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Frankfort, Kentucky",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Vanilla",
+      "Brown Sugar",
+      "Toffee",
+      "Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in New Charred American Oak",
+    "servingSuggestion": "Neat, on the rocks, or in an Old Fashioned",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Buffalo Trace",
+      "USA"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/buffalo-trace",
+    "description": "From one of America's oldest continuously operating distilleries, Buffalo Trace is a benchmark bourbon with vanilla, brown sugar and toffee depth.",
+    "shortDescription": "From one of America's oldest continuously operating distilleries.",
+    "searchKeywords": "buffalo trace bourbon usa 45% 700ml vanilla brown sugar toffee spice",
+    "badge": "Benchmark Bourbon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "buffalo-trace-700ml-bottle",
+        "sku": "SPIRIT-BRBN-014-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "blantons-original-private-reserve-single-barrel",
+    "name": "Blanton's Original Private Reserve Single Barrel",
+    "price": 119.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Blanton's",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Frankfort, Kentucky",
+    "abv": "46.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Single Barrel",
+    "styleOrVariety": "Single Barrel Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Caramel",
+      "Citrus Zest",
+      "Vanilla",
+      "Nutty Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Single Barrel, Warehouse H",
+    "servingSuggestion": "Neat, in its iconic horse-topped bottle",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Blanton's",
+      "USA",
+      "Single Barrel"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/blantons-original-private-reserve-single-barrel",
+    "description": "The original single barrel bourbon, hand-selected from Buffalo Trace's Warehouse H and presented in its iconic horse-topped bottle, with caramel and citrus zest character.",
+    "shortDescription": "The original single barrel bourbon, in its iconic horse-topped bottle.",
+    "searchKeywords": "blantons original private reserve single barrel bourbon usa 46.5% 700ml caramel citrus vanilla",
+    "badge": "The Original Single Barrel",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "blantons-original-private-reserve-single-barrel-700ml-bottle",
+        "sku": "SPIRIT-BRBN-015-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 119.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "blantons-single-barrel-gold-edition",
+    "name": "Blanton's Single Barrel Gold Edition",
+    "price": 149.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Blanton's",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Frankfort, Kentucky",
+    "abv": "51.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Single Barrel",
+    "styleOrVariety": "Single Barrel Kentucky Straight Bourbon (Export)",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Orange Peel",
+      "Toasted Oak",
+      "Rich Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Single Barrel, Higher Proof Export Edition",
+    "servingSuggestion": "Neat, in its iconic horse-topped bottle",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Blanton's",
+      "USA",
+      "Single Barrel",
+      "Gold Edition"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/blantons-single-barrel-gold-edition",
+    "description": "A higher-proof export edition of the original single barrel bourbon, bottled at 51.5% for a bolder, richer dark caramel and orange peel profile.",
+    "shortDescription": "A higher-proof export edition — bolder, richer dark caramel character.",
+    "searchKeywords": "blantons single barrel gold edition bourbon usa 51.5% 700ml dark caramel orange peel oak",
+    "badge": "Gold Edition Export",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "blantons-single-barrel-gold-edition-700ml-bottle",
+        "sku": "SPIRIT-BRBN-016-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 149.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "eagle-rare-10-year-old",
+    "name": "Eagle Rare 10 Year Old",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Eagle Rare",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Frankfort, Kentucky",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Single Barrel",
+    "styleOrVariety": "Single Barrel Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Toffee",
+      "Orange Peel",
+      "Toasted Oak",
+      "Honey"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "10 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 10 Years, Single Barrel",
+    "servingSuggestion": "Neat or on the rocks",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Eagle Rare",
+      "USA",
+      "Single Barrel",
+      "10 Years"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/eagle-rare-10-year-old",
+    "description": "A single barrel bourbon aged a full ten years from the Buffalo Trace Distillery, balanced with toffee, orange peel and toasted oak.",
+    "shortDescription": "A single barrel bourbon aged a full ten years from Buffalo Trace.",
+    "searchKeywords": "eagle rare 10 year old bourbon usa 45% 700ml toffee orange peel toasted oak honey",
+    "badge": "10 Year Single Barrel",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "eagle-rare-10-year-old-700ml-bottle",
+        "sku": "SPIRIT-BRBN-017-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "wl-weller-special-reserve",
+    "name": "W.L. Weller Special Reserve",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "W.L. Weller",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Frankfort, Kentucky",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Wheated Bourbon",
+    "styleOrVariety": "Original Wheated Bourbon",
+    "flavourProfile": [
+      "Caramel",
+      "Soft Wheat",
+      "Vanilla",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Wheat Substituted for Rye",
+    "servingSuggestion": "Neat, on the rocks, or in an Old Fashioned",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "W.L. Weller",
+      "USA",
+      "Wheated"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/wl-weller-special-reserve",
+    "description": "The original wheated bourbon that inspired Pappy Van Winkle, substituting wheat for rye for an exceptionally smooth 90 proof pour.",
+    "shortDescription": "The original wheated bourbon that inspired Pappy Van Winkle.",
+    "searchKeywords": "wl weller special reserve bourbon usa 45% 750ml caramel soft wheat vanilla smooth",
+    "badge": "Original Wheated Bourbon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "wl-weller-special-reserve-750ml-bottle",
+        "sku": "SPIRIT-BRBN-018-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "wl-weller-12-year-old",
+    "name": "W.L. Weller 12 Year Old",
+    "price": 149.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "W.L. Weller",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Frankfort, Kentucky",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Wheated Bourbon",
+    "styleOrVariety": "Aged Wheated Bourbon",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Dried Fruit",
+      "Toasted Oak",
+      "Honeyed Wheat"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "12 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 12 Years, Wheat Substituted for Rye",
+    "servingSuggestion": "Neat or on the rocks",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "W.L. Weller",
+      "USA",
+      "Wheated",
+      "12 Years"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/wl-weller-12-year-old",
+    "description": "A 12-year-aged wheated bourbon from the Weller line, award-winning for its dark caramel, dried fruit and honeyed wheat character.",
+    "shortDescription": "A 12-year-aged, award-winning wheated bourbon.",
+    "searchKeywords": "wl weller 12 year old bourbon usa 45% 750ml dark caramel dried fruit toasted oak",
+    "badge": "Award-Winning 12 Year",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "wl-weller-12-year-old-750ml-bottle",
+        "sku": "SPIRIT-BRBN-019-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 149.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "old-forester-86-proof",
+    "name": "Old Forester 86 Proof",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Old Forester",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Louisville, Kentucky",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "1L",
+    "packSize": "1L Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Brown Sugar",
+      "Vanilla",
+      "Mild Oak",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Charred New Oak",
+    "servingSuggestion": "Neat, on the rocks, or in a classic cocktail",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Old Forester",
+      "USA"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/old-forester-86-proof",
+    "description": "America's first bottled bourbon, Old Forester Classic 86 Proof delivers a genuine, smooth bourbon character ideal for sipping or classic cocktails.",
+    "shortDescription": "America's first bottled bourbon — genuine and smooth.",
+    "searchKeywords": "old forester 86 proof bourbon usa 43% 1l brown sugar vanilla mild oak",
+    "badge": "America's First Bottled Bourbon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "old-forester-86-proof-1l-bottle",
+        "sku": "SPIRIT-BRBN-020-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "old-forester-100-proof",
+    "name": "Old Forester Signature 100 Proof",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Old Forester",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Louisville, Kentucky",
+    "abv": "50.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "1L",
+    "packSize": "1L Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Caramel",
+      "Baking Spice",
+      "Oak",
+      "Bold"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Charred New Oak",
+    "servingSuggestion": "Neat, on the rocks, or in a bartender-favourite Old Fashioned",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Old Forester",
+      "USA",
+      "100 Proof"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/old-forester-100-proof",
+    "description": "A bartender favourite at a bold 100 proof, Old Forester Signature layers caramel and baking spice over a robust oak backbone.",
+    "shortDescription": "A bartender favourite at a bold 100 proof.",
+    "searchKeywords": "old forester signature 100 proof bourbon usa 50% 1l caramel baking spice oak",
+    "badge": "Bartender's Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "old-forester-100-proof-1l-bottle",
+        "sku": "SPIRIT-BRBN-021-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "old-forester-1920-prohibition-style",
+    "name": "Old Forester 1920 Prohibition Style",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Old Forester",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Louisville, Kentucky",
+    "abv": "57.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Barrel Proof / Cask Strength",
+    "styleOrVariety": "High-Proof Straight Bourbon",
+    "flavourProfile": [
+      "Rich Dark Fruit",
+      "Cocoa",
+      "Oak Char",
+      "Warming Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Charred New Oak, No Chill Filtration",
+    "servingSuggestion": "Neat, with a few drops of water",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Old Forester",
+      "USA",
+      "High Proof"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/old-forester-1920-prohibition-style",
+    "description": "Honouring the era when Old Forester was one of only six distilleries licensed to produce medicinal whiskey during Prohibition, bottled at a rich 115 proof.",
+    "shortDescription": "Honouring Old Forester's Prohibition-era medicinal whiskey licence.",
+    "searchKeywords": "old forester 1920 prohibition style bourbon usa 57.5% 750ml rich dark fruit cocoa oak char",
+    "badge": "Prohibition Heritage",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "old-forester-1920-prohibition-style-750ml-bottle",
+        "sku": "SPIRIT-BRBN-022-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "knob-creek-small-batch",
+    "name": "Knob Creek Small Batch",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Knob Creek",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Clermont, Kentucky",
+    "abv": "50.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Small Batch",
+    "styleOrVariety": "Small Batch Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Robust Oak",
+      "Caramel",
+      "Nutmeg",
+      "Full-Bodied"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "9 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 9 Years in Charred Oak",
+    "servingSuggestion": "Neat, on the rocks, or in a Manhattan",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Knob Creek",
+      "USA",
+      "Small Batch",
+      "9 Years"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/knob-creek-small-batch",
+    "description": "Aged nine years for a full-bodied, robust character, Knob Creek Small Batch was built to recall pre-Prohibition era bourbon strength and flavour.",
+    "shortDescription": "Aged nine years for a full-bodied, robust, pre-Prohibition style.",
+    "searchKeywords": "knob creek small batch bourbon usa 50% 700ml robust oak caramel nutmeg full bodied",
+    "badge": "9 Year Full-Bodied",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "knob-creek-small-batch-700ml-bottle",
+        "sku": "SPIRIT-BRBN-023-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "knob-creek-single-barrel-reserve",
+    "name": "Knob Creek Single Barrel Reserve",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Knob Creek",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Clermont, Kentucky",
+    "abv": "60.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Single Barrel",
+    "styleOrVariety": "Single Barrel Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Bold Caramel",
+      "Charred Oak",
+      "Black Pepper",
+      "Intense"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "9 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 9 Years, Single Barrel, 120 Proof",
+    "servingSuggestion": "Neat, with a few drops of water",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Knob Creek",
+      "USA",
+      "Single Barrel",
+      "9 Years"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/knob-creek-single-barrel-reserve",
+    "description": "Bottled at a bold 120 proof from a single barrel aged nine years, delivering intense bold caramel and charred oak character for serious bourbon drinkers.",
+    "shortDescription": "Bottled at 120 proof from a single 9-year barrel — intense and bold.",
+    "searchKeywords": "knob creek single barrel reserve bourbon usa 60% 700ml bold caramel charred oak pepper",
+    "badge": "120 Proof Single Barrel",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "knob-creek-single-barrel-reserve-700ml-bottle",
+        "sku": "SPIRIT-BRBN-024-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bakers-7-year-old",
+    "name": "Baker's 7 Year Old",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Baker's",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Clermont, Kentucky",
+    "abv": "53.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Single Barrel",
+    "styleOrVariety": "Single Barrel Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Toasted Oak",
+      "Vanilla",
+      "Dried Fruit",
+      "Bold Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "7 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 7 Years, Single Barrel, 107 Proof",
+    "servingSuggestion": "Neat or on the rocks",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Baker's",
+      "USA",
+      "Single Barrel",
+      "7 Years"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/bakers-7-year-old",
+    "description": "A 107 proof single barrel bourbon from the Jim Beam small batch collection, aged seven years for bold toasted oak and dried fruit character.",
+    "shortDescription": "A 107 proof single barrel bourbon, aged seven years.",
+    "searchKeywords": "bakers 7 year old bourbon usa 53.5% 750ml toasted oak vanilla dried fruit spice",
+    "badge": "107 Proof Single Barrel",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bakers-7-year-old-750ml-bottle",
+        "sku": "SPIRIT-BRBN-025-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "basil-haydens-kentucky-straight-bourbon",
+    "name": "Basil Hayden's Kentucky Straight Bourbon",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Basil Hayden's",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Clermont, Kentucky",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "Light-Bodied Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Light Pepper Spice",
+      "Citrus",
+      "Honey",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Charred New Oak, Lower Rye Mash Bill",
+    "servingSuggestion": "Neat, on the rocks, or in a light Old Fashioned",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Basil Hayden's",
+      "USA"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/basil-haydens-kentucky-straight-bourbon",
+    "description": "A light-bodied, approachable Kentucky straight bourbon with gentle pepper spice and honeyed citrus, part of the Jim Beam small batch collection.",
+    "shortDescription": "A light-bodied, approachable bourbon with gentle pepper spice.",
+    "searchKeywords": "basil haydens kentucky straight bourbon usa 40% 700ml light pepper spice citrus honey",
+    "badge": "Light-Bodied Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "basil-haydens-kentucky-straight-bourbon-700ml-bottle",
+        "sku": "SPIRIT-BRBN-026-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "russells-reserve-10-year-old",
+    "name": "Russell's Reserve 10 Year Old",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Russell's Reserve",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Lawrenceburg, Kentucky",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Straight Bourbon",
+    "styleOrVariety": "Aged Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Rich Caramel",
+      "Vanilla",
+      "Toasted Oak",
+      "Smooth Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "10 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 10 Years, 90 Proof",
+    "servingSuggestion": "Neat or on the rocks",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Russell's Reserve",
+      "Wild Turkey",
+      "USA",
+      "10 Years"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/russells-reserve-10-year-old",
+    "description": "Crafted by Master Distillers Jimmy and Eddie Russell with nearly a century of combined experience, this 10 year old bourbon is rich with caramel and vanilla for a uniquely smooth finish.",
+    "shortDescription": "Crafted by Wild Turkey's father-son Master Distillers — rich and smooth.",
+    "searchKeywords": "russells reserve 10 year old bourbon usa 45% 750ml rich caramel vanilla toasted oak",
+    "badge": "Master Distiller Series",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "russells-reserve-10-year-old-750ml-bottle",
+        "sku": "SPIRIT-BRBN-027-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "russells-reserve-single-barrel",
+    "name": "Russell's Reserve Single Barrel",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "bourbon",
+    "subcategory": "bourbon",
+    "brand": "Russell's Reserve",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Lawrenceburg, Kentucky",
+    "abv": "55.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Single Barrel",
+    "styleOrVariety": "Single Barrel Kentucky Straight Bourbon",
+    "flavourProfile": [
+      "Bold Caramel",
+      "Dark Cherry",
+      "Charred Oak",
+      "Long Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Single Barrel, Higher Proof",
+    "servingSuggestion": "Neat, with a few drops of water",
+    "controlledTags": [
+      "Spirits",
+      "Bourbon",
+      "Russell's Reserve",
+      "Wild Turkey",
+      "USA",
+      "Single Barrel"
+    ],
+    "collections": [
+      "spirits",
+      "bourbon"
+    ],
+    "seoUrl": "/spirits/bourbon/russells-reserve-single-barrel",
+    "description": "A higher-proof single barrel expression from the Russell family, bottled bold with dark cherry and charred oak intensity.",
+    "shortDescription": "A higher-proof single barrel bourbon from the Russell family.",
+    "searchKeywords": "russells reserve single barrel bourbon usa 55% 700ml bold caramel dark cherry charred oak",
+    "badge": "Single Barrel",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "russells-reserve-single-barrel-700ml-bottle",
+        "sku": "SPIRIT-BRBN-028-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
