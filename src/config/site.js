@@ -75939,6 +75939,2014 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "cynar-carciofo-aperitivo",
+    "name": "Cynar Carciofo Aperitivo",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Cynar",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Padua, Veneto",
+    "abv": "16.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Aperitif",
+    "styleOrVariety": "Artichoke Bitter Aperitivo",
+    "baseSpirit": "Artichoke & 13 Herbs",
+    "flavourProfile": [
+      "Artichoke",
+      "Bittersweet",
+      "Herbal",
+      "Earthy"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "On ice, with soda, or in a Cynar Spritz",
+    "controlledTags": [
+      "Spirits",
+      "Aperitif",
+      "Cynar",
+      "Italy"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "aperitif"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/cynar-carciofo-aperitivo",
+    "description": "An earthy, bittersweet Italian aperitivo infused with artichoke and 13 herbs and plants, a bartender favourite for its distinctive vegetal complexity.",
+    "shortDescription": "An earthy, bittersweet aperitivo infused with artichoke and 13 herbs.",
+    "searchKeywords": "cynar carciofo aperitivo italy 16.5% 700ml artichoke bittersweet herbal",
+    "badge": "Bartender's Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "cynar-carciofo-aperitivo-700ml-bottle",
+        "sku": "SPIRIT-APDIG-001-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "select-aperitivo",
+    "name": "Select Aperitivo",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Select",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Venice",
+    "abv": "17.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Aperitif",
+    "styleOrVariety": "Venetian Bitter Aperitivo",
+    "baseSpirit": "30 Botanicals",
+    "flavourProfile": [
+      "Bitter Orange",
+      "Juniper",
+      "Rhubarb",
+      "Balanced"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "In a classic Venetian Spritz with prosecco and soda",
+    "controlledTags": [
+      "Spirits",
+      "Aperitif",
+      "Select",
+      "Italy",
+      "Venice"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "aperitif"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/select-aperitivo",
+    "description": "The original bitter used in Venice's first spritz, Select blends 30 botanicals including juniper and rhubarb for a balanced, less sweet alternative to Aperol.",
+    "shortDescription": "The original bitter behind Venice's first spritz.",
+    "searchKeywords": "select aperitivo venice italy 17.5% 700ml bitter orange juniper rhubarb",
+    "badge": "Original Venetian Spritz",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "select-aperitivo-700ml-bottle",
+        "sku": "SPIRIT-APDIG-002-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "martini-rosso-sweet-vermouth",
+    "name": "Martini Rosso Sweet Vermouth",
+    "price": 24.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Martini",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Turin",
+    "abv": "15.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Sweet Red Vermouth",
+    "baseSpirit": "Wine, Wormwood & Botanicals",
+    "flavourProfile": [
+      "Caramel",
+      "Vanilla",
+      "Herbal",
+      "Sweet Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "On ice, in a Negroni or Manhattan",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Martini",
+      "Italy",
+      "Sweet"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/martini-rosso-sweet-vermouth",
+    "description": "The world's best-known sweet vermouth, Martini Rosso blends wine with wormwood and botanicals for caramel and vanilla warmth — essential for a Negroni or Manhattan.",
+    "shortDescription": "The world's best-known sweet vermouth — essential for a Negroni.",
+    "searchKeywords": "martini rosso sweet vermouth italy 15% 750ml caramel vanilla herbal",
+    "badge": "Negroni Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "martini-rosso-sweet-vermouth-750ml-bottle",
+        "sku": "SPIRIT-APDIG-003-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 24.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "martini-rosso-sweet-vermouth-1l-bottle",
+        "sku": "SPIRIT-APDIG-003-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 29.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "martini-bianco-vermouth",
+    "name": "Martini Bianco Vermouth",
+    "price": 24.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Martini",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Turin",
+    "abv": "15.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Sweet White Vermouth",
+    "baseSpirit": "Wine, Vanilla & Botanicals",
+    "flavourProfile": [
+      "Vanilla",
+      "Honey",
+      "Floral",
+      "Soft Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "On ice with soda, or in a White Negroni",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Martini",
+      "Italy",
+      "White"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/martini-bianco-vermouth",
+    "description": "A softer, sweeter white vermouth with vanilla and honeyed floral notes, easy to enjoy on ice with soda or in a White Negroni.",
+    "shortDescription": "A softer, sweeter white vermouth with vanilla and honeyed florals.",
+    "searchKeywords": "martini bianco vermouth italy 15% 750ml vanilla honey floral",
+    "badge": "Easy Sipping",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "martini-bianco-vermouth-750ml-bottle",
+        "sku": "SPIRIT-APDIG-004-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 24.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "martini-bianco-vermouth-1l-bottle",
+        "sku": "SPIRIT-APDIG-004-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 29.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "martini-extra-dry-vermouth",
+    "name": "Martini Extra Dry Vermouth",
+    "price": 24.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Martini",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Turin",
+    "abv": "15.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Dry Vermouth",
+    "baseSpirit": "Wine & Botanicals",
+    "flavourProfile": [
+      "Herbal",
+      "Citrus",
+      "Crisp",
+      "Dry"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "The classic Martini cocktail base",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Martini",
+      "Italy",
+      "Dry"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/martini-extra-dry-vermouth",
+    "description": "The classic dry vermouth for a Martini cocktail, crisp and herbal with bright citrus character.",
+    "shortDescription": "The classic dry vermouth for a Martini cocktail.",
+    "searchKeywords": "martini extra dry vermouth italy 15% 750ml herbal citrus crisp",
+    "badge": "Classic Martini Base",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "martini-extra-dry-vermouth-750ml-bottle",
+        "sku": "SPIRIT-APDIG-005-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 24.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "cocchi-vermouth-di-torino",
+    "name": "Cocchi Storico Vermouth di Torino",
+    "price": 39.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Cocchi",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Turin",
+    "abv": "16.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Sweet Turin-Style Vermouth",
+    "baseSpirit": "Wine, Wormwood & Rhubarb",
+    "flavourProfile": [
+      "Rhubarb",
+      "Cocoa",
+      "Dried Fruit",
+      "Aromatic"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Neat, on ice, or in a Boulevardier",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Cocchi",
+      "Italy",
+      "Turin"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/cocchi-vermouth-di-torino",
+    "description": "Consistently ranked among the world's best vermouths by Drinks International, Cocchi's historic Turin-style vermouth is aromatic and complex with rhubarb and cocoa depth.",
+    "shortDescription": "Consistently ranked among the world's best vermouths.",
+    "searchKeywords": "cocchi storico vermouth di torino italy 16% 750ml rhubarb cocoa dried fruit",
+    "badge": "World's Best Vermouth",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "cocchi-vermouth-di-torino-750ml-bottle",
+        "sku": "SPIRIT-APDIG-006-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 39.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "cocchi-americano",
+    "name": "Cocchi Americano Bianco",
+    "price": 44.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Cocchi",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Turin",
+    "abv": "16.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Aperitif",
+    "styleOrVariety": "Quinine Aperitif Wine",
+    "baseSpirit": "Wine, Cinchona Bark & Citrus",
+    "flavourProfile": [
+      "Quinine Bitterness",
+      "Citrus",
+      "Honey",
+      "Floral"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "The classic Vesper Martini ingredient, or with soda",
+    "controlledTags": [
+      "Spirits",
+      "Aperitif",
+      "Cocchi",
+      "Italy"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "aperitif"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/cocchi-americano",
+    "description": "A quinine-based aperitif wine famous as the original Kina Lillet substitute in the Vesper Martini, with bright citrus and gentle bitterness.",
+    "shortDescription": "Famous as the classic Vesper Martini ingredient.",
+    "searchKeywords": "cocchi americano bianco aperitif italy 16.5% 750ml quinine citrus honey",
+    "badge": "Vesper Martini Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "cocchi-americano-750ml-bottle",
+        "sku": "SPIRIT-APDIG-007-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 44.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "carpano-antica-sweet-vermouth",
+    "name": "Carpano Antica Formula Sweet Vermouth",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Carpano",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Turin",
+    "abv": "16.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Sweet Vermouth",
+    "baseSpirit": "Wine, Vanilla & Botanicals",
+    "flavourProfile": [
+      "Vanilla",
+      "Dried Fruit",
+      "Warm Spice",
+      "Rich"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "In a Manhattan or sipped on ice",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Carpano",
+      "Italy",
+      "Sweet"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/carpano-antica-sweet-vermouth",
+    "description": "First created in 1786 by infusing white wines from Romagna, Puglia and Sicily with herbs and spices, prominently vanilla — a bartender's benchmark sweet vermouth.",
+    "shortDescription": "First created in 1786 — a bartender's benchmark sweet vermouth.",
+    "searchKeywords": "carpano antica formula sweet vermouth italy 16.5% 750ml vanilla dried fruit spice",
+    "badge": "Since 1786",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "carpano-antica-sweet-vermouth-750ml-bottle",
+        "sku": "SPIRIT-APDIG-008-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "carpano-punt-e-mes",
+    "name": "Carpano Punt e Mes",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Carpano",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Turin",
+    "abv": "16.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Bitter Sweet Vermouth",
+    "baseSpirit": "Wine, Wormwood & Bitter Botanicals",
+    "flavourProfile": [
+      "Dark Bitter",
+      "Orange Peel",
+      "Caramel",
+      "Complex"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "On ice, or in place of sweet vermouth for extra bitterness",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Carpano",
+      "Italy",
+      "Bitter"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/carpano-punt-e-mes",
+    "description": "Dark brown and bittersweet, Punt e Mes is 'one point' bitterness to 'half a point' sweetness — a complex vermouth prized by bartenders for extra depth.",
+    "shortDescription": "A complex, dark bittersweet vermouth prized by bartenders.",
+    "searchKeywords": "carpano punt e mes vermouth italy 16% 750ml dark bitter orange peel caramel",
+    "badge": "Bartender's Depth",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "carpano-punt-e-mes-750ml-bottle",
+        "sku": "SPIRIT-APDIG-009-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "noilly-prat-dry-vermouth",
+    "name": "Noilly Prat Original French Dry Vermouth",
+    "price": 29.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Noilly Prat",
+    "countryOfOrigin": "France",
+    "regionOrState": "Marseillan",
+    "abv": "18.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Dry Vermouth",
+    "baseSpirit": "Wine, Sun-Aged in Oak",
+    "flavourProfile": [
+      "Herbal",
+      "Saline",
+      "Dry Citrus",
+      "Complex"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Sun-Matured in Oak Barrels Outdoors",
+    "servingSuggestion": "The classic dry Martini vermouth",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Noilly Prat",
+      "France",
+      "Dry"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/noilly-prat-dry-vermouth",
+    "description": "The archetype of dry, straw-coloured French vermouth, sun-matured outdoors in oak barrels for a distinctive saline, herbal complexity.",
+    "shortDescription": "The archetype of dry French vermouth, sun-matured outdoors.",
+    "searchKeywords": "noilly prat original french dry vermouth france 18% 750ml herbal saline citrus",
+    "badge": "Archetype Dry Vermouth",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "noilly-prat-dry-vermouth-750ml-bottle",
+        "sku": "SPIRIT-APDIG-010-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 29.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "noilly-prat-vermouth-rouge",
+    "name": "Noilly Prat Vermouth Rouge",
+    "price": 29.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Noilly Prat",
+    "countryOfOrigin": "France",
+    "regionOrState": "Marseillan",
+    "abv": "16.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Sweet Red Vermouth",
+    "baseSpirit": "Wine & Botanicals",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Cocoa",
+      "Warm Spice",
+      "Rich"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "In a Manhattan or Negroni",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Noilly Prat",
+      "France",
+      "Red"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/noilly-prat-vermouth-rouge",
+    "description": "Introduced by Noilly Prat as their red vermouth expression, rich with dried fruit and cocoa depth alongside their classic French style.",
+    "shortDescription": "Noilly Prat's rich red vermouth expression.",
+    "searchKeywords": "noilly prat vermouth rouge france 16% 375ml dried fruit cocoa spice",
+    "badge": "French Red Vermouth",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "noilly-prat-vermouth-rouge-375ml-bottle",
+        "sku": "SPIRIT-APDIG-011-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 29.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "dolin-rouge-vermouth",
+    "name": "Dolin Rouge Vermouth",
+    "price": 34.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Dolin",
+    "countryOfOrigin": "France",
+    "regionOrState": "Chambéry",
+    "abv": "16.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Vermouth de Chambéry Rouge",
+    "baseSpirit": "Alpine Wine & Botanicals",
+    "flavourProfile": [
+      "Dried Cherry",
+      "Alpine Herbs",
+      "Mild Spice",
+      "Balanced"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "In a lighter-style Manhattan or Negroni",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Dolin",
+      "France",
+      "Chambery"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/dolin-rouge-vermouth",
+    "description": "One of the last producers of true Vermouth de Chambéry — France's only Appellation d'Origine for vermouth — Dolin Rouge is lighter and more balanced than Italian styles.",
+    "shortDescription": "True Vermouth de Chambéry, lighter and more balanced than Italian styles.",
+    "searchKeywords": "dolin rouge vermouth de chambery france 16% 750ml dried cherry alpine herbs",
+    "badge": "Vermouth de Chambéry AOC",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "dolin-rouge-vermouth-750ml-bottle",
+        "sku": "SPIRIT-APDIG-012-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 34.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "dolin-blanc-vermouth",
+    "name": "Dolin Blanc Vermouth",
+    "price": 34.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Dolin",
+    "countryOfOrigin": "France",
+    "regionOrState": "Chambéry",
+    "abv": "16.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Vermouth de Chambéry Blanc",
+    "baseSpirit": "Alpine Wine & Botanicals",
+    "flavourProfile": [
+      "Alpine Flowers",
+      "Honey",
+      "Soft Spice",
+      "Delicate"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Chilled on its own, or in a Chrysanthemum cocktail",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Dolin",
+      "France",
+      "Chambery",
+      "Blanc"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/dolin-blanc-vermouth",
+    "description": "A delicate, floral Vermouth de Chambéry Blanc with alpine flower and honey character, elegant enough to sip chilled on its own.",
+    "shortDescription": "A delicate, floral Vermouth de Chambéry, elegant enough to sip alone.",
+    "searchKeywords": "dolin blanc vermouth de chambery france 16% 700ml alpine flowers honey",
+    "badge": "Vermouth de Chambéry AOC",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "dolin-blanc-vermouth-700ml-bottle",
+        "sku": "SPIRIT-APDIG-013-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 34.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "dolin-dry-vermouth",
+    "name": "Dolin Dry Vermouth",
+    "price": 34.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Dolin",
+    "countryOfOrigin": "France",
+    "regionOrState": "Chambéry",
+    "abv": "17.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Vermouth",
+    "styleOrVariety": "Vermouth de Chambéry Dry",
+    "baseSpirit": "Alpine Wine & Botanicals",
+    "flavourProfile": [
+      "Alpine Herbs",
+      "Citrus",
+      "Crisp",
+      "Light"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "A lighter alternative for a delicate dry Martini",
+    "controlledTags": [
+      "Spirits",
+      "Vermouth",
+      "Dolin",
+      "France",
+      "Chambery",
+      "Dry"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "vermouth"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/dolin-dry-vermouth",
+    "description": "A lighter, more delicate dry vermouth than the Italian style, favoured by bartenders wanting a softer dry Martini.",
+    "shortDescription": "A lighter, more delicate dry vermouth for a softer dry Martini.",
+    "searchKeywords": "dolin dry vermouth de chambery france 17.5% 750ml alpine herbs citrus crisp",
+    "badge": "Vermouth de Chambéry AOC",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "dolin-dry-vermouth-750ml-bottle",
+        "sku": "SPIRIT-APDIG-014-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 34.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fernet-branca",
+    "name": "Fernet-Branca",
+    "price": 54.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Fernet-Branca",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Milan",
+    "abv": "39.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Digestif",
+    "styleOrVariety": "Bitter Herbal Digestif",
+    "baseSpirit": "27 Herbs & Spices",
+    "flavourProfile": [
+      "Menthol",
+      "Bitter Herbs",
+      "Saffron",
+      "Intensely Bitter"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Chilled as a shot, or with cola (a \"Fernet and Coke\")",
+    "controlledTags": [
+      "Spirits",
+      "Digestif",
+      "Fernet Branca",
+      "Italy",
+      "Bitter"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "digestif"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/fernet-branca",
+    "description": "An intensely bitter Milanese digestif made from 27 herbs and spices including saffron, a bartender's secret weapon since 1845.",
+    "shortDescription": "An intensely bitter Milanese digestif — a bartender's secret weapon.",
+    "searchKeywords": "fernet branca digestif italy 39% 700ml menthol bitter herbs saffron",
+    "badge": "Bartender's Handshake",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fernet-branca-700ml-bottle",
+        "sku": "SPIRIT-APDIG-015-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 54.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "averna-amaro-siciliano",
+    "name": "Averna Amaro Siciliano",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Averna",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Caltanissetta, Sicily",
+    "abv": "29.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Amaro",
+    "styleOrVariety": "Sicilian Amaro",
+    "baseSpirit": "Herbs, Roots & Citrus Peel",
+    "flavourProfile": [
+      "Bitter Orange",
+      "Caramel",
+      "Herbal",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Neat, on ice, or with soda as a digestif",
+    "controlledTags": [
+      "Spirits",
+      "Amaro",
+      "Averna",
+      "Italy",
+      "Sicily"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "amaro"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/averna-amaro-siciliano",
+    "description": "Invented in Caltanissetta, Sicily in 1868 by Salvatore Averna, this smooth, caramel-toned amaro is one of Italy's most recognisable digestifs.",
+    "shortDescription": "A smooth, caramel-toned Sicilian amaro since 1868.",
+    "searchKeywords": "averna amaro siciliano italy 29% 700ml bitter orange caramel herbal",
+    "badge": "Since 1868",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "averna-amaro-siciliano-700ml-bottle",
+        "sku": "SPIRIT-APDIG-016-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "amaro-montenegro",
+    "name": "Amaro Montenegro",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Montenegro",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Bologna",
+    "abv": "23.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Amaro",
+    "styleOrVariety": "Bologna-Style Amaro ('Liqueur of the Virtues')",
+    "baseSpirit": "40 Herbs, Roots & Fruits",
+    "flavourProfile": [
+      "Orange Peel",
+      "Vanilla",
+      "Spice",
+      "Balanced"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Neat, on ice, or in a Montenegroni",
+    "controlledTags": [
+      "Spirits",
+      "Amaro",
+      "Montenegro",
+      "Italy",
+      "Bologna"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "amaro"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/amaro-montenegro",
+    "description": "Known as 'the liqueur of the virtues' since 1885, Amaro Montenegro blends 40 herbs, roots and fruits into a balanced, approachable amaro.",
+    "shortDescription": "Known as 'the liqueur of the virtues' since 1885.",
+    "searchKeywords": "amaro montenegro italy 23% 700ml orange peel vanilla spice balanced",
+    "badge": "Liqueur of the Virtues",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "amaro-montenegro-700ml-bottle",
+        "sku": "SPIRIT-APDIG-017-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "amaro-lucano",
+    "name": "Amaro Lucano",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Lucano",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Basilicata",
+    "abv": "28.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Amaro",
+    "styleOrVariety": "Southern Italian Amaro",
+    "baseSpirit": "Herbs & Roots",
+    "flavourProfile": [
+      "Bitter Herbs",
+      "Citrus",
+      "Liquorice",
+      "Rounded"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Neat or on ice as a classic Italian digestif",
+    "controlledTags": [
+      "Spirits",
+      "Amaro",
+      "Lucano",
+      "Italy",
+      "Basilicata"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "amaro"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/amaro-lucano",
+    "description": "A family-run amaro from Basilicata in southern Italy since 1894, rounded and herbal with a classic liquorice-touched bitterness.",
+    "shortDescription": "A family-run southern Italian amaro since 1894.",
+    "searchKeywords": "amaro lucano italy basilicata 28% 700ml bitter herbs citrus liquorice",
+    "badge": "Since 1894",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "amaro-lucano-700ml-bottle",
+        "sku": "SPIRIT-APDIG-018-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "ramazzotti-amaro",
+    "name": "Ramazzotti Amaro",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Ramazzotti",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Milan",
+    "abv": "30.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Amaro",
+    "styleOrVariety": "Milanese Amaro",
+    "baseSpirit": "33 Herbs, Roots & Citrus Peels",
+    "flavourProfile": [
+      "Orange Peel",
+      "Anise",
+      "Bitter Herbs",
+      "Warm"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Neat, on ice, or with cola",
+    "controlledTags": [
+      "Spirits",
+      "Amaro",
+      "Ramazzotti",
+      "Italy",
+      "Milan"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "amaro"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/ramazzotti-amaro",
+    "description": "One of Italy's original amari, dating to 1815, Ramazzotti infuses 33 herbs, roots and citrus peels into a warm, orange-forward digestif.",
+    "shortDescription": "One of Italy's original amari, dating to 1815.",
+    "searchKeywords": "ramazzotti amaro italy milan 30% 700ml orange peel anise bitter herbs",
+    "badge": "Since 1815",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "ramazzotti-amaro-700ml-bottle",
+        "sku": "SPIRIT-APDIG-019-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "strega-liquore",
+    "name": "Strega Liquore",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Strega",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Benevento, Campania",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Herbal Liqueur",
+    "styleOrVariety": "Saffron Herbal Liqueur",
+    "baseSpirit": "70 Herbs & Spices Including Saffron",
+    "flavourProfile": [
+      "Saffron",
+      "Mint",
+      "Juniper",
+      "Vivid Yellow"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Chilled neat, or over vanilla gelato",
+    "controlledTags": [
+      "Spirits",
+      "Herbal Liqueur",
+      "Strega",
+      "Italy",
+      "Campania"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "herbal-liqueur"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/strega-liquore",
+    "description": "A vibrant yellow herbal liqueur from Benevento distilled from 70 botanicals including Ceylon cinnamon, Florentine iris and saffron since 1860.",
+    "shortDescription": "A vibrant yellow, saffron-infused herbal liqueur since 1860.",
+    "searchKeywords": "strega liquore herbal liqueur italy 40% 700ml saffron mint juniper yellow",
+    "badge": "Since 1860",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "strega-liquore-700ml-bottle",
+        "sku": "SPIRIT-APDIG-020-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "chartreuse-verte",
+    "name": "Chartreuse Verte",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Chartreuse",
+    "countryOfOrigin": "France",
+    "regionOrState": "Voiron",
+    "abv": "55.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Herbal Liqueur",
+    "styleOrVariety": "Green Herbal Liqueur",
+    "baseSpirit": "130 Herbs, Plants & Flowers",
+    "flavourProfile": [
+      "Intense Herbal",
+      "Menthol",
+      "Alpine Botanicals",
+      "Bold"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Chilled neat, or as the base of a Last Word",
+    "controlledTags": [
+      "Spirits",
+      "Herbal Liqueur",
+      "Chartreuse",
+      "France",
+      "Green"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "herbal-liqueur"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/chartreuse-verte",
+    "description": "Made by Carthusian monks from a secret recipe of 130 plants since 1764, Green Chartreuse is bold, intensely herbal, and the essential base of a Last Word.",
+    "shortDescription": "Made by monks from a secret 130-plant recipe since 1764.",
+    "searchKeywords": "chartreuse verte green herbal liqueur france 55% 700ml intense herbal menthol",
+    "badge": "Monks' Secret Recipe",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "chartreuse-verte-700ml-bottle",
+        "sku": "SPIRIT-APDIG-021-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "chartreuse-jaune",
+    "name": "Chartreuse Jaune",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Chartreuse",
+    "countryOfOrigin": "France",
+    "regionOrState": "Voiron",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Herbal Liqueur",
+    "styleOrVariety": "Yellow Herbal Liqueur",
+    "baseSpirit": "130 Herbs, Plants & Flowers",
+    "flavourProfile": [
+      "Honey",
+      "Saffron",
+      "Mild Herbal",
+      "Floral"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Chilled neat, or in an Alaska cocktail",
+    "controlledTags": [
+      "Spirits",
+      "Herbal Liqueur",
+      "Chartreuse",
+      "France",
+      "Yellow"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "herbal-liqueur"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/chartreuse-jaune",
+    "description": "Milder and sweeter than its green sibling, Yellow Chartreuse was introduced in 1838 with honeyed, saffron-touched floral character.",
+    "shortDescription": "Milder and sweeter than Green Chartreuse, since 1838.",
+    "searchKeywords": "chartreuse jaune yellow herbal liqueur france 43% 700ml honey saffron floral",
+    "badge": "Monks' Secret Recipe",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "chartreuse-jaune-700ml-bottle",
+        "sku": "SPIRIT-APDIG-022-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "dom-benedictine",
+    "name": "Dom Bénédictine",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Bénédictine",
+    "countryOfOrigin": "France",
+    "regionOrState": "Fécamp, Normandy",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Herbal Liqueur",
+    "styleOrVariety": "Herbal Digestif Liqueur",
+    "baseSpirit": "27 Plants & Spices",
+    "flavourProfile": [
+      "Honey",
+      "Saffron",
+      "Angelica",
+      "Warm Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Neat, or in a Vieux Carré cocktail",
+    "controlledTags": [
+      "Spirits",
+      "Herbal Liqueur",
+      "Benedictine",
+      "France",
+      "Normandy"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "herbal-liqueur"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/dom-benedictine",
+    "description": "Originally created by Benedictine monks in Fécamp in 1510, D.O.M. Bénédictine blends 27 plants and spices into a warm, honeyed herbal liqueur.",
+    "shortDescription": "Created by Benedictine monks in Fécamp — a recipe from 1510.",
+    "searchKeywords": "dom benedictine herbal liqueur france normandy 40% 700ml honey saffron angelica",
+    "badge": "Since 1510",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "dom-benedictine-700ml-bottle",
+        "sku": "SPIRIT-APDIG-023-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "underberg-digestif",
+    "name": "Underberg Digestif Bitters",
+    "price": 19.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Underberg",
+    "countryOfOrigin": "Germany",
+    "regionOrState": "Rheinberg",
+    "abv": "44.0%",
+    "containerType": "Pack",
+    "bottleOrCanSize": "6 x 20ml",
+    "packSize": "6 x 20ml Pack",
+    "primaryProductType": "Digestif",
+    "styleOrVariety": "Bitters Digestif (Mini Bottles)",
+    "baseSpirit": "Herbs from 43 Countries",
+    "flavourProfile": [
+      "Intensely Bitter",
+      "Herbal",
+      "Woody",
+      "Concentrated"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Neat, straight from the individually wrapped bottle",
+    "controlledTags": [
+      "Spirits",
+      "Digestif",
+      "Underberg",
+      "Germany",
+      "Bitters"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "digestif"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/underberg-digestif",
+    "description": "A concentrated herbal digestif bitters sold in individually wrapped 20ml bottles, taken neat after a heavy meal — a German institution since 1846.",
+    "shortDescription": "A concentrated digestif bitters in individually wrapped mini bottles.",
+    "searchKeywords": "underberg digestif bitters germany 44% 20ml pack intensely bitter herbal",
+    "badge": "Since 1846",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "underberg-digestif-6x20ml-pack",
+        "sku": "SPIRIT-APDIG-024-6X20ML",
+        "unitSize": "6 x 20ml",
+        "container": "Pack",
+        "packSize": "6 x 20ml Pack",
+        "price": 19.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "suze-liqueur",
+    "name": "Suze Liqueur",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Suze",
+    "countryOfOrigin": "France",
+    "regionOrState": "France",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "1L",
+    "packSize": "1L Bottle",
+    "primaryProductType": "Aperitif",
+    "styleOrVariety": "Gentian Root Bitter",
+    "baseSpirit": "Gentian Root",
+    "flavourProfile": [
+      "Gentian Root",
+      "Bitter",
+      "Earthy",
+      "Herbaceous"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "On ice with soda, or in a Suze Spritz",
+    "controlledTags": [
+      "Spirits",
+      "Aperitif",
+      "Suze",
+      "France",
+      "Gentian"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "aperitif"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/suze-liqueur",
+    "description": "A distinctively bitter, earthy French aperitif flavoured with gentian root, a Pernod Ricard classic since 1889 and a favourite for a low-ABV Suze Spritz.",
+    "shortDescription": "A distinctively bitter, earthy gentian root aperitif since 1889.",
+    "searchKeywords": "suze liqueur gentian root aperitif france 20% 1l bitter earthy herbaceous",
+    "badge": "Since 1889",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "suze-liqueur-1l-bottle",
+        "sku": "SPIRIT-APDIG-025-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "pastis-51",
+    "name": "Pastis 51",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Pastis 51",
+    "countryOfOrigin": "France",
+    "regionOrState": "Marseille",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Pastis",
+    "styleOrVariety": "Anise Aperitif",
+    "baseSpirit": "Star Anise & Liquorice",
+    "flavourProfile": [
+      "Anise",
+      "Liquorice",
+      "Fennel",
+      "Refreshing"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Diluted with cold water and ice, 1 part pastis to 5 parts water",
+    "controlledTags": [
+      "Spirits",
+      "Pastis",
+      "Pastis 51",
+      "France",
+      "Marseille"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "pastis"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/pastis-51",
+    "description": "An anise-based Marseille aperitif created in 1951 by Pernod, traditionally served long over ice with cold water for a refreshing summer pour.",
+    "shortDescription": "A Marseille anise aperitif, created in 1951 — serve long over ice.",
+    "searchKeywords": "pastis 51 anise aperitif france marseille 45% 700ml anise liquorice fennel",
+    "badge": "Since 1951",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "pastis-51-700ml-bottle",
+        "sku": "SPIRIT-APDIG-026-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "ricard-pastis",
+    "name": "Ricard Aperitif",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Ricard",
+    "countryOfOrigin": "France",
+    "regionOrState": "Marseille",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Pastis",
+    "styleOrVariety": "Anise & Liquorice Aperitif",
+    "baseSpirit": "Star Anise & Liquorice Root",
+    "flavourProfile": [
+      "Anise",
+      "Liquorice Root",
+      "Herbal",
+      "Refreshing"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Diluted with cold water and ice, 1 part pastis to 5 parts water",
+    "controlledTags": [
+      "Spirits",
+      "Pastis",
+      "Ricard",
+      "France",
+      "Marseille"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "pastis"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/ricard-pastis",
+    "description": "Created by Marseille native Paul Ricard in 1932, this anise and liquorice pastis remains France's benchmark summer aperitif, served long with cold water.",
+    "shortDescription": "France's benchmark pastis, created by Paul Ricard in 1932.",
+    "searchKeywords": "ricard aperitif pastis france marseille 45% 700ml anise liquorice herbal",
+    "badge": "Since 1932",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "ricard-pastis-700ml-bottle",
+        "sku": "SPIRIT-APDIG-027-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "molinari-sambuca",
+    "name": "Molinari Sambuca Extra",
+    "price": 44.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Molinari",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Civitavecchia",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Sambuca",
+    "styleOrVariety": "Italy's Only 'Extra' Sambuca",
+    "baseSpirit": "Star Anise",
+    "flavourProfile": [
+      "Star Anise",
+      "Sweet",
+      "Liquorice",
+      "Clean"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "servingSuggestion": "Neat, with coffee beans, or \"con la mosca\" with espresso beans",
+    "controlledTags": [
+      "Spirits",
+      "Sambuca",
+      "Molinari",
+      "Italy"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "sambuca"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/molinari-sambuca",
+    "description": "Italy's only sambuca labelled 'Extra', made from star anise with the family recipe unchanged since 1945 — the benchmark Italian sambuca.",
+    "shortDescription": "Italy's only 'Extra' sambuca, unchanged since 1945.",
+    "searchKeywords": "molinari sambuca extra italy 40% 700ml star anise sweet liquorice",
+    "badge": "Italy's Only 'Extra'",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "molinari-sambuca-700ml-bottle",
+        "sku": "SPIRIT-APDIG-028-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 44.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "grappa-di-barolo",
+    "name": "Grappa Riserva Nebbiolo da Barolo",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "aperitifs-digestifs",
+    "subcategory": "aperitifs-digestifs",
+    "brand": "Luigi Francoli",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Piedmont (Barolo)",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Grappa",
+    "styleOrVariety": "Barrel-Aged Barolo Grappa",
+    "baseSpirit": "Nebbiolo Grape Pomace (Barolo)",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Oak Spice",
+      "Rose Petal",
+      "Warm"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Barrique Oak Barrels",
+    "servingSuggestion": "Neat, in a small tulip glass as a digestif",
+    "controlledTags": [
+      "Spirits",
+      "Grappa",
+      "Luigi Francoli",
+      "Italy",
+      "Piedmont",
+      "Barolo"
+    ],
+    "collections": [
+      "spirits",
+      "aperitifs-digestifs",
+      "grappa"
+    ],
+    "seoUrl": "/spirits/aperitifs-digestifs/grappa-di-barolo",
+    "description": "A barrel-aged reserve grappa distilled from Nebbiolo grape pomace sourced from Barolo, Piedmont, with dried fruit and rose petal complexity from barrique ageing.",
+    "shortDescription": "A barrel-aged Barolo grappa, distilled from Nebbiolo pomace.",
+    "searchKeywords": "grappa riserva nebbiolo da barolo italy piedmont 43% 700ml dried fruit oak spice",
+    "badge": "Barrique Aged",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "grappa-di-barolo-700ml-bottle",
+        "sku": "SPIRIT-APDIG-029-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
