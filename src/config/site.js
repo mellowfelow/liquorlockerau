@@ -67253,6 +67253,2448 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "baileys-original-irish-cream",
+    "name": "Baileys Original Irish Cream",
+    "price": 40.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Baileys",
+    "countryOfOrigin": "Ireland",
+    "regionOrState": "Dublin",
+    "abv": "17.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Cream",
+    "baseSpirit": "Irish Whiskey",
+    "styleOrVariety": "Cream Liqueur",
+    "flavourProfile": [
+      "Vanilla",
+      "Cocoa",
+      "Fresh Cream",
+      "Whiskey Warmth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Fresh Irish Dairy Cream & Irish Whiskey",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Baileys",
+      "Ireland",
+      "Cream"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "cream-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/baileys-original-irish-cream",
+    "description": "The world's best-selling liqueur, Baileys blends fresh Irish dairy cream with Irish whiskey and cocoa for a smooth, indulgent pour that needs no mixer.",
+    "shortDescription": "The world's best-selling liqueur, smooth cream and Irish whiskey.",
+    "searchKeywords": "baileys original irish cream liqueur ireland 17% 700ml vanilla cocoa cream",
+    "badge": "World's #1 Liqueur",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "baileys-original-irish-cream-700ml-bottle",
+        "sku": "SPIRIT-LIQ-001-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 40.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "baileys-original-irish-cream-1l-bottle",
+        "sku": "SPIRIT-LIQ-001-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 50.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "baileys-salted-caramel",
+    "name": "Baileys Irish Cream with Salted Caramel",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Baileys",
+    "countryOfOrigin": "Ireland",
+    "regionOrState": "Dublin",
+    "abv": "17.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Cream",
+    "baseSpirit": "Irish Whiskey",
+    "styleOrVariety": "Flavoured Cream Liqueur",
+    "flavourProfile": [
+      "Salted Caramel",
+      "Vanilla",
+      "Cream",
+      "Toffee"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Irish Cream & Salted Caramel",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Baileys",
+      "Ireland",
+      "Cream",
+      "Salted Caramel"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "cream-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/baileys-salted-caramel",
+    "description": "Baileys Original blended with rich salted caramel for a sweet-and-salty twist on the classic Irish cream liqueur.",
+    "shortDescription": "Baileys with a sweet-and-salty salted caramel twist.",
+    "searchKeywords": "baileys salted caramel irish cream liqueur ireland 17% 700ml toffee vanilla",
+    "badge": "Fan Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "baileys-salted-caramel-700ml-bottle",
+        "sku": "SPIRIT-LIQ-002-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "baileys-strawberries-and-cream",
+    "name": "Baileys Strawberries & Cream",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Baileys",
+    "countryOfOrigin": "Ireland",
+    "regionOrState": "Dublin",
+    "abv": "17.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Cream",
+    "baseSpirit": "Irish Whiskey",
+    "styleOrVariety": "Flavoured Cream Liqueur",
+    "flavourProfile": [
+      "Ripe Strawberry",
+      "Fresh Cream",
+      "Vanilla",
+      "Sweet"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Irish Cream & Natural Strawberry Flavour",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Baileys",
+      "Ireland",
+      "Cream",
+      "Strawberry"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "cream-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/baileys-strawberries-and-cream",
+    "description": "A limited-run Baileys expression blending fresh Irish cream with ripe strawberry flavour for a dessert-like, summery pour.",
+    "shortDescription": "Fresh Irish cream blended with ripe strawberry flavour.",
+    "searchKeywords": "baileys strawberries and cream liqueur ireland 17% 700ml strawberry cream vanilla",
+    "badge": "Limited Release",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "baileys-strawberries-and-cream-700ml-bottle",
+        "sku": "SPIRIT-LIQ-003-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "baileys-espresso-creme",
+    "name": "Baileys Espresso Crème",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Baileys",
+    "countryOfOrigin": "Ireland",
+    "regionOrState": "Dublin",
+    "abv": "17.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Coffee",
+    "baseSpirit": "Irish Whiskey",
+    "styleOrVariety": "Coffee Cream Liqueur",
+    "flavourProfile": [
+      "Espresso",
+      "Cream",
+      "Cocoa",
+      "Roasted Coffee"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Real Coffee & Natural Flavours",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Baileys",
+      "Ireland",
+      "Coffee"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "coffee-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/baileys-espresso-creme",
+    "description": "Coffee and natural flavours meet Baileys Original Irish Cream — enjoy neat, splashed into hot coffee, or shaken into a Tiramisu Martini.",
+    "shortDescription": "Baileys meets coffee — perfect neat or in a Tiramisu Martini.",
+    "searchKeywords": "baileys espresso creme liqueur ireland 17% 700ml coffee cream cocoa",
+    "badge": "Coffee Cream",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "baileys-espresso-creme-700ml-bottle",
+        "sku": "SPIRIT-LIQ-004-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "baileys-red-velvet",
+    "name": "Baileys Red Velvet Cupcake",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Baileys",
+    "countryOfOrigin": "Ireland",
+    "regionOrState": "Dublin",
+    "abv": "17.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Cream",
+    "baseSpirit": "Irish Whiskey",
+    "styleOrVariety": "Flavoured Cream Liqueur",
+    "flavourProfile": [
+      "Red Velvet Cake",
+      "Cream Cheese Frosting",
+      "Cocoa",
+      "Vanilla"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Irish Cream & Red Velvet Cake Flavour",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Baileys",
+      "Ireland",
+      "Cream",
+      "Red Velvet"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "cream-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/baileys-red-velvet",
+    "description": "A dessert-inspired Baileys expression capturing red velvet cake and cream cheese frosting in liqueur form.",
+    "shortDescription": "Red velvet cake and cream cheese frosting, captured in a liqueur.",
+    "searchKeywords": "baileys red velvet cupcake liqueur ireland 17% 700ml cocoa cream vanilla",
+    "badge": "Dessert Inspired",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "baileys-red-velvet-700ml-bottle",
+        "sku": "SPIRIT-LIQ-005-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "aperol-aperitivo",
+    "name": "Aperol Aperitivo",
+    "price": 36,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Aperol",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Padua, Veneto",
+    "abv": "11.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Bitter Aperitif",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Bitter Orange Aperitivo",
+    "flavourProfile": [
+      "Bitter Orange",
+      "Rhubarb",
+      "Herbal",
+      "Bright"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Bitter Orange, Rhubarb & Gentian",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Aperol",
+      "Italy",
+      "Bitter Aperitif"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "bitter-aperitif"
+    ],
+    "seoUrl": "/spirits/liqueurs/aperol-aperitivo",
+    "description": "Italy's iconic low-ABV aperitivo, blending bitter orange, rhubarb and gentian into the essential base for an Aperol Spritz.",
+    "shortDescription": "Italy's iconic aperitivo — the essential base for an Aperol Spritz.",
+    "searchKeywords": "aperol aperitivo liqueur italy 11% 700ml bitter orange rhubarb herbal spritz",
+    "badge": "Spritz Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "aperol-aperitivo-700ml-bottle",
+        "sku": "SPIRIT-LIQ-006-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 36,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "aperol-aperitivo-1l-bottle",
+        "sku": "SPIRIT-LIQ-006-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 39.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "campari-bitter-aperitif",
+    "name": "Campari Bitter Aperitif",
+    "price": 50,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Campari",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Sesto San Giovanni, Milan",
+    "abv": "25.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Bitter Aperitif",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Bitter Aperitivo",
+    "flavourProfile": [
+      "Bold Bitter",
+      "Orange Peel",
+      "Herbal",
+      "Deep Red"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Herbs, Aromatic Plants & Fruit",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Campari",
+      "Italy",
+      "Bitter Aperitif"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "bitter-aperitif"
+    ],
+    "seoUrl": "/spirits/liqueurs/campari-bitter-aperitif",
+    "description": "The bold, unmistakably bitter Italian aperitivo built on secret herb and fruit infusions — the classic base for a Negroni.",
+    "shortDescription": "The bold, unmistakably bitter classic base for a Negroni.",
+    "searchKeywords": "campari bitter aperitif liqueur italy 25% 700ml bold bitter orange herbal negroni",
+    "badge": "Negroni Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "campari-bitter-aperitif-700ml-bottle",
+        "sku": "SPIRIT-LIQ-007-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 50,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jagermeister-herbal-liqueur",
+    "name": "Jägermeister Herbal Liqueur",
+    "price": 54.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Jägermeister",
+    "countryOfOrigin": "Germany",
+    "regionOrState": "Wolfenbüttel",
+    "abv": "35.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Herbal",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Digestif Herbal Liqueur",
+    "flavourProfile": [
+      "Anise",
+      "Citrus Peel",
+      "Herbal",
+      "Warming Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with 56 Herbs, Fruits, Roots & Spices",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Jagermeister",
+      "Germany",
+      "Herbal"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "herbal-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/jagermeister-herbal-liqueur",
+    "description": "Germany's iconic 56-herb digestif, chilled and shot straight or built into a Jäger Bomb — a bar staple since 1935.",
+    "shortDescription": "Germany's iconic 56-herb digestif — a bar staple since 1935.",
+    "searchKeywords": "jagermeister herbal liqueur germany 35% 700ml anise citrus herbal spice",
+    "badge": "Bar Staple",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jagermeister-herbal-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-008-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 54.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "jagermeister-herbal-liqueur-1l-bottle",
+        "sku": "SPIRIT-LIQ-008-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jagermeister-cold-brew-coffee",
+    "name": "Jägermeister Cold Brew Coffee",
+    "price": 54.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Jägermeister",
+    "countryOfOrigin": "Germany",
+    "regionOrState": "Wolfenbüttel",
+    "abv": "33.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Coffee",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Coffee Herbal Liqueur",
+    "flavourProfile": [
+      "Cold Brew Coffee",
+      "Chocolate Caramel",
+      "Anise",
+      "Rich Herbal"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Arabica Cold Brew Coffee & 56 Botanicals",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Jagermeister",
+      "Germany",
+      "Coffee"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "coffee-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/jagermeister-cold-brew-coffee",
+    "description": "A bold fusion of Arabica cold brew coffee and Jägermeister's 56 botanicals, delivering herbal depth with cooling coffee and chocolatey caramel notes.",
+    "shortDescription": "Arabica cold brew fused with Jägermeister's signature 56 botanicals.",
+    "searchKeywords": "jagermeister cold brew coffee liqueur germany 33% 700ml coffee chocolate caramel anise",
+    "badge": "Coffee Fusion",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jagermeister-cold-brew-coffee-700ml-bottle",
+        "sku": "SPIRIT-LIQ-009-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 54.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "cointreau-orange-liqueur",
+    "name": "Cointreau Orange Liqueur",
+    "price": 61.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Cointreau",
+    "countryOfOrigin": "France",
+    "regionOrState": "Saint-Barthélemy-d'Anjou",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Citrus",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Triple Sec / Orange Liqueur",
+    "flavourProfile": [
+      "Sweet Orange",
+      "Bitter Peel",
+      "Crisp Citrus",
+      "Clean"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Triple Distilled with Sweet & Bitter Orange Peels",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Cointreau",
+      "France",
+      "Citrus"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "citrus-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/cointreau-orange-liqueur",
+    "description": "The world's original premium triple sec, triple distilled from sweet and bitter orange peels — the essential Margarita and Cosmopolitan ingredient.",
+    "shortDescription": "The world's original premium triple sec — essential for Margaritas.",
+    "searchKeywords": "cointreau orange liqueur france 40% 700ml sweet orange bitter peel citrus",
+    "badge": "Cocktail Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "cointreau-orange-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-010-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 61.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "grand-marnier-cordon-rouge",
+    "name": "Grand Marnier Cordon Rouge",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Grand Marnier",
+    "countryOfOrigin": "France",
+    "regionOrState": "Neauphle-le-Château",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Citrus",
+    "baseSpirit": "Cognac",
+    "styleOrVariety": "Orange Cognac Liqueur",
+    "flavourProfile": [
+      "Bitter Orange",
+      "Cognac",
+      "Vanilla",
+      "Rich Citrus"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blend of Cognac & Bitter Orange Essence",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Grand Marnier",
+      "France",
+      "Citrus",
+      "Cognac"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "citrus-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/grand-marnier-cordon-rouge",
+    "description": "A blend of fine Cognac and bitter orange essence, Cordon Rouge is the signature Grand Marnier expression for sipping neat or building a Grand Margarita.",
+    "shortDescription": "Fine Cognac blended with bitter orange essence — sip neat or in cocktails.",
+    "searchKeywords": "grand marnier cordon rouge orange liqueur france 40% 700ml bitter orange cognac vanilla",
+    "badge": "Cognac Blend",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "grand-marnier-cordon-rouge-700ml-bottle",
+        "sku": "SPIRIT-LIQ-011-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "midori-melon-liqueur",
+    "name": "Midori Melon Liqueur",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Midori",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Japan",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Fruit",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Melon Liqueur",
+    "flavourProfile": [
+      "Honeydew Melon",
+      "Tropical",
+      "Sweet",
+      "Vivid Green"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Muskmelon",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Midori",
+      "Japan",
+      "Fruit",
+      "Melon"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "fruit-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/midori-melon-liqueur",
+    "description": "The vividly green, honeydew-sweet melon liqueur from Japan, essential for a Midori Sour or Japanese Slipper.",
+    "shortDescription": "The vividly green, honeydew-sweet melon liqueur from Japan.",
+    "searchKeywords": "midori melon liqueur japan 20% 700ml honeydew tropical sweet green",
+    "badge": "Iconic Green",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "midori-melon-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-012-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "chambord-black-raspberry-liqueur",
+    "name": "Chambord Black Raspberry Liqueur",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Chambord",
+    "countryOfOrigin": "France",
+    "regionOrState": "Loire Valley",
+    "abv": "16.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Fruit",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Black Raspberry Liqueur",
+    "flavourProfile": [
+      "Black Raspberry",
+      "Vanilla",
+      "Honey",
+      "Citrus"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Black Raspberries, Vanilla & Citrus",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Chambord",
+      "France",
+      "Fruit",
+      "Raspberry"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "fruit-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/chambord-black-raspberry-liqueur",
+    "description": "A rich black raspberry liqueur from the Loire Valley in its iconic globe bottle, layered with vanilla and honey for cocktails like the French Martini.",
+    "shortDescription": "A rich black raspberry liqueur in its iconic globe bottle.",
+    "searchKeywords": "chambord black raspberry liqueur france 16.5% 700ml raspberry vanilla honey",
+    "badge": "Iconic Bottle",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "chambord-black-raspberry-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-013-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "villa-massa-limoncello",
+    "name": "Villa Massa Limoncello",
+    "price": 64.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Villa Massa",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Sorrento",
+    "abv": "30.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "500ml",
+    "packSize": "500ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Citrus",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Italian Limoncello",
+    "flavourProfile": [
+      "Sorrento Lemon",
+      "Zesty",
+      "Sweet Citrus",
+      "Refreshing"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Sorrento Lemon Peel",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Villa Massa",
+      "Italy",
+      "Citrus",
+      "Limoncello"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "citrus-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/villa-massa-limoncello",
+    "description": "A classic Sorrento limoncello made with the region's prized lemon peel for a bright, zesty liqueur best served ice-cold.",
+    "shortDescription": "A classic Sorrento limoncello, bright and zesty, best served ice-cold.",
+    "searchKeywords": "villa massa limoncello italy 30% 500ml sorrento lemon zesty citrus",
+    "badge": "Sorrento Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "villa-massa-limoncello-500ml-bottle",
+        "sku": "SPIRIT-LIQ-014-500ML",
+        "unitSize": "500ml",
+        "container": "Bottle",
+        "packSize": "500ml Bottle",
+        "price": 64.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "manly-spirits-zesty-limoncello",
+    "name": "Manly Spirits Zesty Limoncello",
+    "price": 64.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Manly Spirits Co.",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Manly, Sydney NSW",
+    "abv": "32.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Citrus",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Australian Limoncello",
+    "flavourProfile": [
+      "Lemon Meringue",
+      "Native Citrus",
+      "Zesty",
+      "Bright"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Hand-Peeled Lemons with Native Lemon Aspen & Lemon Myrtle",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Manly Spirits",
+      "Australia",
+      "Citrus",
+      "Limoncello"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "citrus-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/manly-spirits-zesty-limoncello",
+    "description": "An Italian-style limoncello with an Australian twist, hand-peeling fresh lemons and adding native Lemon Aspen and Lemon Myrtle for a lemon meringue tart finish.",
+    "shortDescription": "Italian-style limoncello with native Lemon Aspen and Lemon Myrtle.",
+    "searchKeywords": "manly spirits zesty limoncello australia 32% 700ml lemon meringue native citrus",
+    "badge": "Aussie Twist",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "manly-spirits-zesty-limoncello-700ml-bottle",
+        "sku": "SPIRIT-LIQ-015-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 64.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kahlua-original-coffee-liqueur",
+    "name": "Kahlúa Original Coffee Liqueur",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Kahlúa",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Veracruz",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Coffee",
+    "baseSpirit": "Rum",
+    "styleOrVariety": "Coffee Liqueur",
+    "flavourProfile": [
+      "Rich Coffee",
+      "Caramel",
+      "Vanilla",
+      "Rum Warmth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Arabica Coffee, Rum & Vanilla",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Kahlua",
+      "Mexico",
+      "Coffee"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "coffee-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/kahlua-original-coffee-liqueur",
+    "description": "Mexico's original coffee liqueur, blending rich Arabica coffee with rum and vanilla — the essential base for an Espresso Martini or White Russian.",
+    "shortDescription": "Mexico's original coffee liqueur — essential for an Espresso Martini.",
+    "searchKeywords": "kahlua original coffee liqueur mexico 20% 700ml rich coffee caramel vanilla",
+    "badge": "Espresso Martini Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kahlua-original-coffee-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-016-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kahlua-salted-caramel",
+    "name": "Kahlúa Salted Caramel Coffee Liqueur",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Kahlúa",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Veracruz",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Coffee",
+    "baseSpirit": "Rum",
+    "styleOrVariety": "Flavoured Coffee Liqueur",
+    "flavourProfile": [
+      "Salted Caramel",
+      "Coffee",
+      "Toffee",
+      "Vanilla"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Coffee, Rum & Salted Caramel",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Kahlua",
+      "Mexico",
+      "Coffee",
+      "Salted Caramel"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "coffee-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/kahlua-salted-caramel",
+    "description": "Kahlúa's rich coffee base blended with salted caramel for a sweet-and-salty dessert-style liqueur.",
+    "shortDescription": "Kahlúa's coffee base blended with sweet-and-salty caramel.",
+    "searchKeywords": "kahlua salted caramel coffee liqueur mexico 20% 700ml toffee coffee vanilla",
+    "badge": "Sweet & Salty",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kahlua-salted-caramel-700ml-bottle",
+        "sku": "SPIRIT-LIQ-017-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "tia-maria-coffee-liqueur",
+    "name": "Tia Maria Coffee Liqueur",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Tia Maria",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Italy (Jamaican Coffee Sourced)",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Coffee",
+    "baseSpirit": "Rum",
+    "styleOrVariety": "Coffee Liqueur",
+    "flavourProfile": [
+      "Jamaican Coffee",
+      "Vanilla",
+      "Caramel",
+      "Rum Base"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Jamaican Coffee Beans, Rum & Vanilla",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Tia Maria",
+      "Coffee"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "coffee-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/tia-maria-coffee-liqueur",
+    "description": "A classic coffee liqueur built on Jamaican coffee beans, rum and vanilla, offering a smoother, less sweet profile than many rivals.",
+    "shortDescription": "A classic coffee liqueur built on Jamaican coffee beans and rum.",
+    "searchKeywords": "tia maria coffee liqueur 20% 700ml jamaican coffee vanilla caramel",
+    "badge": "Coffee Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "tia-maria-coffee-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-018-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "galliano-vanilla",
+    "name": "Galliano Vanilla Liqueur",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Galliano",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Italy",
+    "abv": "30.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Herbal",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Vanilla Herbal Liqueur",
+    "flavourProfile": [
+      "Vanilla",
+      "Anise",
+      "Citrus",
+      "Warm Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Vanilla, Anise & Mediterranean Herbs",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Galliano",
+      "Italy",
+      "Herbal",
+      "Vanilla"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "herbal-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/galliano-vanilla",
+    "description": "A vibrant golden vanilla liqueur from Italy, first introduced in 1896, blending sweet vanilla with a complex bed of Mediterranean herbs and spice.",
+    "shortDescription": "A vibrant golden vanilla liqueur from Italy, since 1896.",
+    "searchKeywords": "galliano vanilla liqueur italy 30% 700ml vanilla anise citrus spice",
+    "badge": "Since 1896",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "galliano-vanilla-700ml-bottle",
+        "sku": "SPIRIT-LIQ-019-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "frangelico-hazelnut-liqueur",
+    "name": "Frangelico Hazelnut Liqueur",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Frangelico",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Piedmont",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Nut",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Hazelnut Liqueur",
+    "flavourProfile": [
+      "Toasted Hazelnut",
+      "Cocoa",
+      "Vanilla",
+      "Coffee"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Piedmont Hazelnuts, Cocoa & Vanilla",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Frangelico",
+      "Italy",
+      "Nut",
+      "Hazelnut"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "nut-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/frangelico-hazelnut-liqueur",
+    "description": "An icon for over 30 years, Frangelico blends toasted Piedmont hazelnuts with cocoa and vanilla in its distinctive friar-shaped bottle.",
+    "shortDescription": "An icon for over 30 years — toasted Piedmont hazelnuts and cocoa.",
+    "searchKeywords": "frangelico hazelnut liqueur italy 20% 700ml toasted hazelnut cocoa vanilla",
+    "badge": "Iconic Bottle",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "frangelico-hazelnut-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-020-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "disaronno-amaretto",
+    "name": "Disaronno Amaretto",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Disaronno",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Saronno",
+    "abv": "28.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Nut",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Amaretto Liqueur",
+    "flavourProfile": [
+      "Almond",
+      "Marzipan",
+      "Apricot Kernel",
+      "Sweet Vanilla"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Apricot Kernel Oil & 17 Herbs & Fruits",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Disaronno",
+      "Italy",
+      "Nut",
+      "Amaretto"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "nut-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/disaronno-amaretto",
+    "description": "The world's favourite Italian amaretto, unchanged since 1525, with an unmistakable almond-marzipan character distributed in over 160 countries.",
+    "shortDescription": "The world's favourite Italian amaretto, unchanged since 1525.",
+    "searchKeywords": "disaronno amaretto di saronno liqueur italy 28% 700ml almond marzipan apricot",
+    "badge": "Since 1525",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "disaronno-amaretto-700ml-bottle",
+        "sku": "SPIRIT-LIQ-021-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "luxardo-maraschino-originale",
+    "name": "Luxardo Maraschino Originale",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Luxardo",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "Torreglia",
+    "abv": "32.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Fruit",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Maraschino Cherry Liqueur",
+    "flavourProfile": [
+      "Sour Cherry",
+      "Almond Pit",
+      "Dry Finish",
+      "Complex"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Distilled from Marasca Cherries & Crushed Pits",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Luxardo",
+      "Italy",
+      "Fruit",
+      "Maraschino"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "fruit-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/luxardo-maraschino-originale",
+    "description": "Made to Girolamo Luxardo's 1821 formula from true Marasca cherries and their crushed pits, this dry, complex cherry liqueur is a cocktail bar essential.",
+    "shortDescription": "Made to an 1821 formula from true Marasca cherries — a bar essential.",
+    "searchKeywords": "luxardo maraschino originale liqueur italy 32% 700ml sour cherry almond pit dry",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "luxardo-maraschino-originale-700ml-bottle",
+        "sku": "SPIRIT-LIQ-022-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "st-germain-elderflower-liqueur",
+    "name": "St-Germain Elderflower Liqueur",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "St-Germain",
+    "countryOfOrigin": "France",
+    "regionOrState": "Loire Valley / Charente",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Fruit",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Elderflower Liqueur",
+    "flavourProfile": [
+      "Elderflower",
+      "Peach",
+      "Pear",
+      "Grapefruit"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Made with Fresh, Hand-Picked Elderflowers",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "St-Germain",
+      "France",
+      "Fruit",
+      "Elderflower"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "fruit-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/st-germain-elderflower-liqueur",
+    "description": "A French artisanal liqueur made with fresh, hand-picked elderflowers, delicately floral with notes of peach, pear and grapefruit — no artificial flavours.",
+    "shortDescription": "A French artisanal liqueur from fresh, hand-picked elderflowers.",
+    "searchKeywords": "st germain elderflower liqueur france 20% 750ml elderflower peach pear grapefruit",
+    "badge": "Hand-Picked",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "st-germain-elderflower-liqueur-750ml-bottle",
+        "sku": "SPIRIT-LIQ-023-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "de-kuyper-peachtree-peach-liqueur",
+    "name": "De Kuyper Peachtree Peach Liqueur",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "De Kuyper",
+    "countryOfOrigin": "Netherlands",
+    "regionOrState": "Schiedam",
+    "abv": "15.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Fruit",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Peach Schnapps Liqueur",
+    "flavourProfile": [
+      "Fragrant Peach",
+      "White Fruit",
+      "Peppery Spice",
+      "Almond"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Peach",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "De Kuyper",
+      "Netherlands",
+      "Fruit",
+      "Peach"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "fruit-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/de-kuyper-peachtree-peach-liqueur",
+    "description": "The best-selling peach schnapps on the market, offering rich fragrant peach and sweet white fruit character from the renowned De Kuyper distillery.",
+    "shortDescription": "The best-selling peach schnapps — rich, fragrant peach character.",
+    "searchKeywords": "de kuyper peachtree peach liqueur schnapps netherlands 15% 700ml peach fruit",
+    "badge": "Best-Selling Schnapps",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "de-kuyper-peachtree-peach-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-024-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bundaberg-rum-ball-liqueur",
+    "name": "Bundaberg Rum Ball Liqueur",
+    "price": 54.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Bundaberg Rum",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Bundaberg, Queensland",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Rum Liqueur",
+    "baseSpirit": "Rum",
+    "styleOrVariety": "Chocolate Rum Liqueur",
+    "flavourProfile": [
+      "Chocolate",
+      "Coconut",
+      "Sweet Biscuit",
+      "Rum Spice"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Bundaberg Rum, Cocoa & Coconut",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Bundaberg Rum",
+      "Australia",
+      "Rum Liqueur"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "rum-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/bundaberg-rum-ball-liqueur",
+    "description": "Inspired by the classic Australian rum ball treat, this creamy chocolate liqueur combines Bundaberg Rum with rich cocoa, coconut and sweet biscuit flavours.",
+    "shortDescription": "Inspired by the classic Aussie rum ball treat — chocolate and coconut.",
+    "searchKeywords": "bundaberg rum ball liqueur australia 20% 700ml chocolate coconut biscuit rum",
+    "badge": "Aussie Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bundaberg-rum-ball-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-025-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 54.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "applewood-okar-amaro-liqueur",
+    "name": "Applewood Okar Amaro Liqueur",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Applewood",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Adelaide Hills, South Australia",
+    "abv": "28.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Amaro",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Australian Amaro",
+    "flavourProfile": [
+      "Bitter Orange",
+      "Native Botanicals",
+      "Herbal",
+      "Warm Spice"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Native & Mediterranean Botanicals",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Applewood",
+      "Australia",
+      "Amaro"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "amaro-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/applewood-okar-amaro-liqueur",
+    "description": "An Adelaide Hills amaro built for the 'All Aussie' Negroni, blending native and Mediterranean botanicals into a distinctly Australian bitter liqueur.",
+    "shortDescription": "An Adelaide Hills amaro built for the 'All Aussie' Negroni.",
+    "searchKeywords": "applewood okar amaro liqueur australia 28% 750ml bitter orange native botanicals",
+    "badge": "All Aussie Negroni",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "applewood-okar-amaro-liqueur-750ml-bottle",
+        "sku": "SPIRIT-LIQ-026-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "23rd-street-violet-liqueur",
+    "name": "23rd Street Violet Liqueur",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "23rd Street Distillery",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Renmark, South Australia",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Herbal",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Violet Liqueur",
+    "flavourProfile": [
+      "Floral Violet",
+      "Sweet",
+      "Perfumed",
+      "Delicate"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Violet Petals",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "23rd Street",
+      "Australia",
+      "Herbal",
+      "Violet"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "herbal-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/23rd-street-violet-liqueur",
+    "description": "A delicately floral violet liqueur from the Riverland's 23rd Street Distillery, adding a perfumed, purple-hued twist to classic cocktails.",
+    "shortDescription": "A delicately floral violet liqueur from the Riverland.",
+    "searchKeywords": "23rd street violet liqueur australia 20% 700ml floral violet sweet perfumed",
+    "badge": "Riverland Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "23rd-street-violet-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-027-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "wildbrumby-pink-lady-apple-liqueur",
+    "name": "Wildbrumby Pink Lady Apple Liqueur",
+    "price": 39.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Wildbrumby",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Jindabyne, Snowy Mountains NSW",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Fruit",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Apple Schnapps Liqueur",
+    "flavourProfile": [
+      "Crisp Apple",
+      "Orchard Fruit",
+      "Sweet",
+      "Refreshing"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Distilled from Snowy Mountains Pink Lady Apples",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Wildbrumby",
+      "Australia",
+      "Fruit",
+      "Apple"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "fruit-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/wildbrumby-pink-lady-apple-liqueur",
+    "description": "Distilled from Pink Lady apples grown in the Snowy Mountains, this crisp orchard-fruit liqueur is a signature pour from Wildbrumby Distillery.",
+    "shortDescription": "Distilled from Snowy Mountains Pink Lady apples — crisp orchard fruit.",
+    "searchKeywords": "wildbrumby pink lady apple liqueur australia 20% 750ml crisp apple orchard fruit",
+    "badge": "Snowy Mountains Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "wildbrumby-pink-lady-apple-liqueur-750ml-bottle",
+        "sku": "SPIRIT-LIQ-028-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 39.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mchenry-old-english-sloe-gin",
+    "name": "McHenry Old English Sloe Gin",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "McHenry Distillery",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Tasmania",
+    "abv": "26.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Gin Liqueur",
+    "baseSpirit": "Gin",
+    "styleOrVariety": "Sloe Gin Liqueur",
+    "flavourProfile": [
+      "Wild Berry",
+      "Almond",
+      "Juniper",
+      "Rich Fruit"
+    ],
+    "dietary": [
+      "Australian Made",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Long-Steeped with Hand-Foraged Wild Sloe Berries",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "McHenry",
+      "Australia",
+      "Tasmania",
+      "Gin Liqueur",
+      "Sloe Gin"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "gin-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/mchenry-old-english-sloe-gin",
+    "description": "Award-winning Tasmanian sloe gin crafted with hand-foraged wild sloe berries, long-steeped in McHenry's own gin for rich berry and almond depth.",
+    "shortDescription": "Award-winning Tasmanian sloe gin with hand-foraged wild berries.",
+    "searchKeywords": "mchenry old english sloe gin liqueur tasmania australia 26% 700ml wild berry almond juniper",
+    "badge": "Award-Winning Tasmanian",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mchenry-old-english-sloe-gin-700ml-bottle",
+        "sku": "SPIRIT-LIQ-029-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "agwa-de-bolivia-coca-leaf-liqueur",
+    "name": "Agwa de Bolivia Coca Leaf Liqueur",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Agwa",
+    "countryOfOrigin": "Netherlands",
+    "regionOrState": "Amsterdam (Bolivian Coca Leaf)",
+    "abv": "30.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Herbal",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Herbal Coca Leaf Liqueur",
+    "flavourProfile": [
+      "Herbal",
+      "Guarana",
+      "Ginseng",
+      "Bright Green"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Bolivian Coca Leaf, Guarana & Ginseng",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Agwa",
+      "Netherlands",
+      "Herbal"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "herbal-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/agwa-de-bolivia-coca-leaf-liqueur",
+    "description": "Handcrafted in Amsterdam from Bolivian coca leaf, guarana, ginseng and 36 other natural botanicals for a distinctive bright green herbal liqueur.",
+    "shortDescription": "Handcrafted in Amsterdam from Bolivian coca leaf, guarana and ginseng.",
+    "searchKeywords": "agwa de bolivia coca leaf liqueur netherlands 30% 700ml herbal guarana ginseng green",
+    "badge": "Nightlife Icon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "agwa-de-bolivia-coca-leaf-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-030-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "de-kuyper-blue-curacao",
+    "name": "De Kuyper Blue Curaçao Liqueur",
+    "price": 39.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "De Kuyper",
+    "countryOfOrigin": "Netherlands",
+    "regionOrState": "Schiedam",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Citrus",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Blue Curaçao Liqueur",
+    "flavourProfile": [
+      "Orange Peel",
+      "Vibrant Blue",
+      "Sweet Citrus",
+      "Bright"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Bitter Orange Peel",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "De Kuyper",
+      "Netherlands",
+      "Citrus",
+      "Blue Curacao"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "citrus-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/de-kuyper-blue-curacao",
+    "description": "The classic vivid-blue orange curaçao from the renowned Dutch De Kuyper distillery, essential for a Blue Lagoon or Blue Hawaiian.",
+    "shortDescription": "The classic vivid-blue orange curaçao — essential for a Blue Lagoon.",
+    "searchKeywords": "de kuyper blue curacao liqueur netherlands 20% 700ml orange peel blue citrus",
+    "badge": "Cocktail Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "de-kuyper-blue-curacao-700ml-bottle",
+        "sku": "SPIRIT-LIQ-031-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 39.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "de-kuyper-triple-sec",
+    "name": "De Kuyper Triple Sec Liqueur",
+    "price": 39.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "De Kuyper",
+    "countryOfOrigin": "Netherlands",
+    "regionOrState": "Schiedam",
+    "abv": "20.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Citrus",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Triple Sec Liqueur",
+    "flavourProfile": [
+      "Sweet Orange",
+      "Citrus Zest",
+      "Clean",
+      "Balanced"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Sweet & Bitter Orange Peels",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "De Kuyper",
+      "Netherlands",
+      "Citrus",
+      "Triple Sec"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "citrus-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/de-kuyper-triple-sec",
+    "description": "A well-balanced, everyday triple sec from De Kuyper's Dutch distillery, a reliable orange liqueur base for Margaritas and Cosmopolitans.",
+    "shortDescription": "A well-balanced, everyday orange triple sec for Margaritas.",
+    "searchKeywords": "de kuyper triple sec liqueur netherlands 20% 700ml sweet orange citrus zest",
+    "badge": "Everyday Triple Sec",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "de-kuyper-triple-sec-700ml-bottle",
+        "sku": "SPIRIT-LIQ-032-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 39.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "marie-brizard-peach-liqueur",
+    "name": "Marie Brizard Peach Liqueur",
+    "price": 39.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Marie Brizard",
+    "countryOfOrigin": "France",
+    "regionOrState": "Bordeaux",
+    "abv": "18.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "500ml",
+    "packSize": "500ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Fruit",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Peach Liqueur",
+    "flavourProfile": [
+      "Ripe Peach",
+      "Sweet Stone Fruit",
+      "Floral",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Ripe Peach",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Marie Brizard",
+      "France",
+      "Fruit",
+      "Peach"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "fruit-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/marie-brizard-peach-liqueur",
+    "description": "A historic Bordeaux liqueur house since 1755, Marie Brizard's Peach Liqueur delivers ripe stone-fruit sweetness for cocktails like a Bellini.",
+    "shortDescription": "A historic Bordeaux liqueur house's ripe peach expression, since 1755.",
+    "searchKeywords": "marie brizard peach liqueur france 18% 500ml ripe peach stone fruit floral",
+    "badge": "Since 1755",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "marie-brizard-peach-liqueur-500ml-bottle",
+        "sku": "SPIRIT-LIQ-033-500ML",
+        "unitSize": "500ml",
+        "container": "Bottle",
+        "packSize": "500ml Bottle",
+        "price": 39.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "southern-comfort-liqueur",
+    "name": "Southern Comfort Liqueur",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Southern Comfort",
+    "countryOfOrigin": "United States",
+    "regionOrState": "Louisiana",
+    "abv": "35.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Whisky Liqueur",
+    "baseSpirit": "Whiskey",
+    "styleOrVariety": "Fruit-Infused Whiskey Liqueur",
+    "flavourProfile": [
+      "Peach",
+      "Vanilla",
+      "Warm Spice",
+      "Fruit-Forward"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Whiskey, Peach & Spice",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Southern Comfort",
+      "USA",
+      "Whisky Liqueur"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "whisky-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/southern-comfort-liqueur",
+    "description": "An American classic since 1874, Southern Comfort blends whiskey with naturally fruity peach and warming spice accents for an easy, versatile pour.",
+    "shortDescription": "An American classic since 1874 — whiskey with fruity peach and spice.",
+    "searchKeywords": "southern comfort liqueur usa 35% 700ml peach vanilla spice whiskey",
+    "badge": "American Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "southern-comfort-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-034-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "drambuie-scotch-whisky-liqueur",
+    "name": "Drambuie Scotch Whisky Liqueur",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Drambuie",
+    "countryOfOrigin": "Scotland",
+    "regionOrState": "Scotland",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Liqueur",
+    "liqueurType": "Whisky Liqueur",
+    "baseSpirit": "Scotch Whisky",
+    "styleOrVariety": "Scotch Whisky Liqueur",
+    "flavourProfile": [
+      "Heather Honey",
+      "Herbal",
+      "Anise",
+      "Smooth Scotch"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended Scotch Whisky, Honey, Herbs & Spice",
+    "controlledTags": [
+      "Spirits",
+      "Liqueur",
+      "Drambuie",
+      "Scotland",
+      "Whisky Liqueur"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs",
+      "whisky-liqueur"
+    ],
+    "seoUrl": "/spirits/liqueurs/drambuie-scotch-whisky-liqueur",
+    "description": "A centuries-old Scottish liqueur blending aged Scotch whisky with heather honey, herbs and spices — the essential base for a Rusty Nail.",
+    "shortDescription": "A centuries-old Scotch whisky liqueur — essential for a Rusty Nail.",
+    "searchKeywords": "drambuie scotch whisky liqueur scotland 40% 700ml heather honey herbal anise",
+    "badge": "Rusty Nail Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "drambuie-scotch-whisky-liqueur-700ml-bottle",
+        "sku": "SPIRIT-LIQ-035-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
