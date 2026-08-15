@@ -59958,22 +59958,131 @@ export const PRODUCTS = [
       }
     ]
   },
+];
+
+export function getProductsForCategory(mainCategory, subCategory) {
+  return PRODUCTS.filter((p) => {
+    const cat = p.primaryCategory || p.category;
+    if (cat !== mainCategory) return false;
+    if (subCategory) {
+      const sub = p.primarySubcategory || p.subcategory;
+      if (sub !== subCategory) return false;
+    }
+    return true;
+  });
+}
+
+export const COMPLIANCE = {
+  ageMinimum: 18,
+  licenseNumber: 'LIQP770010234',
+  disclaimer:
+    'Liquor Act 2007: It is an offence to sell or supply alcohol to, or to obtain alcohol on behalf of, a person under the age of 18 years. Liquor License No. LIQP770010234.',
+  rsaStatement:
+    'Liquor Locker AU promotes the Responsible Service of Alcohol. We do not make any claims of health or medical benefits, and we do not condone excessive consumption or intoxication.',
+};
+
+export const FAQ = [
   {
-    "slug": "bacardi-carta-oro-gold-rum",
-    "name": "Bacardi Carta Oro Gold Rum",
-    "price": 49.99,
-    "primaryCategory": "spirits",
-    "category": "spirits",
-    "primarySubcategory": "rum",
-    "subcategory": "rum",
-    "brand": "Bacardi",
-    "countryOfOrigin": "Puerto Rico",
-    "regionOrState": "Cataño, Caribbean",
-    "abv": "37.5%",
-    "containerType": "Bottle",
-    "bottleOrCanSize": "700ml",
-    "packSize": "700ml Bottle",
-    "primaryProductType": "Rum",
-    "rumStyle": "Gold",
-    "styleOrVariety": "Gold Rum",
-    
+    question: 'What is the minimum order value?',
+    answer:
+      'The minimum order value at Liquor Locker AU is $250 AUD. This ensures we can offer nationwide climate-controlled express shipping at the best possible rate.',
+  },
+  {
+    question: 'Do you offer free shipping?',
+    answer:
+      'Yes. Orders over $350 AUD qualify for free express climate-controlled shipping Australia-wide. Orders under this threshold incur a flat shipping fee of $15 AUD.',
+  },
+  {
+    question: 'Do you accept cryptocurrency payments?',
+    answer:
+      'Yes. We accept Bitcoin (BTC) and USDT, and orders paid via crypto receive an instant 10% discount at checkout.',
+  },
+  {
+    question: 'What other payment methods do you accept?',
+    answer:
+      'We accept direct bank transfer, PayID, and cryptocurrency (BTC/USDT). Full payment details are provided at checkout.',
+  },
+  {
+    question: 'How do you verify my age?',
+    answer:
+      'In accordance with Australian Liquor Licensing Laws (RSA Regulations), all visitors must confirm they are at least 18 years of age via our age verification gate before browsing or purchasing.',
+  },
+  {
+    question: 'How is my order shipped and stored?',
+    answer:
+      'Every order ships in climate-controlled, insured express courier packaging nationwide to protect rare and premium bottles from temperature damage in transit.',
+  },
+  {
+    question: 'Do you offer wholesale or bulk pricing?',
+    answer:
+      'Yes. Venues, retailers, and collectors can enquire about tiered wholesale pricing via our Wholesale page or by contacting our concierge team directly.',
+  },
+  {
+    question: 'How can I contact Liquor Locker AU?',
+    answer:
+      'Reach our concierge team via WhatsApp, email at orders@liquorlocker.com.au, or phone on 1300 555 789. We are based in Barangaroo, Sydney.',
+  },
+];
+
+export const POSTS = [
+  {
+    slug: 'rare-japanese-whisky-collecting-guide',
+    title: 'The Collector’s Guide to Rare Japanese Whisky',
+    excerpt:
+      'From Yamazaki to Hibiki, learn how to identify, evaluate, and cellar rare Japanese whisky allocations for long-term collecting.',
+    category: 'Whisky',
+    date: '2026-06-12',
+    readTime: '6 min read',
+    image: 'https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    slug: 'tasmanian-single-malt-tasting-notes',
+    title: 'Tasmanian Single Malt: Tasting Notes from the Vault',
+    excerpt:
+      'A tasting tour through Tasmania’s finest single malt distilleries and what makes the island’s whisky scene world-class.',
+    category: 'Whisky',
+    date: '2026-05-28',
+    readTime: '5 min read',
+    image: 'https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    slug: 'craft-gin-botanicals-explained',
+    title: 'Craft Gin Botanicals Explained: A Flavour Map',
+    excerpt:
+      'Juniper, native pepperberry, finger lime — a guide to the botanicals defining Australia’s craft gin renaissance.',
+    category: 'Gin',
+    date: '2026-05-14',
+    readTime: '4 min read',
+    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    slug: 'how-to-grade-extra-anejo-tequila',
+    title: 'How to Grade an Extra Añejo Tequila',
+    excerpt:
+      'Understanding agave sourcing, barrel ageing, and NOM codes when evaluating premium extra añejo tequila for your collection.',
+    category: 'Tequila',
+    date: '2026-04-30',
+    readTime: '5 min read',
+    image: 'https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    slug: 'cellaring-fine-wine-at-home',
+    title: 'Cellaring Fine Wine at Home: A Practical Guide',
+    excerpt:
+      'Temperature, humidity, and light — the essentials of storing Barossa Shiraz and Margaret River Cabernet for long-term ageing.',
+    category: 'Wine',
+    date: '2026-04-16',
+    readTime: '6 min read',
+    image: 'https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    slug: 'crypto-payments-for-spirits-buyers',
+    title: 'Why Collectors Are Paying for Spirits with Crypto',
+    excerpt:
+      'A look at how Bitcoin and USDT payments are changing the way Australian collectors buy rare spirits — and why it pays to switch.',
+    category: 'Guides',
+    date: '2026-03-22',
+    readTime: '3 min read',
+    image: 'https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=1200&auto=format&fit=crop',
+  },
+];
