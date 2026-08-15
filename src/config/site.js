@@ -73673,6 +73673,1478 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "four-pillars-bloody-raspberry-ginger-gin-punch",
+    "name": "Four Pillars Bloody Raspberry & Ginger Gin Punch",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "gin-premix",
+    "subcategory": "gin-premix",
+    "brand": "Four Pillars",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Healesville, Yarra Valley VIC",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Gin RTD",
+    "baseSpirit": "Bloody Shiraz Gin",
+    "styleOrVariety": "Gin Punch RTD",
+    "flavourProfile": [
+      "Raspberry",
+      "Ginger",
+      "Shiraz Grape",
+      "Fizzy"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Gin RTD",
+      "Four Pillars",
+      "Australia"
+    ],
+    "collections": [
+      "premix-rtds",
+      "gin-premix"
+    ],
+    "seoUrl": "/premix-rtds/gin-premix/four-pillars-bloody-raspberry-ginger-gin-punch",
+    "description": "Made with Four Pillars' fan-favourite Bloody Shiraz Gin, this fizzy, refreshing punch layers raspberry and ginger over the gin's signature grape character.",
+    "shortDescription": "A fizzy gin punch made with Four Pillars' Bloody Shiraz Gin.",
+    "searchKeywords": "four pillars bloody raspberry ginger gin punch rtd australia 6% 330ml can",
+    "badge": "Canned Cocktail",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "four-pillars-bloody-raspberry-ginger-gin-punch-330ml-can",
+        "sku": "RTD-001-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "four-pillars-yuzu-pineapple-lime-gin-smash",
+    "name": "Four Pillars Yuzu, Pineapple & Lime Gin Smash",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "gin-premix",
+    "subcategory": "gin-premix",
+    "brand": "Four Pillars",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Healesville, Yarra Valley VIC",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Gin RTD",
+    "baseSpirit": "Fresh Yuzu Gin",
+    "styleOrVariety": "Gin Smash RTD",
+    "flavourProfile": [
+      "Yuzu",
+      "Pineapple",
+      "Lime",
+      "Tropical"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Gin RTD",
+      "Four Pillars",
+      "Australia"
+    ],
+    "collections": [
+      "premix-rtds",
+      "gin-premix"
+    ],
+    "seoUrl": "/premix-rtds/gin-premix/four-pillars-yuzu-pineapple-lime-gin-smash",
+    "description": "A light, tropical canned gin smash bursting with citrus, built on Four Pillars' Fresh Yuzu Gin.",
+    "shortDescription": "A light, tropical gin smash built on Four Pillars' Yuzu Gin.",
+    "searchKeywords": "four pillars yuzu pineapple lime gin smash rtd australia 6% 330ml can",
+    "badge": "Canned Cocktail",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "four-pillars-yuzu-pineapple-lime-gin-smash-330ml-can",
+        "sku": "RTD-002-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "four-pillars-passionfruit-orange-gin-crush",
+    "name": "Four Pillars Passionfruit & Orange Gin Crush",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "gin-premix",
+    "subcategory": "gin-premix",
+    "brand": "Four Pillars",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Healesville, Yarra Valley VIC",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Gin RTD",
+    "baseSpirit": "Rare Dry Gin",
+    "styleOrVariety": "Gin Crush RTD",
+    "flavourProfile": [
+      "Passionfruit",
+      "Orange",
+      "Fizzy Citrus",
+      "Bright"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Gin RTD",
+      "Four Pillars",
+      "Australia"
+    ],
+    "collections": [
+      "premix-rtds",
+      "gin-premix"
+    ],
+    "seoUrl": "/premix-rtds/gin-premix/four-pillars-passionfruit-orange-gin-crush",
+    "description": "Four Pillars' iconic Rare Dry Gin paired with fizzy orange and passionfruit for a bright, crushable canned cocktail.",
+    "shortDescription": "Four Pillars' Rare Dry Gin paired with fizzy orange and passionfruit.",
+    "searchKeywords": "four pillars passionfruit orange gin crush rtd australia 6% 330ml can",
+    "badge": "Canned Cocktail",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "four-pillars-passionfruit-orange-gin-crush-330ml-can",
+        "sku": "RTD-003-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "four-pillars-gin-tonic-cans",
+    "name": "Four Pillars Rare Dry Gin & Tonic",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "gin-premix",
+    "subcategory": "gin-premix",
+    "brand": "Four Pillars",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Healesville, Yarra Valley VIC",
+    "abv": "6.8%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Gin RTD",
+    "baseSpirit": "Rare Dry Gin",
+    "styleOrVariety": "Gin & Tonic RTD",
+    "flavourProfile": [
+      "Juniper",
+      "Citrus Peel",
+      "Quinine",
+      "Crisp"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Gin RTD",
+      "Four Pillars",
+      "Australia",
+      "G&T"
+    ],
+    "collections": [
+      "premix-rtds",
+      "gin-premix"
+    ],
+    "seoUrl": "/premix-rtds/gin-premix/four-pillars-gin-tonic-cans",
+    "description": "Four Pillars' award-winning Rare Dry Gin pre-mixed with tonic in a can, ready over ice.",
+    "shortDescription": "Four Pillars' award-winning Rare Dry Gin pre-mixed with tonic.",
+    "searchKeywords": "four pillars rare dry gin tonic cans rtd australia 6.8% 250ml can",
+    "badge": "Canned G&T",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "four-pillars-gin-tonic-cans-250ml-can",
+        "sku": "RTD-004-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "archie-rose-gin-blackberry-soda",
+    "name": "Archie Rose Gin & Blackberry Soda with Lemon Myrtle",
+    "price": 7.5,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "gin-premix",
+    "subcategory": "gin-premix",
+    "brand": "Archie Rose",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Rosebery, Sydney NSW",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Gin RTD",
+    "baseSpirit": "Straight Dry Gin",
+    "styleOrVariety": "Gin & Soda RTD",
+    "flavourProfile": [
+      "Blackberry",
+      "Lemon Myrtle",
+      "Juniper",
+      "Soda Fizz"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Gin RTD",
+      "Archie Rose",
+      "Australia"
+    ],
+    "collections": [
+      "premix-rtds",
+      "gin-premix"
+    ],
+    "seoUrl": "/premix-rtds/gin-premix/archie-rose-gin-blackberry-soda",
+    "description": "Part of Archie Rose's Fundamental Spirits can range, this gin and soda blends blackberry with native lemon myrtle over their Straight Dry Gin.",
+    "shortDescription": "Archie Rose's Straight Dry Gin with blackberry and lemon myrtle.",
+    "searchKeywords": "archie rose gin blackberry soda lemon myrtle rtd australia 6% 330ml can",
+    "badge": "Fundamental Spirits Range",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "archie-rose-gin-blackberry-soda-330ml-can",
+        "sku": "RTD-005-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7.5,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "manly-spirits-dry-gin-and-tonic",
+    "name": "Manly Spirits Australian Dry Gin & Tonic",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "gin-premix",
+    "subcategory": "gin-premix",
+    "brand": "Manly Spirits Co.",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Manly, Sydney NSW",
+    "abv": "6.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "275ml",
+    "packSize": "275ml Bottle",
+    "primaryProductType": "RTD",
+    "drinkType": "Gin RTD",
+    "baseSpirit": "Australian Dry Gin",
+    "styleOrVariety": "Gin & Tonic RTD",
+    "flavourProfile": [
+      "Juniper",
+      "Coastal Botanicals",
+      "Citrus",
+      "Crisp"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Gin RTD",
+      "Manly Spirits",
+      "Australia",
+      "G&T"
+    ],
+    "collections": [
+      "premix-rtds",
+      "gin-premix"
+    ],
+    "seoUrl": "/premix-rtds/gin-premix/manly-spirits-dry-gin-and-tonic",
+    "description": "A low-calorie, ready-to-drink gin and tonic made with Manly Spirits' Australian Dry Gin, bottled and ready over ice.",
+    "shortDescription": "A ready-to-drink G&T made with Manly Spirits' Australian Dry Gin.",
+    "searchKeywords": "manly spirits australian dry gin tonic rtd australia 6% 275ml bottle",
+    "badge": "Coastal Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "manly-spirits-dry-gin-and-tonic-275ml-bottle",
+        "sku": "RTD-006-275ML",
+        "unitSize": "275ml",
+        "container": "Bottle",
+        "packSize": "275ml Bottle",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "papa-salt-paloma",
+    "name": "Papa Salt Paloma",
+    "price": 7.5,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "tequila-premix",
+    "subcategory": "tequila-premix",
+    "brand": "Papa Salt",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Australia",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Tequila RTD",
+    "baseSpirit": "Papa Salt Tequila",
+    "styleOrVariety": "Paloma RTD",
+    "flavourProfile": [
+      "Grapefruit",
+      "Rosemary",
+      "Lime",
+      "Crisp"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Tequila RTD",
+      "Papa Salt",
+      "Australia",
+      "Paloma"
+    ],
+    "collections": [
+      "premix-rtds",
+      "tequila-premix"
+    ],
+    "seoUrl": "/premix-rtds/tequila-premix/papa-salt-paloma",
+    "description": "A canned Paloma combining locally sourced cold-pressed grapefruit juice and a hint of rosemary with Papa Salt tequila.",
+    "shortDescription": "A canned Paloma with cold-pressed grapefruit and a hint of rosemary.",
+    "searchKeywords": "papa salt paloma rtd australia 5% 250ml can grapefruit rosemary lime",
+    "badge": "Cold-Pressed Grapefruit",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "papa-salt-paloma-250ml-can",
+        "sku": "RTD-007-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7.5,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "curatif-espresso-martini",
+    "name": "Curatif Espresso Martini",
+    "price": 11.25,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "cocktails",
+    "subcategory": "cocktails",
+    "brand": "Curatif",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Australia",
+    "abv": "16.4%",
+    "containerType": "Can",
+    "bottleOrCanSize": "120ml",
+    "packSize": "120ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Espresso Martini",
+    "baseSpirit": "Archie Rose Vodka",
+    "styleOrVariety": "Canned Espresso Martini",
+    "flavourProfile": [
+      "Espresso",
+      "Vodka",
+      "Coffee Bitterness",
+      "Silky"
+    ],
+    "dietary": [
+      "Australian Made",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Cocktails",
+      "Curatif",
+      "Australia",
+      "Espresso Martini"
+    ],
+    "collections": [
+      "premix-rtds",
+      "cocktails"
+    ],
+    "seoUrl": "/premix-rtds/cocktails/curatif-espresso-martini",
+    "description": "Crafted from Archie Rose Vodka and single-origin coffee from Seven Seeds Roasters, Curatif's Espresso Martini is a premium canned cocktail at true cocktail strength.",
+    "shortDescription": "A premium canned Espresso Martini at true cocktail strength.",
+    "searchKeywords": "curatif espresso martini canned cocktail australia 16.4% 120ml can archie rose vodka",
+    "badge": "True Cocktail Strength",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "curatif-espresso-martini-120ml-can",
+        "sku": "RTD-008-120ML",
+        "unitSize": "120ml",
+        "container": "Can",
+        "packSize": "120ml Can",
+        "price": 11.25,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "curatif-negroni",
+    "name": "Curatif Negroni",
+    "price": 12.5,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "cocktails",
+    "subcategory": "cocktails",
+    "brand": "Curatif",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Australia",
+    "abv": "17.35%",
+    "containerType": "Can",
+    "bottleOrCanSize": "120ml",
+    "packSize": "120ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Negroni",
+    "baseSpirit": "Four Pillars Spiced Negroni Gin",
+    "styleOrVariety": "Canned Negroni",
+    "flavourProfile": [
+      "Bitter Orange",
+      "Herbal Gin",
+      "Vermouth",
+      "Bold"
+    ],
+    "dietary": [
+      "Australian Made",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Cocktails",
+      "Curatif",
+      "Australia",
+      "Negroni"
+    ],
+    "collections": [
+      "premix-rtds",
+      "cocktails"
+    ],
+    "seoUrl": "/premix-rtds/cocktails/curatif-negroni",
+    "description": "Made with Four Pillars Spiced Negroni Gin, Campari and Martini Rosso, Curatif's Negroni is a bold, true-to-recipe canned classic.",
+    "shortDescription": "A bold, true-to-recipe canned Negroni made with Four Pillars gin.",
+    "searchKeywords": "curatif negroni canned cocktail australia 17.35% 120ml can four pillars campari",
+    "badge": "True Cocktail Strength",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "curatif-negroni-120ml-can",
+        "sku": "RTD-009-120ML",
+        "unitSize": "120ml",
+        "container": "Can",
+        "packSize": "120ml Can",
+        "price": 12.5,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kirin-hyoketsu-lemon",
+    "name": "Kirin Hyoketsu Lemon",
+    "price": 6,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Kirin",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Japan",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Vodka RTD",
+    "baseSpirit": "Vodka",
+    "styleOrVariety": "Japanese Chuhai",
+    "flavourProfile": [
+      "Lemon",
+      "Slightly Sweet",
+      "Tart",
+      "Clean Finish"
+    ],
+    "dietary": [
+      "Imported"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Vodka RTD",
+      "Kirin",
+      "Japan",
+      "Chuhai"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/kirin-hyoketsu-lemon",
+    "description": "Japan's #1 premix, made from vodka, soda and natural lemon juice using Hyoten Toketsu freezing technology to lock in fruit intensity.",
+    "shortDescription": "Japan's #1 premix — vodka, soda and natural lemon juice.",
+    "searchKeywords": "kirin hyoketsu lemon chuhai rtd japan 6% 330ml can vodka soda",
+    "badge": "Japan's #1 Premix",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kirin-hyoketsu-lemon-330ml-can",
+        "sku": "RTD-010-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 6,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kirin-hyoketsu-green-apple",
+    "name": "Kirin Hyoketsu Green Apple",
+    "price": 6,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Kirin",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Japan",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Vodka RTD",
+    "baseSpirit": "Vodka",
+    "styleOrVariety": "Japanese Chuhai",
+    "flavourProfile": [
+      "Green Apple",
+      "Crisp",
+      "Natural Juice",
+      "Refreshing"
+    ],
+    "dietary": [
+      "Imported"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Vodka RTD",
+      "Kirin",
+      "Japan",
+      "Chuhai"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/kirin-hyoketsu-green-apple",
+    "description": "Vodka, soda and natural green apple juice locked in with Kirin's Hyoten Toketsu freezing technology for a crisp, refreshing chuhai.",
+    "shortDescription": "Vodka, soda and natural green apple juice — a crisp chuhai.",
+    "searchKeywords": "kirin hyoketsu green apple chuhai rtd japan 6% 330ml can vodka soda",
+    "badge": "Japan's #1 Premix",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kirin-hyoketsu-green-apple-330ml-can",
+        "sku": "RTD-011-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 6,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kirin-prime-sour-ginger-ale-highball",
+    "name": "Kirin Prime Sour Ginger Ale Highball",
+    "price": 6,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "whisky-premix",
+    "subcategory": "whisky-premix",
+    "brand": "Kirin",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Japan",
+    "abv": "9.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "350ml",
+    "packSize": "350ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Highball",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Japanese Strong Highball",
+    "flavourProfile": [
+      "Ginger Ale",
+      "Crisp",
+      "Zero Sugar",
+      "Bold"
+    ],
+    "dietary": [
+      "Imported",
+      "Sugar-Free"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Highball",
+      "Kirin",
+      "Japan",
+      "Prime Sour"
+    ],
+    "collections": [
+      "premix-rtds",
+      "whisky-premix"
+    ],
+    "seoUrl": "/premix-rtds/whisky-premix/kirin-prime-sour-ginger-ale-highball",
+    "description": "A bold, zero-sugar Japanese strong highball with crisp ginger ale character at a full-strength 9% ABV.",
+    "shortDescription": "A bold, zero-sugar Japanese strong highball at 9% ABV.",
+    "searchKeywords": "kirin prime sour ginger ale highball rtd japan 9% 350ml can zero sugar",
+    "badge": "Zero Sugar, 9% ABV",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kirin-prime-sour-ginger-ale-highball-350ml-can",
+        "sku": "RTD-012-350ML",
+        "unitSize": "350ml",
+        "container": "Can",
+        "packSize": "350ml Can",
+        "price": 6,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "asahi-future-lemon-sour",
+    "name": "Asahi Future Lemon Sour",
+    "price": 6,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Asahi",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Japan",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "345ml",
+    "packSize": "345ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Vodka RTD",
+    "baseSpirit": "Neutral Spirit",
+    "styleOrVariety": "Japanese Chu-Hai",
+    "flavourProfile": [
+      "Fresh Lemon",
+      "Tart",
+      "Clean",
+      "Sessionable"
+    ],
+    "dietary": [
+      "Imported"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Vodka RTD",
+      "Asahi",
+      "Japan",
+      "Chu-Hai"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/asahi-future-lemon-sour",
+    "description": "A Japanese chu-hai with a distinctive fresh lemon character, sessionable at 5% ABV with a clean, tart finish.",
+    "shortDescription": "A Japanese chu-hai with fresh, tart lemon character.",
+    "searchKeywords": "asahi future lemon sour chuhai rtd japan 5% 345ml can lemon tart",
+    "badge": "Japanese Chu-Hai",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "asahi-future-lemon-sour-345ml-can",
+        "sku": "RTD-013-345ML",
+        "unitSize": "345ml",
+        "container": "Can",
+        "packSize": "345ml Can",
+        "price": 6,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "captain-morgan-spiced-gold-and-cola",
+    "name": "Captain Morgan Spiced Gold & Cola",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "rum-premix",
+    "subcategory": "rum-premix",
+    "brand": "Captain Morgan",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Australia",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Rum RTD",
+    "baseSpirit": "Original Spiced Gold Rum",
+    "styleOrVariety": "Spiced Rum & Cola RTD",
+    "flavourProfile": [
+      "Vanilla",
+      "Cola",
+      "Warm Spice",
+      "Caramel"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Rum RTD",
+      "Captain Morgan",
+      "Cola"
+    ],
+    "collections": [
+      "premix-rtds",
+      "rum-premix"
+    ],
+    "seoUrl": "/premix-rtds/rum-premix/captain-morgan-spiced-gold-and-cola",
+    "description": "The perfect blend of Captain Morgan's Original Spiced Gold Rum and classic cola, canned and ready to drink.",
+    "shortDescription": "Captain Morgan's Original Spiced Gold Rum blended with classic cola.",
+    "searchKeywords": "captain morgan spiced gold cola rtd 6% 250ml can vanilla cola spice",
+    "badge": "Classic Rum & Cola",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "captain-morgan-spiced-gold-and-cola-250ml-can",
+        "sku": "RTD-014-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "espolon-sparkling-paloma",
+    "name": "Espolòn Sparkling Paloma",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "tequila-premix",
+    "subcategory": "tequila-premix",
+    "brand": "Espolón",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Australia",
+    "abv": "4.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Tequila RTD",
+    "baseSpirit": "Espolón Tequila",
+    "styleOrVariety": "Sparkling Paloma RTD",
+    "flavourProfile": [
+      "Grapefruit",
+      "Lime",
+      "Sparkling",
+      "Bittersweet"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Tequila RTD",
+      "Espolon",
+      "Paloma"
+    ],
+    "collections": [
+      "premix-rtds",
+      "tequila-premix"
+    ],
+    "seoUrl": "/premix-rtds/tequila-premix/espolon-sparkling-paloma",
+    "description": "Espolón Tequila's first Australian RTD release, marrying sweet and bitter grapefruit with tart lime in a sparkling canned Paloma.",
+    "shortDescription": "Espolón's first Australian RTD — sweet and bitter grapefruit, tart lime.",
+    "searchKeywords": "espolon sparkling paloma rtd australia 4.5% 330ml can grapefruit lime",
+    "badge": "Espolón's First AU RTD",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "espolon-sparkling-paloma-330ml-can",
+        "sku": "RTD-015-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "espolon-sparkling-margarita",
+    "name": "Espolòn Sparkling Margarita",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "tequila-premix",
+    "subcategory": "tequila-premix",
+    "brand": "Espolón",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Australia",
+    "abv": "4.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Tequila RTD",
+    "baseSpirit": "Espolón Tequila",
+    "styleOrVariety": "Sparkling Margarita RTD",
+    "flavourProfile": [
+      "Lime",
+      "Triple Sec",
+      "Sparkling",
+      "Zesty"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Tequila RTD",
+      "Espolon",
+      "Margarita"
+    ],
+    "collections": [
+      "premix-rtds",
+      "tequila-premix"
+    ],
+    "seoUrl": "/premix-rtds/tequila-premix/espolon-sparkling-margarita",
+    "description": "Espolón Tequila's canned Sparkling Margarita features natural lime flavours and triple sec for a zesty, sessionable pour.",
+    "shortDescription": "Espolón's canned Sparkling Margarita with natural lime and triple sec.",
+    "searchKeywords": "espolon sparkling margarita rtd australia 4.5% 330ml can lime triple sec",
+    "badge": "Espolón's First AU RTD",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "espolon-sparkling-margarita-330ml-can",
+        "sku": "RTD-016-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "zonzo-estate-zoncello-spritz",
+    "name": "Zonzo Estate Zoncello Spritz",
+    "price": 7.25,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "cocktails",
+    "subcategory": "cocktails",
+    "brand": "Zonzo Estate",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Yarra Valley, Victoria",
+    "abv": "6.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Spritz",
+    "baseSpirit": "Limoncello",
+    "styleOrVariety": "Limoncello Spritz RTD",
+    "flavourProfile": [
+      "Lemon",
+      "Sparkling",
+      "Bright",
+      "Zesty"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Spritz",
+      "Zonzo Estate",
+      "Australia",
+      "Yarra Valley"
+    ],
+    "collections": [
+      "premix-rtds",
+      "cocktails"
+    ],
+    "seoUrl": "/premix-rtds/cocktails/zonzo-estate-zoncello-spritz",
+    "description": "Yarra Valley winery Zonzo Estate's canned limoncello spritz, bright and zesty, one of the first Australian wineries to enter the RTD canned cocktail space.",
+    "shortDescription": "A Yarra Valley winery's canned limoncello spritz, bright and zesty.",
+    "searchKeywords": "zonzo estate zoncello limoncello spritz rtd australia 6.5% 250ml can lemon",
+    "badge": "Yarra Valley Winery RTD",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "zonzo-estate-zoncello-spritz-250ml-can",
+        "sku": "RTD-017-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7.25,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "grog-peach",
+    "name": "Grog! Peach",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Grog",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Australia",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Vodka RTD",
+    "baseSpirit": "Shochu & Vodka",
+    "styleOrVariety": "Japanese-Style Hard Soda",
+    "flavourProfile": [
+      "Peach",
+      "Fizzy",
+      "Light",
+      "Sessionable"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Vodka RTD",
+      "Grog",
+      "Australia",
+      "Hard Soda"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/grog-peach",
+    "description": "A viral Australian hard soda blending shochu, vodka and soda with natural peach flavour, inspired by Japanese chuhai culture.",
+    "shortDescription": "A viral Australian hard soda with shochu, vodka and peach.",
+    "searchKeywords": "grog peach hard soda rtd australia 5% 330ml can shochu vodka soda",
+    "badge": "Viral Aussie RTD",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "grog-peach-330ml-can",
+        "sku": "RTD-018-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "grog-grape",
+    "name": "Grog! Grape",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Grog",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Australia",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Vodka RTD",
+    "baseSpirit": "Shochu & Vodka",
+    "styleOrVariety": "Japanese-Style Hard Soda",
+    "flavourProfile": [
+      "Grape",
+      "Fizzy",
+      "Light",
+      "Sessionable"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Vodka RTD",
+      "Grog",
+      "Australia",
+      "Hard Soda"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/grog-grape",
+    "description": "A viral Australian hard soda blending shochu, vodka and soda with natural grape flavour, inspired by Japanese chuhai culture.",
+    "shortDescription": "A viral Australian hard soda with shochu, vodka and grape.",
+    "searchKeywords": "grog grape hard soda rtd australia 5% 330ml can shochu vodka soda",
+    "badge": "Viral Aussie RTD",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "grog-grape-330ml-can",
+        "sku": "RTD-019-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "gee-up-vodka-strawberry-raspberry",
+    "name": "Gee Up Vodka Strawberry & Raspberry",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Gee Up",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Australia",
+    "abv": "5.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "275ml",
+    "packSize": "275ml Bottle",
+    "primaryProductType": "RTD",
+    "drinkType": "Vodka RTD",
+    "baseSpirit": "Triple-Distilled Vodka",
+    "styleOrVariety": "Vodka RTD with Electrolytes",
+    "flavourProfile": [
+      "Strawberry",
+      "Raspberry",
+      "Light",
+      "Fruity"
+    ],
+    "dietary": [
+      "Australian Made",
+      "Low Sugar"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Vodka RTD",
+      "Gee Up",
+      "Australia",
+      "Electrolytes"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/gee-up-vodka-strawberry-raspberry",
+    "description": "A triple-distilled vodka RTD with added electrolytes and half the sugar of a traditional premix, in strawberry and raspberry.",
+    "shortDescription": "A vodka RTD with added electrolytes and half the usual sugar.",
+    "searchKeywords": "gee up vodka strawberry raspberry rtd australia 5% 275ml bottle electrolytes",
+    "badge": "With Electrolytes",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "gee-up-vodka-strawberry-raspberry-275ml-bottle",
+        "sku": "RTD-020-275ML",
+        "unitSize": "275ml",
+        "container": "Bottle",
+        "packSize": "275ml Bottle",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fellr-watermelon-seltzer",
+    "name": "Fellr Watermelon Seltzer",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "hard-seltzer",
+    "subcategory": "hard-seltzer",
+    "brand": "Fellr",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Sydney, NSW",
+    "abv": "4.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Seltzer",
+    "baseSpirit": "Fermented Rice & Corn Mash",
+    "styleOrVariety": "Brewed Hard Seltzer",
+    "flavourProfile": [
+      "Watermelon",
+      "Light",
+      "Full-Bodied",
+      "Crisp"
+    ],
+    "dietary": [
+      "Australian Made",
+      "Low Sugar"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Hard Seltzer",
+      "Fellr",
+      "Australia"
+    ],
+    "collections": [
+      "premix-rtds",
+      "hard-seltzer"
+    ],
+    "seoUrl": "/premix-rtds/hard-seltzer/fellr-watermelon-seltzer",
+    "description": "Award-winning Australian hard seltzer brewed from a fermented rice and corn mash rather than added spirit, giving Fellr a fuller body than typical seltzers.",
+    "shortDescription": "Award-winning Australian seltzer, brewed for a fuller body.",
+    "searchKeywords": "fellr watermelon hard seltzer australia 4.5% 330ml can brewed",
+    "badge": "Award-Winning Seltzer",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fellr-watermelon-seltzer-330ml-can",
+        "sku": "RTD-021-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "hard-fizz-seltzer",
+    "name": "Hard Fizz Seltzer",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "hard-seltzer",
+    "subcategory": "hard-seltzer",
+    "brand": "Hard Fizz",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Gold Coast, Queensland",
+    "abv": "4.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "RTD",
+    "drinkType": "Seltzer",
+    "baseSpirit": "Fermented Cane Sugar",
+    "styleOrVariety": "Low-Calorie Hard Seltzer",
+    "flavourProfile": [
+      "Light",
+      "Clean",
+      "Sessionable",
+      "Crisp"
+    ],
+    "dietary": [
+      "Australian Made",
+      "99% Sugar-Free",
+      "Gluten-Free"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "",
+    "controlledTags": [
+      "Premix & RTDs",
+      "Hard Seltzer",
+      "Hard Fizz",
+      "Australia"
+    ],
+    "collections": [
+      "premix-rtds",
+      "hard-seltzer"
+    ],
+    "seoUrl": "/premix-rtds/hard-seltzer/hard-fizz-seltzer",
+    "description": "A Gold Coast-founded hard seltzer with just 77 calories per can, 99% sugar-free and gluten-free for an easy, sessionable pour.",
+    "shortDescription": "A Gold Coast hard seltzer at 77 calories, 99% sugar-free.",
+    "searchKeywords": "hard fizz seltzer australia 4.5% 250ml can low calorie sugar free",
+    "badge": "77 Calories",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hard-fizz-seltzer-250ml-can",
+        "sku": "RTD-022-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
