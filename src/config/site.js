@@ -63332,6 +63332,3927 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "jose-cuervo-especial-silver-tequila",
+    "name": "Jose Cuervo Especial Silver Tequila",
+    "price": 51.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Jose Cuervo",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Silver Tequila; Mixto",
+    "agaveVariety": "Blue Weber Agave (Mixto)",
+    "flavourProfile": [
+      "Citrus",
+      "Pepper",
+      "Clean Agave",
+      "Crisp"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Filtered for Clarity",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Jose Cuervo",
+      "Mexico",
+      "Silver"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "silver-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/jose-cuervo-especial-silver-tequila",
+    "description": "The world's best-selling tequila, Especial Silver is clean and crisp with citrus and black pepper notes — a reliable mixing tequila for margaritas.",
+    "shortDescription": "The world's best-selling tequila, clean and crisp for margaritas.",
+    "searchKeywords": "jose cuervo especial silver tequila mexico 38% 700ml citrus pepper agave",
+    "badge": "World's #1 Tequila",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jose-cuervo-especial-silver-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-001-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 51.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804500",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "jose-cuervo-especial-silver-tequila-1l-bottle",
+        "sku": "SPIRIT-TEQ-001-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 64.99,
+        "stockLevel": 25,
+        "weight": "1.9kg",
+        "barcode": "93109930804501",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jose-cuervo-especial-reposado-tequila",
+    "name": "Jose Cuervo Especial Reposado Tequila",
+    "price": 51.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Jose Cuervo",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; Mixto",
+    "agaveVariety": "Blue Weber Agave (Mixto)",
+    "flavourProfile": [
+      "Caramel",
+      "Vanilla",
+      "Toasted Oak",
+      "Agave"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Rested",
+    "vintage": "",
+    "caskMaturation": "Rested in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Jose Cuervo",
+      "Mexico",
+      "Reposado"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/jose-cuervo-especial-reposado-tequila",
+    "description": "Rested in oak barrels for a smoother, rounder character than Especial Silver, with caramel and vanilla notes over the classic Cuervo agave base.",
+    "shortDescription": "Cuervo's smooth, oak-rested reposado with caramel and vanilla notes.",
+    "searchKeywords": "jose cuervo especial reposado gold tequila mexico 38% 700ml caramel vanilla oak",
+    "badge": "Classic Gold",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jose-cuervo-especial-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-002-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 51.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804502",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "jose-cuervo-especial-reposado-tequila-1l-bottle",
+        "sku": "SPIRIT-TEQ-002-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 64.99,
+        "stockLevel": 25,
+        "weight": "1.9kg",
+        "barcode": "93109930804503",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jose-cuervo-tradicional-silver-tequila",
+    "name": "Jose Cuervo Tradicional Silver Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Jose Cuervo",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Silver Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Cooked Agave",
+      "Citrus",
+      "Black Pepper",
+      "Clean Finish"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Double Distilled",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Jose Cuervo",
+      "Mexico",
+      "Silver",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "silver-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/jose-cuervo-tradicional-silver-tequila",
+    "description": "Cuervo's premium 100% agave line, made with traditional methods and double distilled for a fuller, more authentic agave-forward silver tequila.",
+    "shortDescription": "Cuervo's premium 100% agave silver tequila, traditionally made.",
+    "searchKeywords": "jose cuervo tradicional silver tequila mexico 38% 700ml cooked agave citrus pepper",
+    "badge": "100% Agave",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jose-cuervo-tradicional-silver-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-003-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804504",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jose-cuervo-tradicional-reposado-tequila",
+    "name": "Jose Cuervo Tradicional Reposado Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Jose Cuervo",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Golden Agave",
+      "Oak Spice",
+      "Vanilla",
+      "Roasted Pepper"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Rested",
+    "vintage": "",
+    "caskMaturation": "Rested in White Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Jose Cuervo",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/jose-cuervo-tradicional-reposado-tequila",
+    "description": "Fermented and double distilled using traditional methods, then rested in white oak barrels for its signature golden hue and rounded, oak-spiced agave flavour.",
+    "shortDescription": "Cuervo's traditionally made 100% agave reposado, rested in white oak.",
+    "searchKeywords": "jose cuervo tradicional reposado tequila mexico 38% 700ml golden agave oak vanilla",
+    "badge": "100% Agave Reposado",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jose-cuervo-tradicional-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-004-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804505",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "don-julio-blanco-tequila",
+    "name": "Don Julio Blanco Tequila",
+    "price": 119.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Don Julio",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Atotonilco el Alto)",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Blanco Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Citrus",
+      "Black Pepper",
+      "Sweet Agave",
+      "Smooth Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Rested a Minimum 24 Hours",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Don Julio",
+      "Mexico",
+      "Blanco",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "blanco-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/don-julio-blanco-tequila",
+    "description": "The tequila that launched the ultra-premium category, Don Julio Blanco is smooth and citrus-forward with sweet agave and black pepper on a clean finish.",
+    "shortDescription": "The tequila that launched the ultra-premium category — smooth and citrus-forward.",
+    "searchKeywords": "don julio blanco tequila mexico 38% 750ml citrus pepper sweet agave",
+    "badge": "Ultra-Premium Icon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "don-julio-blanco-tequila-750ml-bottle",
+        "sku": "SPIRIT-TEQ-005-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 119.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804506",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "don-julio-reposado-tequila",
+    "name": "Don Julio Reposado Tequila",
+    "price": 126.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Don Julio",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Atotonilco el Alto)",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Caramel",
+      "Roasted Agave",
+      "Oak Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "8 Months",
+    "vintage": "",
+    "caskMaturation": "Rested 8 Months in American & French Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Don Julio",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/don-julio-reposado-tequila",
+    "description": "Rested eight months in a combination of American and French oak barrels, delivering vanilla and caramel over Don Julio's signature roasted agave sweetness.",
+    "shortDescription": "Rested eight months in American and French oak for vanilla and caramel depth.",
+    "searchKeywords": "don julio reposado tequila mexico 38% 750ml vanilla caramel roasted agave",
+    "badge": "Signature Reposado",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "don-julio-reposado-tequila-750ml-bottle",
+        "sku": "SPIRIT-TEQ-006-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 126.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804507",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "don-julio-anejo-tequila",
+    "name": "Don Julio Añejo Tequila",
+    "price": 149.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Don Julio",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Atotonilco el Alto)",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Toffee",
+      "Toasted Oak",
+      "Cinnamon"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "18 Months",
+    "vintage": "",
+    "caskMaturation": "Aged 18 Months in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Don Julio",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/don-julio-anejo-tequila",
+    "description": "Aged eighteen months in American oak barrels, Don Julio Añejo is rich with dried fruit, toffee and cinnamon spice over a deep, oak-driven finish.",
+    "shortDescription": "Aged 18 months in American oak for rich dried fruit and toffee depth.",
+    "searchKeywords": "don julio anejo tequila mexico 38% 750ml dried fruit toffee oak cinnamon",
+    "badge": "18 Month Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "don-julio-anejo-tequila-750ml-bottle",
+        "sku": "SPIRIT-TEQ-007-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 149.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804508",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "don-julio-rosado-tequila",
+    "name": "Don Julio Rosado Tequila",
+    "price": 260,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Don Julio",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Atotonilco el Alto)",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; Port Cask Finish",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dried Red Fruit",
+      "Caramel",
+      "Soft Spice",
+      "Rounded Agave"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Reposado, Port Cask Finished",
+    "vintage": "",
+    "caskMaturation": "Finished in Ruby Port Casks from the Douro Valley",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Don Julio",
+      "Mexico",
+      "Reposado",
+      "Port Finish"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/don-julio-rosado-tequila",
+    "description": "A reposado tequila finished in Ruby Port casks from Portugal's Douro Valley, giving Don Julio Rosado its delicate pink hue and notes of dried red fruit and caramel.",
+    "shortDescription": "A reposado finished in Ruby Port casks with dried red fruit and caramel.",
+    "searchKeywords": "don julio rosado tequila mexico 38% 750ml dried red fruit caramel port cask",
+    "badge": "Port Cask Finish",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "don-julio-rosado-tequila-750ml-bottle",
+        "sku": "SPIRIT-TEQ-008-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 260,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804509",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "herradura-plata-tequila",
+    "name": "Herradura Plata Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Herradura",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Amatitán)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Blanco Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Cooked Agave",
+      "Citrus",
+      "Herbal",
+      "Earthy"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "45 Days",
+    "vintage": "",
+    "caskMaturation": "Rested 45 Days Before Bottling",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Herradura",
+      "Mexico",
+      "Blanco",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "blanco-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/herradura-plata-tequila",
+    "description": "Herradura rests every expression, including Plata, for a minimum of 45 days before bottling — a distillery signature that gives even the silver tequila extra roundness.",
+    "shortDescription": "Rested 45 days before bottling for extra roundness, even unaged.",
+    "searchKeywords": "herradura plata tequila mexico 40% 700ml cooked agave citrus herbal earthy",
+    "badge": "Distillery Since 1870",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "herradura-plata-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-009-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804510",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "herradura-reposado-tequila",
+    "name": "Herradura Reposado Tequila",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Herradura",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Amatitán)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Toasted Oak",
+      "Roasted Agave",
+      "Baking Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "11 Months",
+    "vintage": "",
+    "caskMaturation": "Aged 11 Months in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Herradura",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/herradura-reposado-tequila",
+    "description": "Aged eleven months in American oak, well beyond the legal minimum for reposado, giving Herradura's expression a deeper vanilla and toasted oak profile.",
+    "shortDescription": "Aged 11 months — well beyond the minimum — for deep vanilla and oak.",
+    "searchKeywords": "herradura reposado tequila mexico 40% 700ml vanilla toasted oak roasted agave",
+    "badge": "Extended Ageing",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "herradura-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-010-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804511",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "herradura-anejo-tequila",
+    "name": "Herradura Añejo Tequila",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Herradura",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Amatitán)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Dried Fruit",
+      "Oak Spice",
+      "Long Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "25 Months",
+    "vintage": "",
+    "caskMaturation": "Aged 25 Months in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Herradura",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/herradura-anejo-tequila",
+    "description": "Aged 25 months in American oak barrels, Herradura Añejo is deep and complex with dark caramel and dried fruit carried through a long, spiced finish.",
+    "shortDescription": "Aged 25 months for deep, complex dark caramel and dried fruit.",
+    "searchKeywords": "herradura anejo tequila mexico 40% 700ml dark caramel dried fruit oak spice",
+    "badge": "25 Month Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "herradura-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-011-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804512",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "el-jimador-blanco-tequila",
+    "name": "El Jimador Blanco Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "El Jimador",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Los Altos)",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Blanco Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Citrus",
+      "Pepper",
+      "Clean Agave",
+      "Crisp"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "El Jimador",
+      "Mexico",
+      "Blanco",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "blanco-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/el-jimador-blanco-tequila",
+    "description": "Herradura's accessible sister brand, El Jimador Blanco is a crisp, citrus-forward 100% agave tequila built for everyday margaritas.",
+    "shortDescription": "A crisp, everyday 100% agave blanco from Herradura's sister brand.",
+    "searchKeywords": "el jimador blanco tequila mexico 38% 700ml citrus pepper clean agave",
+    "badge": "Everyday Blanco",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "el-jimador-blanco-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-012-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804513",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "el-jimador-reposado-tequila",
+    "name": "El Jimador Reposado Tequila",
+    "price": 76.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "El Jimador",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Los Altos)",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Caramel",
+      "Light Oak",
+      "Agave"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "2 Months",
+    "vintage": "",
+    "caskMaturation": "Rested in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "El Jimador",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/el-jimador-reposado-tequila",
+    "description": "A well-rounded reposado rested in American oak, offering vanilla and caramel over El Jimador's clean agave base — a reliable step up for sipping or cocktails.",
+    "shortDescription": "A well-rounded reposado with vanilla and caramel over clean agave.",
+    "searchKeywords": "el jimador reposado tequila mexico 38% 700ml vanilla caramel light oak",
+    "badge": "Everyday Reposado",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "el-jimador-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-013-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 76.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804514",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "el-jimador-anejo-tequila",
+    "name": "El Jimador Añejo Tequila",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "El Jimador",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Los Altos)",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Toasted Oak",
+      "Caramel",
+      "Dried Fruit",
+      "Smoky Char"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "12 Months",
+    "vintage": "",
+    "caskMaturation": "Aged 12 Months in Ex-Jack Daniel's Whiskey Casks",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "El Jimador",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/el-jimador-anejo-tequila",
+    "description": "Aged twelve months in charred ex-Jack Daniel's whiskey casks, giving El Jimador Añejo a distinctive smoky char alongside caramel and dried fruit.",
+    "shortDescription": "Aged in ex-Jack Daniel's casks for a distinctive smoky char.",
+    "searchKeywords": "el jimador anejo tequila mexico 38% 700ml toasted oak caramel smoky char",
+    "badge": "Whiskey Cask Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "el-jimador-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-014-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804515",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "olmeca-altos-plata-tequila",
+    "name": "Olmeca Altos Plata Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Olmeca Altos",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Los Altos)",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Blanco Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Cooked Agave",
+      "Black Pepper",
+      "Citrus",
+      "Mineral"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Tahona & Roller Mill Extraction",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Olmeca Altos",
+      "Mexico",
+      "Blanco",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "blanco-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/olmeca-altos-plata-tequila",
+    "description": "Produced in the volcanic red-earth highlands of Los Altos at 2000+ metres, Olmeca Altos Plata is a bartender favourite for its clean, mineral-driven agave character.",
+    "shortDescription": "A bartender favourite from the volcanic highlands with clean, mineral agave character.",
+    "searchKeywords": "olmeca altos plata tequila mexico 38% 700ml cooked agave pepper citrus mineral",
+    "badge": "Bartender's Choice",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "olmeca-altos-plata-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-015-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804516",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "olmeca-altos-reposado-tequila",
+    "name": "Olmeca Altos Reposado Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Olmeca Altos",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Los Altos)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Butterscotch",
+      "Roasted Agave",
+      "Light Oak"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "6-8 Months",
+    "vintage": "",
+    "caskMaturation": "Aged 6-8 Months in Ex-Bourbon Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Olmeca Altos",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/olmeca-altos-reposado-tequila",
+    "description": "Aged six to eight months in ex-bourbon barrels, Olmeca Altos Reposado layers vanilla and butterscotch over its mineral-rich highland agave base.",
+    "shortDescription": "Aged in ex-bourbon barrels for vanilla and butterscotch over highland agave.",
+    "searchKeywords": "olmeca altos reposado tequila mexico 40% 700ml vanilla butterscotch roasted agave",
+    "badge": "Highland Reposado",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "olmeca-altos-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-016-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804517",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "patron-silver-tequila",
+    "name": "Patrón Silver Tequila",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Patrón",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Atotonilco el Alto)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Silver Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Sweet Agave",
+      "Citrus",
+      "Pepper",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Small Batch Distilled",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Patron",
+      "Mexico",
+      "Silver",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "silver-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/patron-silver-tequila",
+    "description": "Handcrafted from 100% Weber Blue Agave and distilled in small batches at Hacienda Patrón, Silver is the brand's signature smooth, sweet-agave sipping tequila.",
+    "shortDescription": "Small-batch distilled at Hacienda Patrón — smooth and sweetly agave-forward.",
+    "searchKeywords": "patron silver tequila mexico 40% 700ml sweet agave citrus pepper smooth",
+    "badge": "Small Batch",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "patron-silver-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-017-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804518",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "patron-reposado-tequila",
+    "name": "Patrón Reposado Tequila",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Patrón",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Atotonilco el Alto)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Caramel",
+      "Toasted Oak",
+      "Sweet Agave"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Minimum 2 Months",
+    "vintage": "",
+    "caskMaturation": "Aged a Minimum of 2 Months in a Variety of Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Patron",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/patron-reposado-tequila",
+    "description": "Aged a minimum of two months in a variety of oak barrels at Hacienda Patrón, Reposado carries vanilla and caramel over the brand's signature sweet agave base.",
+    "shortDescription": "Aged at Hacienda Patrón for smooth vanilla and caramel over sweet agave.",
+    "searchKeywords": "patron reposado tequila mexico 40% 700ml vanilla caramel toasted oak agave",
+    "badge": "Hacienda Patrón",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "patron-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-018-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804519",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "patron-anejo-tequila",
+    "name": "Patrón Añejo Tequila",
+    "price": 119.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Patrón",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Atotonilco el Alto)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Toasted Oak",
+      "Dried Fruit",
+      "Warm Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Minimum 12 Months",
+    "vintage": "",
+    "caskMaturation": "Aged a Minimum of 12 Months in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Patron",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/patron-anejo-tequila",
+    "description": "Aged a minimum of twelve months in oak, Patrón Añejo is deep and warmly spiced with dark caramel and dried fruit for sipping neat.",
+    "shortDescription": "Aged a minimum of 12 months for deep, warmly spiced caramel character.",
+    "searchKeywords": "patron anejo tequila mexico 40% 700ml dark caramel toasted oak dried fruit",
+    "badge": "12 Month Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "patron-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-019-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 119.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804520",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "patron-el-alto-tequila",
+    "name": "Patrón El Alto Tequila",
+    "price": 314.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Patrón",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Atotonilco el Alto)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Extra Añejo Blend; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Toasted Oak",
+      "Dried Fig",
+      "Long Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Extra Añejo, Añejo & Reposado Blend",
+    "vintage": "",
+    "caskMaturation": "Blend of Extra Añejo, Añejo & Reposado Tequilas",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Patron",
+      "Mexico",
+      "Extra Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/patron-el-alto-tequila",
+    "description": "A rare Patrón release primarily composed of Extra Añejo tequila blended with fully-aged Añejo and Reposado, delivering exceptional depth of dark chocolate and toasted oak.",
+    "shortDescription": "Patrón's rare, primarily Extra Añejo blend — deep and exceptionally complex.",
+    "searchKeywords": "patron el alto tequila mexico 40% 700ml dark chocolate toasted oak dried fig",
+    "badge": "Rare Release",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "patron-el-alto-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-020-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 314.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804521",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "casamigos-blanco-tequila",
+    "name": "Casamigos Blanco Tequila",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Casamigos",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Blanco Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Sweet Agave",
+      "Vanilla",
+      "Citrus",
+      "Smooth Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Rested a Minimum 2 Weeks",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Casamigos",
+      "Mexico",
+      "Blanco",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "blanco-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/casamigos-blanco-tequila",
+    "description": "Co-founded by George Clooney and Rande Gerber, Casamigos Blanco is exceptionally smooth and easy-drinking with sweet agave and citrus, designed to be enjoyed neat.",
+    "shortDescription": "Co-founded by George Clooney — exceptionally smooth and easy-drinking.",
+    "searchKeywords": "casamigos blanco tequila mexico 40% 700ml sweet agave vanilla citrus smooth",
+    "badge": "Celebrity Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "casamigos-blanco-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-021-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804522",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "casamigos-reposado-tequila",
+    "name": "Casamigos Reposado Tequila",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Casamigos",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Caramel",
+      "Toffee",
+      "Smooth Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "7 Months",
+    "vintage": "",
+    "caskMaturation": "Aged 7 Months in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Casamigos",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/casamigos-reposado-tequila",
+    "description": "Aged seven months in American oak, Casamigos Reposado layers vanilla, caramel and toffee over its signature smooth, sweet agave profile.",
+    "shortDescription": "Aged seven months for smooth vanilla, caramel and toffee character.",
+    "searchKeywords": "casamigos reposado tequila mexico 40% 700ml vanilla caramel toffee smooth",
+    "badge": "Smooth Reposado",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "casamigos-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-022-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804523",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "casamigos-anejo-tequila",
+    "name": "Casamigos Añejo Tequila",
+    "price": 119.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Casamigos",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Toasted Oak",
+      "Butterscotch",
+      "Warm Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "14 Months",
+    "vintage": "",
+    "caskMaturation": "Aged 14 Months in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Casamigos",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/casamigos-anejo-tequila",
+    "description": "Aged fourteen months in American oak, Casamigos Añejo is rich with dark caramel and butterscotch, smooth enough to sip neat.",
+    "shortDescription": "Aged 14 months for rich dark caramel and butterscotch, smooth neat.",
+    "searchKeywords": "casamigos anejo tequila mexico 40% 700ml dark caramel toasted oak butterscotch",
+    "badge": "14 Month Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "casamigos-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-023-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 119.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804524",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "avion-silver-tequila",
+    "name": "Avión Silver Tequila",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Avión",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Silver Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Sweet Agave",
+      "Citrus",
+      "Light Pepper",
+      "Clean"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Slow-Cooked in Brick Ovens",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Avion",
+      "Mexico",
+      "Silver",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "silver-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/avion-silver-tequila",
+    "description": "Agave for Avión is slow-cooked in traditional brick ovens for a fuller sweetness, giving the Silver expression a rounder profile than most unaged tequilas.",
+    "shortDescription": "Brick-oven cooked agave for a fuller, rounder unaged profile.",
+    "searchKeywords": "avion silver tequila mexico 40% 700ml sweet agave citrus light pepper",
+    "badge": "Premium Silver",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "avion-silver-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-024-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804525",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "avion-reposado-tequila",
+    "name": "Avión Reposado Tequila",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Avión",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Caramel",
+      "Vanilla",
+      "Roasted Agave",
+      "Soft Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Rested",
+    "vintage": "",
+    "caskMaturation": "Rested in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Avion",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/avion-reposado-tequila",
+    "description": "Rested in American oak for a rounded, caramel-forward profile that keeps Avión's signature brick-oven agave sweetness at the centre.",
+    "shortDescription": "Rested in American oak for a rounded, caramel-forward profile.",
+    "searchKeywords": "avion reposado tequila mexico 40% 700ml caramel vanilla roasted agave",
+    "badge": "Premium Reposado",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "avion-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-025-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804526",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "avion-anejo-tequila",
+    "name": "Avión Añejo Tequila",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Avión",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Toffee",
+      "Toasted Oak",
+      "Dried Fruit"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Aged",
+    "vintage": "",
+    "caskMaturation": "Aged in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Avion",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/avion-anejo-tequila",
+    "description": "Aged in American oak, Avión Añejo brings dark chocolate and toffee depth to the brand's naturally sweet, brick-oven cooked agave base.",
+    "shortDescription": "Dark chocolate and toffee depth over naturally sweet cooked agave.",
+    "searchKeywords": "avion anejo tequila mexico 40% 700ml dark chocolate toffee toasted oak",
+    "badge": "Premium Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "avion-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-026-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804527",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "1800-silver-tequila",
+    "name": "1800 Silver Tequila",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "1800 Tequila",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Silver Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Sweet Fruit",
+      "Black Pepper",
+      "Clean Agave",
+      "Balanced"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Double Distilled, Unaged",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "1800 Tequila",
+      "Mexico",
+      "Silver",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "silver-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/1800-silver-tequila",
+    "description": "Made from 100% Blue Agave and double distilled for smoothness, 1800 Silver offers a clean, balanced taste with hints of sweet fruit and pepper.",
+    "shortDescription": "Double distilled for smoothness — clean, with sweet fruit and pepper notes.",
+    "searchKeywords": "1800 silver tequila mexico 38% 700ml sweet fruit pepper clean agave",
+    "badge": "Since 1800",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "1800-silver-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-027-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804528",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "1800-reposado-tequila",
+    "name": "1800 Reposado Tequila",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "1800 Tequila",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Caramel",
+      "Agave",
+      "Light Oak"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Rested",
+    "vintage": "",
+    "caskMaturation": "Rested in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "1800 Tequila",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/1800-reposado-tequila",
+    "description": "Rested in oak barrels for a smoother, rounder character, 1800 Reposado carries vanilla and caramel over its signature agave sweetness.",
+    "shortDescription": "Rested in oak for a smooth, rounder character with vanilla and caramel.",
+    "searchKeywords": "1800 reposado tequila mexico 38% 700ml vanilla caramel agave oak",
+    "badge": "Since 1800",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "1800-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-028-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804529",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "1800-anejo-tequila",
+    "name": "1800 Añejo Tequila",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "1800 Tequila",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Toasted Oak",
+      "Dried Fruit",
+      "Warm Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Aged",
+    "vintage": "",
+    "caskMaturation": "Aged in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "1800 Tequila",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/1800-anejo-tequila",
+    "description": "Aged in oak barrels for a deeper, more complex character, 1800 Añejo brings dark caramel and dried fruit to the brand's classic agave base.",
+    "shortDescription": "Aged in oak for deeper dark caramel and dried fruit complexity.",
+    "searchKeywords": "1800 anejo tequila mexico 38% 700ml dark caramel toasted oak dried fruit",
+    "badge": "Since 1800",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "1800-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-029-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804530",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "1800-coconut-tequila-liqueur",
+    "name": "1800 Coconut Tequila Liqueur",
+    "price": 71.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "1800 Tequila",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "35.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Flavoured Tequila Liqueur",
+    "agaveVariety": "100% Blue Weber Agave (Base)",
+    "flavourProfile": [
+      "Coconut",
+      "Tropical",
+      "Sweet Agave",
+      "Creamy"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Infused with Fresh Ripe Coconut",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "1800 Tequila",
+      "Mexico",
+      "Flavoured",
+      "Coconut"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "flavoured-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/1800-coconut-tequila-liqueur",
+    "description": "1800 Blanco tequila infused with fresh, ripe coconut flavour for a tropical, easy-drinking pour perfect over ice or in a coconut margarita.",
+    "shortDescription": "1800 Blanco infused with fresh coconut for a tropical, easy pour.",
+    "searchKeywords": "1800 coconut tequila liqueur mexico 35% 700ml coconut tropical sweet agave",
+    "badge": "Tropical Twist",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "1800-coconut-tequila-liqueur-700ml-bottle",
+        "sku": "SPIRIT-TEQ-030-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 71.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804531",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "espolon-blanco-tequila",
+    "name": "Espolón Blanco Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Espolón",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Los Altos)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Blanco Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Citrus",
+      "Herbal",
+      "Fresh Agave",
+      "Crisp"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Espolon",
+      "Mexico",
+      "Blanco",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "blanco-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/espolon-blanco-tequila",
+    "description": "Handcrafted from 100% pure blue agave in the Jalisco highlands, Espolón Blanco is crisp and clean with citrus and herbal notes, ideal for cocktails.",
+    "shortDescription": "Crisp and clean with citrus and herbal notes — a cocktail staple.",
+    "searchKeywords": "espolon blanco tequila mexico 40% 700ml citrus herbal fresh agave",
+    "badge": "Bartender's Pick",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "espolon-blanco-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-031-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804532",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "espolon-reposado-tequila",
+    "name": "Espolón Reposado Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Espolón",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Los Altos)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Spice",
+      "Agave",
+      "Long Finish"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Rested",
+    "vintage": "",
+    "caskMaturation": "Rested in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Espolon",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/espolon-reposado-tequila",
+    "description": "A bold, full-bodied reposado with a long, spicy finish, handcrafted from 100% pure blue agave and highly regarded among mixologists.",
+    "shortDescription": "Bold and full-bodied with a long, spicy finish — highly regarded by mixologists.",
+    "searchKeywords": "espolon reposado tequila mexico 40% 700ml vanilla spice agave long finish",
+    "badge": "Mixologist's Choice",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "espolon-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-032-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804533",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "espolon-anejo-tequila",
+    "name": "Espolón Añejo Tequila",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Espolón",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Los Altos)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Toffee",
+      "Toasted Oak",
+      "Dried Fruit",
+      "Warm Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Aged",
+    "vintage": "",
+    "caskMaturation": "Aged in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Espolon",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/espolon-anejo-tequila",
+    "description": "Aged in American oak, Espolón Añejo layers toffee and dried fruit over the brand's bold agave character for a richer sipping expression.",
+    "shortDescription": "Toffee and dried fruit over Espolón's bold agave character.",
+    "searchKeywords": "espolon anejo tequila mexico 40% 700ml toffee toasted oak dried fruit",
+    "badge": "Bold Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "espolon-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-033-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804534",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "milagro-silver-tequila",
+    "name": "Milagro Silver Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Milagro",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Silver Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Bright Citrus",
+      "Herbal",
+      "Sweet Agave",
+      "Clean"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Milagro",
+      "Mexico",
+      "Silver",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "silver-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/milagro-silver-tequila",
+    "description": "Bright and herbal, Milagro Silver is one of Dan Murphy's favourite tequila brands for cocktails, offering clean citrus and sweet agave character.",
+    "shortDescription": "Bright, herbal and clean — a favourite cocktail-base silver tequila.",
+    "searchKeywords": "milagro silver tequila mexico 40% 700ml bright citrus herbal sweet agave",
+    "badge": "Cocktail Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "milagro-silver-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-034-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804535",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "milagro-reposado-tequila",
+    "name": "Milagro Reposado Tequila",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Milagro",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Caramel",
+      "Agave",
+      "Soft Oak"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Rested",
+    "vintage": "",
+    "caskMaturation": "Rested in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Milagro",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/milagro-reposado-tequila",
+    "description": "Rested in oak barrels for a smooth, rounded profile, Milagro Reposado balances vanilla and caramel with the brand's signature bright agave.",
+    "shortDescription": "Smooth and rounded with vanilla, caramel and bright agave balance.",
+    "searchKeywords": "milagro reposado tequila mexico 40% 700ml vanilla caramel agave soft oak",
+    "badge": "Balanced Reposado",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "milagro-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-035-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804536",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "milagro-anejo-tequila",
+    "name": "Milagro Añejo Tequila",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Milagro",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Oak Spice",
+      "Dried Fruit",
+      "Round Finish"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Aged",
+    "vintage": "",
+    "caskMaturation": "Aged in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Milagro",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/milagro-anejo-tequila",
+    "description": "Aged in oak barrels, Milagro Añejo delivers dark caramel and oak spice over a rounded finish, a step up in depth from the Reposado.",
+    "shortDescription": "Dark caramel and oak spice over a rounded, deeper finish.",
+    "searchKeywords": "milagro anejo tequila mexico 40% 700ml dark caramel oak spice dried fruit",
+    "badge": "Deeper Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "milagro-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-036-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804537",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fortaleza-blanco-tequila",
+    "name": "Fortaleza Blanco Tequila",
+    "price": 109.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Fortaleza",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Tequila)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Blanco Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Oven-Baked Agave",
+      "Black Pepper",
+      "Herbal",
+      "Mineral"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Stone-Milled & Copper Pot Distilled",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Fortaleza",
+      "Mexico",
+      "Blanco",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "blanco-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/fortaleza-blanco-tequila",
+    "description": "Crafted using a century-old tahona stone mill and small copper pot stills at the historic La Rojeña-adjacent distillery in the town of Tequila, Fortaleza Blanco is prized by connoisseurs for its intense, oven-baked agave character.",
+    "shortDescription": "Tahona-milled, copper pot distilled — prized for intense agave character.",
+    "searchKeywords": "fortaleza blanco tequila mexico 40% 750ml oven baked agave pepper herbal",
+    "badge": "Connoisseur's Choice",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fortaleza-blanco-tequila-750ml-bottle",
+        "sku": "SPIRIT-TEQ-037-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 109.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804538",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fortaleza-reposado-tequila",
+    "name": "Fortaleza Reposado Tequila",
+    "price": 129.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Fortaleza",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Tequila)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Butter",
+      "Menthol",
+      "Beeswax",
+      "Cedar Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Rested",
+    "vintage": "",
+    "caskMaturation": "Rested in Ex-Bourbon American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Fortaleza",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/fortaleza-reposado-tequila",
+    "description": "Rested in ex-bourbon American oak, Fortaleza Reposado opens with a buttery character that develops scents of beeswax and cedary oak over its tahona-milled agave base.",
+    "shortDescription": "A buttery reposado with beeswax and cedary oak over tahona-milled agave.",
+    "searchKeywords": "fortaleza reposado tequila mexico 40% 750ml butter menthol beeswax cedar oak",
+    "badge": "Traditional Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fortaleza-reposado-tequila-750ml-bottle",
+        "sku": "SPIRIT-TEQ-038-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 129.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804539",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fortaleza-anejo-tequila",
+    "name": "Fortaleza Añejo Tequila",
+    "price": 159.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Fortaleza",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco (Tequila)",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Toasted Oak",
+      "Dried Fig",
+      "Baked Agave"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Aged",
+    "vintage": "",
+    "caskMaturation": "Aged in Ex-Bourbon American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Fortaleza",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/fortaleza-anejo-tequila",
+    "description": "Aged in ex-bourbon American oak, Fortaleza Añejo is deeply complex with dark chocolate and dried fig layered over its signature oven-baked agave intensity.",
+    "shortDescription": "Deeply complex, with dark chocolate and dried fig over baked agave.",
+    "searchKeywords": "fortaleza anejo tequila mexico 40% 750ml dark chocolate toasted oak dried fig",
+    "badge": "Collector Grade",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fortaleza-anejo-tequila-750ml-bottle",
+        "sku": "SPIRIT-TEQ-039-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 159.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804540",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "teremana-blanco-tequila",
+    "name": "Teremana Blanco Tequila",
+    "price": 92,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Teremana",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco Highlands",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Blanco Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Sweet Agave",
+      "Citrus",
+      "Light Pepper",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Small-Batch Distilled",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Teremana",
+      "Mexico",
+      "Blanco",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "blanco-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/teremana-blanco-tequila",
+    "description": "Founded by Dwayne 'The Rock' Johnson, Teremana Blanco is a small-batch tequila crafted in the Jalisco highlands with a smooth, sweet agave profile.",
+    "shortDescription": "Dwayne 'The Rock' Johnson's small-batch highland tequila, smooth and sweet.",
+    "searchKeywords": "teremana blanco tequila mexico 40% 700ml sweet agave citrus light pepper",
+    "badge": "Celebrity Founded",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "teremana-blanco-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-040-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 92,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804541",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "teremana-reposado-tequila",
+    "name": "Teremana Reposado Tequila",
+    "price": 97,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Teremana",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco Highlands",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Vanilla",
+      "Caramel",
+      "Roasted Agave",
+      "Smooth Oak"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Rested",
+    "vintage": "",
+    "caskMaturation": "Rested in American Oak Bourbon Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Teremana",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/teremana-reposado-tequila",
+    "description": "Rested in American oak bourbon barrels, Teremana Reposado layers vanilla and caramel over its small-batch highland agave base.",
+    "shortDescription": "Rested in bourbon barrels for smooth vanilla and caramel character.",
+    "searchKeywords": "teremana reposado tequila mexico 40% 700ml vanilla caramel roasted agave",
+    "badge": "Highland Reposado",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "teremana-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-041-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 97,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804542",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "teremana-anejo-tequila",
+    "name": "Teremana Añejo Tequila",
+    "price": 106,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Teremana",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco Highlands",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Toasted Oak",
+      "Dried Fruit",
+      "Warm Spice"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Aged",
+    "vintage": "",
+    "caskMaturation": "Aged in American Oak Bourbon Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "Teremana",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/teremana-anejo-tequila",
+    "description": "Aged in American oak bourbon barrels, Teremana Añejo brings dark caramel and dried fruit depth to the brand's small-batch highland agave.",
+    "shortDescription": "Aged for dark caramel and dried fruit depth over highland agave.",
+    "searchKeywords": "teremana anejo tequila mexico 40% 700ml dark caramel toasted oak dried fruit",
+    "badge": "Highland Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "teremana-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-042-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 106,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804543",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "818-blanco-tequila",
+    "name": "818 Blanco Tequila",
+    "price": 75,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "818 Tequila",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Blanco Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Fresh Vanilla",
+      "Citrus",
+      "Bright Agave",
+      "Crisp"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Rested in Oak",
+    "vintage": "",
+    "caskMaturation": "Rested in Oak Barrels for Fresh Vanilla Roundness",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "818 Tequila",
+      "Mexico",
+      "Blanco",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "blanco-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/818-blanco-tequila",
+    "description": "Founded by Kendall Jenner, 818 Blanco is an ultra-smooth blend rested briefly in oak barrels for a bright, fresh vanilla roundness and a crisp finish.",
+    "shortDescription": "Kendall Jenner's ultra-smooth blanco with a bright, fresh vanilla roundness.",
+    "searchKeywords": "818 blanco tequila mexico 40% 700ml fresh vanilla citrus bright agave",
+    "badge": "Celebrity Founded",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "818-blanco-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-043-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 75,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804544",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "818-reposado-tequila",
+    "name": "818 Reposado Tequila",
+    "price": 85,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "818 Tequila",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Reposado Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Roasted Agave",
+      "Caramel",
+      "Vanilla",
+      "Straw Gold"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Rested",
+    "vintage": "",
+    "caskMaturation": "Rested in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "818 Tequila",
+      "Mexico",
+      "Reposado",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "reposado-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/818-reposado-tequila",
+    "description": "818 Reposado carries ripe roasted agave flavour with caramel and vanilla notes, resting to a straw-gold colour with warm golden hues.",
+    "shortDescription": "Ripe roasted agave with caramel and vanilla, resting to straw gold.",
+    "searchKeywords": "818 reposado tequila mexico 40% 700ml roasted agave caramel vanilla",
+    "badge": "Straw Gold",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "818-reposado-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-044-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 85,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804545",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "818-anejo-tequila",
+    "name": "818 Añejo Tequila",
+    "price": 95,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "818 Tequila",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Jalisco",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Tequila",
+    "styleOrVariety": "Añejo Tequila; 100% Agave",
+    "agaveVariety": "100% Blue Weber Agave",
+    "flavourProfile": [
+      "Amber Caramel",
+      "Toasted Oak",
+      "Dried Fruit",
+      "Golden Reflections"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "Over 1 Year",
+    "vintage": "",
+    "caskMaturation": "Aged Over 1 Year in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Tequila",
+      "818 Tequila",
+      "Mexico",
+      "Añejo",
+      "100% Agave"
+    ],
+    "collections": [
+      "spirits",
+      "tequila",
+      "anejo-tequila"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/818-anejo-tequila",
+    "description": "Aged over a year in oak barrels, 818 Añejo takes on a light amber colour with shiny golden reflections and deeper caramel and toasted oak character.",
+    "shortDescription": "Aged over a year for light amber colour and deeper caramel character.",
+    "searchKeywords": "818 anejo tequila mexico 40% 700ml amber caramel toasted oak dried fruit",
+    "badge": "Light Amber",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "818-anejo-tequila-700ml-bottle",
+        "sku": "SPIRIT-TEQ-045-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 95,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804546",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "del-maguey-vida-mezcal",
+    "name": "Del Maguey Vida Mezcal",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Del Maguey",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "San Luis del Río, Oaxaca",
+    "abv": "42.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Joven Mezcal; Single Village",
+    "agaveVariety": "Espadín",
+    "flavourProfile": [
+      "Smoke",
+      "Roasted Agave",
+      "Citrus",
+      "Earthy Mineral"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Traditional Clay Pot Distillation, Unaged",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Del Maguey",
+      "Mexico",
+      "Oaxaca",
+      "Espadín"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "joven-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/del-maguey-vida-mezcal",
+    "description": "The single-village mezcal credited with starting the modern mezcal boom, Vida is produced in San Luis del Río, Oaxaca using traditional stone-mill and clay-pot methods with smoky, earthy Espadín character.",
+    "shortDescription": "The single-village mezcal that started the modern mezcal boom.",
+    "searchKeywords": "del maguey vida mezcal oaxaca mexico 42% 700ml smoke roasted agave citrus",
+    "badge": "Mezcal Pioneer",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "del-maguey-vida-mezcal-700ml-bottle",
+        "sku": "SPIRIT-TEQ-046-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804547",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "montelobos-mezcal",
+    "name": "Montelobos Mezcal Espadín",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Montelobos",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Santiago Matatlán, Oaxaca",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Joven Mezcal; Single Varietal",
+    "agaveVariety": "Espadín",
+    "flavourProfile": [
+      "Smoke",
+      "Citrus",
+      "Green Herbal",
+      "Cooked Agave"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal",
+      "Sustainable"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Traditional Copper Pot Distillation, Unaged",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Montelobos",
+      "Mexico",
+      "Oaxaca",
+      "Espadín"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "joven-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/montelobos-mezcal",
+    "description": "Committed to never using wild agaves, Montelobos produces its Espadín mezcal in small copper pot stills for a smoky, citrus-bright profile that's become a global bartender favourite.",
+    "shortDescription": "A sustainably-farmed Espadín mezcal, smoky and citrus-bright.",
+    "searchKeywords": "montelobos mezcal espadin oaxaca mexico 43% 700ml smoke citrus herbal agave",
+    "badge": "Sustainable Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "montelobos-mezcal-700ml-bottle",
+        "sku": "SPIRIT-TEQ-047-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804548",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "casamigos-mezcal",
+    "name": "Casamigos Mezcal",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Casamigos",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Oaxaca",
+    "abv": "41.3%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Joven Mezcal",
+    "agaveVariety": "Espadín",
+    "flavourProfile": [
+      "Light Smoke",
+      "Citrus",
+      "Roasted Agave",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Twice-Distilled in Copper Pot Stills, Unaged",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Casamigos",
+      "Mexico",
+      "Oaxaca",
+      "Espadín"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "joven-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/casamigos-mezcal",
+    "description": "From the same team behind Casamigos Tequila, this Oaxacan mezcal is twice-distilled in copper pot stills for a lightly smoky, approachable style built for easy sipping.",
+    "shortDescription": "The Casamigos team's approachable, lightly smoky Oaxacan mezcal.",
+    "searchKeywords": "casamigos mezcal oaxaca mexico 41.3% 700ml light smoke citrus roasted agave",
+    "badge": "Easy Sipping",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "casamigos-mezcal-700ml-bottle",
+        "sku": "SPIRIT-TEQ-048-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804549",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "ilegal-mezcal-joven",
+    "name": "Ilegal Mezcal Joven",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Ilegal",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Oaxaca",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Joven Mezcal",
+    "agaveVariety": "Espadín",
+    "flavourProfile": [
+      "Smoke",
+      "Citrus",
+      "Green Agave",
+      "Bright Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Traditional Distillation, Unaged",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Ilegal",
+      "Mexico",
+      "Oaxaca",
+      "Espadín"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "joven-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/ilegal-mezcal-joven",
+    "description": "Born from bar founder John Rexer smuggling mezcal across the Guatemalan border for friends, Ilegal Joven is bright and smoky, unaged for the purest expression of Oaxacan Espadín.",
+    "shortDescription": "Bright and smoky — the purest, unaged expression of Ilegal's range.",
+    "searchKeywords": "ilegal mezcal joven oaxaca mexico 40% 700ml smoke citrus green agave",
+    "badge": "Origin Story",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "ilegal-mezcal-joven-700ml-bottle",
+        "sku": "SPIRIT-TEQ-049-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804550",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "ilegal-mezcal-reposado",
+    "name": "Ilegal Mezcal Reposado",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Ilegal",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Oaxaca",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Reposado Mezcal",
+    "agaveVariety": "Espadín",
+    "flavourProfile": [
+      "Smoke",
+      "Vanilla",
+      "Toasted Oak",
+      "Roasted Agave"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal"
+    ],
+    "ageStatement": "4 Months",
+    "vintage": "",
+    "caskMaturation": "Rested 4 Months in American Oak Bourbon Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Ilegal",
+      "Mexico",
+      "Oaxaca",
+      "Reposado"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "reposado-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/ilegal-mezcal-reposado",
+    "description": "Rested four months in American oak bourbon barrels, Ilegal Reposado layers vanilla and toasted oak over its smoky Espadín base.",
+    "shortDescription": "Rested in bourbon barrels for smoky vanilla and toasted oak character.",
+    "searchKeywords": "ilegal mezcal reposado oaxaca mexico 40% 700ml smoke vanilla toasted oak",
+    "badge": "Bourbon Barrel Rest",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "ilegal-mezcal-reposado-700ml-bottle",
+        "sku": "SPIRIT-TEQ-050-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804551",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "ilegal-mezcal-anejo",
+    "name": "Ilegal Mezcal Añejo",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Ilegal",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Oaxaca",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Añejo Mezcal",
+    "agaveVariety": "Espadín",
+    "flavourProfile": [
+      "Smoke",
+      "Dark Caramel",
+      "Dried Fruit",
+      "Long Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal",
+      "Premium Pick"
+    ],
+    "ageStatement": "13 Months",
+    "vintage": "",
+    "caskMaturation": "Aged 13 Months in American Oak Bourbon Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Ilegal",
+      "Mexico",
+      "Oaxaca",
+      "Añejo"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "anejo-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/ilegal-mezcal-anejo",
+    "description": "Aged thirteen months in American oak bourbon barrels, Ilegal Añejo is the deepest expression in the range, balancing smoke with dark caramel and dried fruit.",
+    "shortDescription": "The deepest expression in Ilegal's range — smoke balanced with dark caramel.",
+    "searchKeywords": "ilegal mezcal anejo oaxaca mexico 40% 700ml smoke dark caramel dried fruit",
+    "badge": "Deepest Expression",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "ilegal-mezcal-anejo-700ml-bottle",
+        "sku": "SPIRIT-TEQ-051-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804552",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mezcal-vago-elote",
+    "name": "Mezcal Vago Elote",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Mezcal Vago",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Candelaria Yegolé, Oaxaca",
+    "abv": "48.9%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Joven Mezcal; Pechuga-Style Corn Infusion",
+    "agaveVariety": "Espadín",
+    "flavourProfile": [
+      "Toasted Corn",
+      "Smoke",
+      "Roasted Nuts",
+      "Sweet Agave"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Corn-Infused, Traditional Clay Pot Still",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Mezcal Vago",
+      "Mexico",
+      "Oaxaca",
+      "Espadín"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "joven-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/mezcal-vago-elote",
+    "description": "Produced by the Garcia family using a traditional palenque, Elote is infused with toasted native corn during distillation for a distinctive smoky, nutty sweetness.",
+    "shortDescription": "Corn-infused during distillation for distinctive smoky, nutty sweetness.",
+    "searchKeywords": "mezcal vago elote oaxaca mexico 48.9% 700ml toasted corn smoke roasted nuts",
+    "badge": "Corn-Infused",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mezcal-vago-elote-700ml-bottle",
+        "sku": "SPIRIT-TEQ-052-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804553",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mezcal-vago-tobala",
+    "name": "Mezcal Vago Tobalá",
+    "price": 119.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Mezcal Vago",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Oaxaca",
+    "abv": "50.8%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Joven Mezcal; Wild Agave",
+    "agaveVariety": "Tobalá (Wild)",
+    "flavourProfile": [
+      "Earthy Clove",
+      "Nutmeg",
+      "Smoke",
+      "Complex Mineral"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Traditional Palenque, No Additives",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Mezcal Vago",
+      "Mexico",
+      "Oaxaca",
+      "Tobalá",
+      "Wild Agave"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "joven-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/mezcal-vago-tobala",
+    "description": "Made from wild Tobalá agave in a traditional palenque with no additives, Vago Tobalá is earthy, complex and full-bodied with clove and nutmeg spice.",
+    "shortDescription": "Wild Tobalá agave, earthy and complex with clove and nutmeg spice.",
+    "searchKeywords": "mezcal vago tobala oaxaca mexico 50.8% 700ml earthy clove nutmeg smoke wild agave",
+    "badge": "Wild Agave",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mezcal-vago-tobala-700ml-bottle",
+        "sku": "SPIRIT-TEQ-053-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 119.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804554",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "siete-misterios-doba-ye-mezcal",
+    "name": "Siete Misterios Doba-Ye Mezcal",
+    "price": 109.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Siete Misterios",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Miahuatlán, Oaxaca",
+    "abv": "47.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Joven Mezcal; Single Varietal",
+    "agaveVariety": "Espadín",
+    "flavourProfile": [
+      "Smoke",
+      "Citrus Peel",
+      "Roasted Agave",
+      "Herbaceous"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Tahona (Horse-Drawn Mill) Extraction",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Siete Misterios",
+      "Mexico",
+      "Oaxaca",
+      "Espadín"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "joven-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/siete-misterios-doba-ye-mezcal",
+    "description": "Milled by horse-drawn tahona rather than by hand, Doba-Yej is Siete Misterios' flagship Espadín mezcal with bright citrus peel and herbaceous smoke.",
+    "shortDescription": "Tahona-milled flagship Espadín with bright citrus peel and smoke.",
+    "searchKeywords": "siete misterios doba yej mezcal oaxaca mexico 47.5% 700ml smoke citrus roasted agave",
+    "badge": "Tahona Milled",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "siete-misterios-doba-ye-mezcal-700ml-bottle",
+        "sku": "SPIRIT-TEQ-054-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 109.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804555",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "400-conejos-mezcal",
+    "name": "400 Conejos Mezcal Espadín Joven",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "400 Conejos",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "Oaxaca",
+    "abv": "38.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Joven Mezcal",
+    "agaveVariety": "Espadín",
+    "flavourProfile": [
+      "Soft Wood",
+      "Cooked Agave Sweetness",
+      "Gentle Smoke",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Traditional Copper & Clay Distillation",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "400 Conejos",
+      "Mexico",
+      "Oaxaca",
+      "Espadín"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "joven-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/400-conejos-mezcal",
+    "description": "An award-winning, well-balanced and smooth Espadín mezcal with soft hints of wood, sweet cooked agave and a gentle smoky finish, made for cocktails as much as sipping.",
+    "shortDescription": "Award-winning and smooth — soft wood, sweet agave and gentle smoke.",
+    "searchKeywords": "400 conejos mezcal espadin oaxaca mexico 38% 750ml soft wood cooked agave smoke",
+    "badge": "Award-Winning",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "400-conejos-mezcal-750ml-bottle",
+        "sku": "SPIRIT-TEQ-055-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804556",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "alipus-san-baltazar-mezcal",
+    "name": "Alipus San Baltazar Mezcal",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "tequila-mezcal",
+    "subcategory": "tequila-mezcal",
+    "brand": "Alipus",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "San Baltazar Guelavila, Oaxaca",
+    "abv": "47.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Mezcal",
+    "styleOrVariety": "Joven Mezcal; Single Village",
+    "agaveVariety": "100% Espadín",
+    "flavourProfile": [
+      "Smoke",
+      "Cooked Agave",
+      "Mineral Earth",
+      "Long Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Artisanal"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Traditional Village Palenque Distillation",
+    "controlledTags": [
+      "Spirits",
+      "Mezcal",
+      "Alipus",
+      "Mexico",
+      "Oaxaca",
+      "Espadín"
+    ],
+    "collections": [
+      "spirits",
+      "mezcal",
+      "joven-mezcal"
+    ],
+    "seoUrl": "/spirits/tequila-mezcal/alipus-san-baltazar-mezcal",
+    "description": "Part of the Alipus single-village project supporting small Oaxacan palenques, San Baltazar is a 100% Espadín mezcal with smoky, mineral-driven earthiness.",
+    "shortDescription": "A single-village Espadín mezcal, smoky and mineral-driven.",
+    "searchKeywords": "alipus san baltazar mezcal oaxaca mexico 47.5% 750ml smoke cooked agave mineral",
+    "badge": "Single Village",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "alipus-san-baltazar-mezcal-750ml-bottle",
+        "sku": "SPIRIT-TEQ-056-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930804557",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
