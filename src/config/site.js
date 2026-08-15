@@ -59958,6 +59958,3380 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "bacardi-carta-oro-gold-rum",
+    "name": "Bacardi Carta Oro Gold Rum",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Bacardi",
+    "countryOfOrigin": "Puerto Rico",
+    "regionOrState": "Cataño, Caribbean",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Gold",
+    "styleOrVariety": "Gold Rum",
+    "flavourProfile": [
+      "Vanilla",
+      "Toasted Almond",
+      "Caramel",
+      "Soft Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "Carta Oro",
+    "vintage": "",
+    "caskMaturation": "Aged in American White Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Bacardi",
+      "Puerto Rico",
+      "Gold",
+      "Carta Oro"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "gold-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/bacardi-carta-oro-gold-rum",
+    "description": "Bacardi's benchmark gold rum, aged longer in American white oak for a rounder, richer profile than Carta Blanca, carrying vanilla and toasted almond through to a warm caramel finish.",
+    "shortDescription": "Bacardi's aged gold rum with smooth vanilla, toasted almond and caramel character.",
+    "searchKeywords": "bacardi carta oro gold rum bacardi gold rum puerto rico 40% 700ml vanilla toasted almond caramel",
+    "badge": "Aged Gold",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bacardi-carta-oro-gold-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-038-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803373",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bacardi-spiced-rum",
+    "name": "Bacardi Spiced Rum",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Bacardi",
+    "countryOfOrigin": "Puerto Rico",
+    "regionOrState": "Cataño, Caribbean",
+    "abv": "35.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Spiced",
+    "styleOrVariety": "Spiced Rum",
+    "flavourProfile": [
+      "Vanilla",
+      "Cinnamon",
+      "Toffee",
+      "Caribbean Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Natural Spice & Vanilla Extracts",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Bacardi",
+      "Puerto Rico",
+      "Spiced"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "spiced-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/bacardi-spiced-rum",
+    "description": "A blend of Bacardi's aged rums with natural spice and vanilla extracts, delivering a smooth, warmly spiced profile built for rum and cola or a simple pour over ice.",
+    "shortDescription": "Bacardi's aged rum blended with warm vanilla and Caribbean spice notes.",
+    "searchKeywords": "bacardi spiced rum puerto rico 35% 700ml vanilla cinnamon toffee spice",
+    "badge": "Spiced Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bacardi-spiced-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-039-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803374",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bacardi-reserva-ocho-8-year-old-rum",
+    "name": "Bacardi Reserva Ocho 8 Year Old Rum",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Bacardi",
+    "countryOfOrigin": "Puerto Rico",
+    "regionOrState": "Cataño, Caribbean",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Aged Rum",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Toasted Oak",
+      "Toffee",
+      "Baking Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "8 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 8 Years Under the Caribbean Sun in Oak Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Bacardi",
+      "Puerto Rico",
+      "Aged",
+      "8 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/bacardi-reserva-ocho-8-year-old-rum",
+    "description": "Barrel-aged a minimum of eight years and finished with a small percentage of rums aged in charred American oak, Reserva Ocho is Bacardi's premium sipping expression with dried fruit and toasted oak depth.",
+    "shortDescription": "Bacardi's premium 8-year sipping rum with dried fruit and toasted oak depth.",
+    "searchKeywords": "bacardi reserva ocho 8 year old rum puerto rico 40% 700ml dried fruit oak toffee",
+    "badge": "8 Year Reserve",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bacardi-reserva-ocho-8-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-040-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803375",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bacardi-gran-reserva-diez-10-year-old-rum",
+    "name": "Bacardi Gran Reserva Diez 10 Year Old Rum",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Bacardi",
+    "countryOfOrigin": "Puerto Rico",
+    "regionOrState": "Cataño, Caribbean",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Extra Dark Gold Rum",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Molasses",
+      "Dried Fig",
+      "Oak Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "10 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 10 Years in American White Oak",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Bacardi",
+      "Puerto Rico",
+      "Aged",
+      "10 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/bacardi-gran-reserva-diez-10-year-old-rum",
+    "description": "An extra dark gold rum aged a minimum of ten years, Gran Reserva Diez layers dark chocolate, molasses and dried fig over a long, warmly spiced oak finish.",
+    "shortDescription": "Bacardi's 10-year extra dark gold rum with dark chocolate and molasses depth.",
+    "searchKeywords": "bacardi gran reserva diez 10 year old rum puerto rico 40% 700ml dark chocolate molasses fig",
+    "badge": "10 Year Reserve",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bacardi-gran-reserva-diez-10-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-041-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803376",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "captain-morgan-original-spiced-gold-rum",
+    "name": "Captain Morgan Original Spiced Gold Rum",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Captain Morgan",
+    "countryOfOrigin": "Caribbean",
+    "regionOrState": "Blended Caribbean Rum",
+    "abv": "35.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Spiced",
+    "styleOrVariety": "Spiced Gold Rum",
+    "flavourProfile": [
+      "Vanilla",
+      "Caramel",
+      "Warm Spice",
+      "Golden Amber"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Charred White Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Captain Morgan",
+      "Caribbean",
+      "Spiced"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "spiced-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/captain-morgan-original-spiced-gold-rum",
+    "description": "The world's best-selling spiced rum, blended from Caribbean rums aged in charred white oak barrels with a secret recipe of warming spice and vanilla for an easy-drinking, golden amber pour.",
+    "shortDescription": "The world's best-selling spiced rum with vanilla and warming Caribbean spice.",
+    "searchKeywords": "captain morgan original spiced gold rum caribbean 35% 700ml 1l vanilla caramel spice",
+    "badge": "Best Seller",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "captain-morgan-original-spiced-gold-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-042-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803377",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "captain-morgan-original-spiced-gold-rum-1l-bottle",
+        "sku": "SPIRIT-RUM-042-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 64.99,
+        "stockLevel": 22,
+        "weight": "1.9kg",
+        "barcode": "93109930803378",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "captain-morgan-dark-rum",
+    "name": "Captain Morgan Dark Rum",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Captain Morgan",
+    "countryOfOrigin": "Jamaica",
+    "regionOrState": "Blended Caribbean Rum",
+    "abv": "37.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Dark",
+    "styleOrVariety": "Jamaican Dark Rum",
+    "flavourProfile": [
+      "Molasses",
+      "Dark Toffee",
+      "Roasted Oak",
+      "Dried Fruit"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Captain Morgan",
+      "Jamaica",
+      "Dark"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "dark-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/captain-morgan-dark-rum",
+    "description": "A rich, full-bodied Jamaican dark rum with deep molasses and roasted oak character, built for classic dark and stormy cocktails or a straightforward mixer pour.",
+    "shortDescription": "A full-bodied Jamaican dark rum with rich molasses and roasted oak character.",
+    "searchKeywords": "captain morgan dark rum jamaica 37.5% 700ml molasses toffee oak",
+    "badge": "Mixer Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "captain-morgan-dark-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-043-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803379",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kraken-black-spiced-rum",
+    "name": "Kraken Black Spiced Rum",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Kraken",
+    "countryOfOrigin": "Trinidad & Tobago",
+    "regionOrState": "Caribbean",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Spiced",
+    "styleOrVariety": "Black Spiced Rum",
+    "flavourProfile": [
+      "Molasses",
+      "Clove",
+      "Cinnamon",
+      "Dark Caramel"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended Caribbean Rum with Natural Spices",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Kraken",
+      "Trinidad & Tobago",
+      "Spiced"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "spiced-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/kraken-black-spiced-rum",
+    "description": "A bold black spiced rum blended with cinnamon, clove and dark caramel notes over a base of Caribbean rums, distinctively bottled with the Kraken's signature deep, inky colour.",
+    "shortDescription": "A bold, inky black spiced rum with cinnamon, clove and dark caramel notes.",
+    "searchKeywords": "kraken black spiced rum trinidad 40% 700ml molasses clove cinnamon caramel",
+    "badge": "Cult Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kraken-black-spiced-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-044-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803380",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kraken-black-roast-coffee-rum",
+    "name": "Kraken Black Roast Coffee Rum",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Kraken",
+    "countryOfOrigin": "Trinidad & Tobago",
+    "regionOrState": "Caribbean",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Flavoured",
+    "styleOrVariety": "Coffee Spiced Rum",
+    "flavourProfile": [
+      "Roasted Coffee",
+      "Dark Spice",
+      "Molasses",
+      "Cocoa"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Arabica Bean Coffee",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Kraken",
+      "Trinidad & Tobago",
+      "Flavoured",
+      "Coffee"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "flavoured-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/kraken-black-roast-coffee-rum",
+    "description": "A rich fusion of Kraken's signature black spiced rum with fine Arabica bean coffee, bold and dark on the nose with a smooth, roasted coffee and spice finish.",
+    "shortDescription": "Kraken's black spiced rum fused with rich, roasted Arabica coffee.",
+    "searchKeywords": "kraken black roast coffee rum trinidad 40% 700ml coffee spice molasses cocoa",
+    "badge": "Limited Release",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kraken-black-roast-coffee-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-045-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803381",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kraken-cherry-madagascan-vanilla-rum",
+    "name": "Kraken Black Cherry & Madagascan Vanilla Rum",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Kraken",
+    "countryOfOrigin": "Trinidad & Tobago",
+    "regionOrState": "Caribbean",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Flavoured",
+    "styleOrVariety": "Cherry & Vanilla Spiced Rum",
+    "flavourProfile": [
+      "Black Cherry",
+      "Madagascan Vanilla",
+      "Toffee",
+      "Warming Wood"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Black Cherry & Madagascan Vanilla",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Kraken",
+      "Trinidad & Tobago",
+      "Flavoured",
+      "Cherry"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "flavoured-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/kraken-cherry-madagascan-vanilla-rum",
+    "description": "Kraken's black spiced Caribbean rum fused with rich black cherries and smooth Madagascan vanilla, opening with toffee and cherry before a long, warming wood finish.",
+    "shortDescription": "Kraken's black spiced rum fused with black cherry and smooth Madagascan vanilla.",
+    "searchKeywords": "kraken black cherry madagascan vanilla rum trinidad 40% 700ml cherry vanilla toffee",
+    "badge": "Fan Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kraken-cherry-madagascan-vanilla-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-046-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803382",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "sailor-jerry-spiced-rum",
+    "name": "Sailor Jerry Spiced Rum",
+    "price": 54.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Sailor Jerry",
+    "countryOfOrigin": "Caribbean",
+    "regionOrState": "Blended Caribbean Rum",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Spiced",
+    "styleOrVariety": "Navy Spiced Rum",
+    "flavourProfile": [
+      "Vanilla",
+      "Clove",
+      "Cinnamon",
+      "Toffee"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Vanilla, Cinnamon & Clove",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Sailor Jerry",
+      "Caribbean",
+      "Spiced",
+      "Navy"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "spiced-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/sailor-jerry-spiced-rum",
+    "description": "A full-proof spiced navy rum inspired by tattoo artist Norman \"Sailor Jerry\" Collins, built on Caribbean rum blended with vanilla, clove and cinnamon for a punchy, warming pour.",
+    "shortDescription": "A full-proof spiced navy rum with punchy vanilla, clove and cinnamon character.",
+    "searchKeywords": "sailor jerry spiced rum caribbean 40% 700ml vanilla clove cinnamon toffee",
+    "badge": "Navy Strength Spiced",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "sailor-jerry-spiced-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-047-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 54.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803383",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "malibu-original-coconut-rum",
+    "name": "Malibu Original Coconut Rum",
+    "price": 44.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Malibu",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Caribbean",
+    "abv": "21.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Flavoured",
+    "styleOrVariety": "Coconut Rum Liqueur",
+    "flavourProfile": [
+      "Coconut",
+      "Tropical",
+      "Light Vanilla",
+      "Sweet"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Low ABV"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blended with Natural Coconut Extract",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Malibu",
+      "Barbados",
+      "Flavoured",
+      "Coconut"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "flavoured-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/malibu-original-coconut-rum",
+    "description": "The world's favourite coconut rum, blending white Caribbean rum with natural coconut extract for an easy-drinking, tropical pour perfect over ice or in a Piña Colada.",
+    "shortDescription": "The world's favourite coconut rum, tropical and easy over ice.",
+    "searchKeywords": "malibu original coconut rum barbados 21% 700ml 1l coconut tropical vanilla",
+    "badge": "Tropical Icon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "malibu-original-coconut-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-048-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 44.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803384",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "malibu-original-coconut-rum-1l-bottle",
+        "sku": "SPIRIT-RUM-048-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 54.99,
+        "stockLevel": 22,
+        "weight": "1.9kg",
+        "barcode": "93109930803385",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "havana-club-3-anos-rum",
+    "name": "Havana Club Añejo 3 Años Rum",
+    "price": 54.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Havana Club",
+    "countryOfOrigin": "Cuba",
+    "regionOrState": "San José, Havana",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "White",
+    "styleOrVariety": "Añejo Blanco Rum",
+    "flavourProfile": [
+      "Clean Cane",
+      "Citrus",
+      "Light Vanilla",
+      "Soft Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "3 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 3 Years in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Havana Club",
+      "Cuba",
+      "White",
+      "3 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "white-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/havana-club-3-anos-rum",
+    "description": "A light, clean Cuban rum blended from base rums aged a minimum of three years, crafted specifically for the classic Mojito and Cuba Libre.",
+    "shortDescription": "A clean, three-year Cuban rum built for the classic Mojito.",
+    "searchKeywords": "havana club anejo 3 anos rum cuba 40% 700ml clean cane citrus vanilla",
+    "badge": "Mojito Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "havana-club-3-anos-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-049-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 54.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803386",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "havana-club-7-anos-rum",
+    "name": "Havana Club Añejo 7 Años Rum",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Havana Club",
+    "countryOfOrigin": "Cuba",
+    "regionOrState": "San José, Havana",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Añejo Rum",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Toasted Oak",
+      "Cocoa",
+      "Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "7 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 7 Years in Tropical Conditions",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Havana Club",
+      "Cuba",
+      "Aged",
+      "7 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/havana-club-7-anos-rum",
+    "description": "Aged a minimum of seven years in tropical conditions in Cuba, this deeper Havana Club expression layers dried fruit and cocoa over toasted oak for sipping neat or on ice.",
+    "shortDescription": "A seven-year Cuban rum with dried fruit, cocoa and toasted oak depth.",
+    "searchKeywords": "havana club anejo 7 anos rum cuba 40% 700ml dried fruit oak cocoa spice",
+    "badge": "7 Year Añejo",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "havana-club-7-anos-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-050-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803387",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "havana-club-seleccion-de-maestros-rum",
+    "name": "Havana Club Selección de Maestros Rum",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Havana Club",
+    "countryOfOrigin": "Cuba",
+    "regionOrState": "San José, Havana",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Triple Barrel Aged Rum",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Dried Fig",
+      "Toasted Spice",
+      "Long Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Triple Barrel Aged, Blended by the Maestros Roneros",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Havana Club",
+      "Cuba",
+      "Aged",
+      "Master Selection"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/havana-club-seleccion-de-maestros-rum",
+    "description": "Selected and triple barrel aged by Havana Club's Maestros Roneros, this premium expression carries dark chocolate, dried fig and toasted spice through a long, oak-driven finish.",
+    "shortDescription": "A premium, triple barrel aged Cuban rum selected by the Maestros Roneros.",
+    "searchKeywords": "havana club seleccion de maestros rum cuba 45% 700ml dark chocolate fig oak",
+    "badge": "Master Selection",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "havana-club-seleccion-de-maestros-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-051-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803388",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "appleton-estate-signature-blend-rum",
+    "name": "Appleton Estate Signature Blend Rum",
+    "price": 64.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Appleton Estate",
+    "countryOfOrigin": "Jamaica",
+    "regionOrState": "Nassau Valley, Jamaica",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Jamaican Blended Rum",
+    "flavourProfile": [
+      "Banana",
+      "Toffee",
+      "Orange Peel",
+      "Jamaican Funk"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Pot & Column Still, Aged in Ex-Bourbon Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Appleton Estate",
+      "Jamaica",
+      "Aged"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/appleton-estate-signature-blend-rum",
+    "description": "Appleton Estate's entry-level blend of pot and column still Jamaican rums, aged in ex-bourbon casks with signature funky banana and toffee character.",
+    "shortDescription": "A classic Jamaican blend with signature banana and toffee funk.",
+    "searchKeywords": "appleton estate signature blend rum jamaica 40% 700ml banana toffee orange funk",
+    "badge": "Jamaican Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "appleton-estate-signature-blend-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-052-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 64.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803389",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "appleton-estate-8-year-old-reserve-rum",
+    "name": "Appleton Estate 8 Year Old Reserve Rum",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Appleton Estate",
+    "countryOfOrigin": "Jamaica",
+    "regionOrState": "Nassau Valley, Jamaica",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Jamaican Aged Rum",
+    "flavourProfile": [
+      "Sweet Funk",
+      "Oak",
+      "Dried Fruit",
+      "Baking Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "8 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 8 Years in Ex-Bourbon Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Appleton Estate",
+      "Jamaica",
+      "Aged",
+      "8 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/appleton-estate-8-year-old-reserve-rum",
+    "description": "An eight-year Jamaican pot and column still rum with sweet funky character balanced by an oaky nose, a well-rounded step up from Appleton's Signature Blend.",
+    "shortDescription": "A well-balanced 8-year Jamaican rum with sweet funk and oak.",
+    "searchKeywords": "appleton estate 8 year old reserve rum jamaica 40% 700ml sweet funk oak dried fruit",
+    "badge": "8 Year Reserve",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "appleton-estate-8-year-old-reserve-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-053-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803390",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "appleton-estate-12-year-old-rare-casks-rum",
+    "name": "Appleton Estate 12 Year Old Rare Casks Rum",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Appleton Estate",
+    "countryOfOrigin": "Jamaica",
+    "regionOrState": "Nassau Valley, Jamaica",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Jamaican Rare Cask Rum",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Hazelnut",
+      "Brown Sugar",
+      "Toasted Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "12 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 12 Years, Pot & Column Still",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Appleton Estate",
+      "Jamaica",
+      "Aged",
+      "12 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/appleton-estate-12-year-old-rare-casks-rum",
+    "description": "A pot-and-column still Jamaican rum aged a minimum of twelve years, Rare Casks layers dark chocolate, hazelnut and brown sugar over toasted oak with signature Jamaican pot-still funk.",
+    "shortDescription": "A 12-year Jamaican rum with dark chocolate, hazelnut and toasted oak.",
+    "searchKeywords": "appleton estate 12 year old rare casks rum jamaica 43% 700ml dark chocolate hazelnut oak",
+    "badge": "12 Year Rare Casks",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "appleton-estate-12-year-old-rare-casks-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-054-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803391",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "appleton-estate-15-year-old-black-river-casks-rum",
+    "name": "Appleton Estate 15 Year Old Black River Casks Rum",
+    "price": 149.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Appleton Estate",
+    "countryOfOrigin": "Jamaica",
+    "regionOrState": "Nassau Valley, Jamaica",
+    "abv": "45.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Jamaican Cask Strength Blend",
+    "flavourProfile": [
+      "Toasted Almond",
+      "Orange Peel",
+      "Vanilla",
+      "Roasted Coffee"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "15 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 15 Years in American White Oak",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Appleton Estate",
+      "Jamaica",
+      "Aged",
+      "15 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/appleton-estate-15-year-old-black-river-casks-rum",
+    "description": "A blend of heavier pot-still and lighter column-still Jamaican rums aged a minimum of fifteen years in American white oak, with toasted almond, orange peel and roasted coffee on a creamy, lingering finish.",
+    "shortDescription": "A 15-year Jamaican blend with toasted almond, orange peel and coffee notes.",
+    "searchKeywords": "appleton estate 15 year old black river casks rum jamaica 45% 700ml almond orange coffee",
+    "badge": "15 Year Collector",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "appleton-estate-15-year-old-black-river-casks-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-055-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 149.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803392",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "wray-and-nephew-overproof-white-rum",
+    "name": "Wray & Nephew Overproof White Rum",
+    "price": 64.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Wray & Nephew",
+    "countryOfOrigin": "Jamaica",
+    "regionOrState": "Kingston, Jamaica",
+    "abv": "63.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Overproof",
+    "styleOrVariety": "Overproof White Rum",
+    "flavourProfile": [
+      "Intense Cane",
+      "Funky Ester",
+      "Tropical Fruit",
+      "High Proof Heat"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Unaged, Pot & Column Still Blend",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Wray & Nephew",
+      "Jamaica",
+      "Overproof"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "overproof-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/wray-and-nephew-overproof-white-rum",
+    "description": "Jamaica's top-selling white overproof rum, bottled at a fiery 63% ABV with intense funky ester character — the essential base for a proper Jamaican rum punch.",
+    "shortDescription": "Jamaica's legendary 63% overproof white rum with intense funky character.",
+    "searchKeywords": "wray and nephew overproof white rum jamaica 63% 700ml funky ester cane",
+    "badge": "Jamaica's #1 Rum",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "wray-and-nephew-overproof-white-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-056-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 64.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803393",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mount-gay-eclipse-rum",
+    "name": "Mount Gay Eclipse Rum",
+    "price": 64.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Mount Gay",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "St. Lucy, Barbados",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Barbados Blended Rum",
+    "flavourProfile": [
+      "Apricot",
+      "Banana",
+      "Vanilla",
+      "Light Smoke"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 2 Years in Charred American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Mount Gay",
+      "Barbados",
+      "Aged"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/mount-gay-eclipse-rum",
+    "description": "From the world's oldest rum brand, Eclipse is aged a minimum of two years in charred American oak for a semi-sweet profile of apricot, banana and vanilla with a lightly smoked finish.",
+    "shortDescription": "From the world's oldest rum brand — apricot, banana and vanilla with light smoke.",
+    "searchKeywords": "mount gay eclipse rum barbados 40% 700ml apricot banana vanilla smoke",
+    "badge": "World's Oldest Rum",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mount-gay-eclipse-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-057-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 64.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803394",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mount-gay-black-barrel-rum",
+    "name": "Mount Gay Black Barrel Rum",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Mount Gay",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "St. Lucy, Barbados",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Small Batch Rum",
+    "flavourProfile": [
+      "Toffee",
+      "Charred Oak",
+      "Cocoa",
+      "Dark Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Double Aged in Charred Bourbon Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Mount Gay",
+      "Barbados",
+      "Aged",
+      "Small Batch"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/mount-gay-black-barrel-rum",
+    "description": "A small-batch blend of pot and column still rums finished in heavily charred bourbon casks, giving Black Barrel a bold toffee, cocoa and charred oak profile at 43% ABV.",
+    "shortDescription": "A small-batch Barbados rum with bold toffee, cocoa and charred oak notes.",
+    "searchKeywords": "mount gay black barrel rum barbados 43% 700ml toffee charred oak cocoa",
+    "badge": "Small Batch",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mount-gay-black-barrel-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-058-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803395",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mount-gay-xo-triple-cask-blend-rum",
+    "name": "Mount Gay XO Triple Cask Blend Rum",
+    "price": 109.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Mount Gay",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "St. Lucy, Barbados",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Triple Cask Blend",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Oak Spice",
+      "Toffee",
+      "Cognac-Cask Depth"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "5-17 Years",
+    "vintage": "",
+    "caskMaturation": "Aged in Bourbon, American Whiskey & Cognac Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Mount Gay",
+      "Barbados",
+      "Aged",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/mount-gay-xo-triple-cask-blend-rum",
+    "description": "A blend of rums aged 5 to 17 years across American whiskey, bourbon and Cognac casks, XO Triple Cask Blend is bottled without sweeteners at 43% ABV for a complex, oak-driven sip.",
+    "shortDescription": "A complex triple-cask blend of rums aged 5 to 17 years, unsweetened.",
+    "searchKeywords": "mount gay xo triple cask blend rum barbados 43% 700ml dried fruit oak toffee",
+    "badge": "Triple Cask XO",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mount-gay-xo-triple-cask-blend-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-059-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 109.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803396",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mount-gay-1703-master-select-rum",
+    "name": "Mount Gay 1703 Master Select Rum",
+    "price": 199.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Mount Gay",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "St. Lucy, Barbados",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Prestige Blend",
+    "flavourProfile": [
+      "Dark Toffee",
+      "Dried Fig",
+      "Cedar",
+      "Long Spice Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "10-30 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 10 to 30 Years in American Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Mount Gay",
+      "Barbados",
+      "Aged",
+      "Prestige"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/mount-gay-1703-master-select-rum",
+    "description": "Named for Mount Gay's 1703 deed as the world's oldest rum distillery, Master Select blends rums aged 10 to 30 years in American oak into a rare, prestige-tier sipping rum.",
+    "shortDescription": "A rare prestige blend of rums aged 10 to 30 years from the world's oldest rum house.",
+    "searchKeywords": "mount gay 1703 master select rum barbados 43% 700ml dark toffee fig cedar",
+    "badge": "Rarest Release",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mount-gay-1703-master-select-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-060-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 199.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803397",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "diplomatico-mantuano-rum",
+    "name": "Diplomático Mantuano Rum",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Diplomático",
+    "countryOfOrigin": "Venezuela",
+    "regionOrState": "Barinas, Venezuela",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Venezuelan Blended Rum",
+    "flavourProfile": [
+      "Toffee",
+      "Cocoa",
+      "Orange Peel",
+      "Soft Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "Up to 8 Years",
+    "vintage": "",
+    "caskMaturation": "Blend of Pot Still, Batch Kettle & Column Rums",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Diplomatico",
+      "Venezuela",
+      "Aged"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "venezuelan-rum"
+    ],
+    "seoUrl": "/spirits/rum/diplomatico-mantuano-rum",
+    "description": "A blend of column, batch kettle and pot still rums aged up to eight years, Mantuano is Diplomático's versatile all-rounder with toffee, cocoa and orange peel character.",
+    "shortDescription": "Diplomático's versatile Venezuelan blend with toffee, cocoa and orange peel.",
+    "searchKeywords": "diplomatico mantuano rum venezuela 40% 700ml toffee cocoa orange oak",
+    "badge": "Everyday Sipper",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "diplomatico-mantuano-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-061-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803398",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "diplomatico-reserva-exclusiva-rum",
+    "name": "Diplomático Reserva Exclusiva Rum",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Diplomático",
+    "countryOfOrigin": "Venezuela",
+    "regionOrState": "Barinas, Venezuela",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Venezuelan Aged Rum",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Dried Fruit",
+      "Molasses",
+      "Toasted Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "Up to 12 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Up to 12 Years, Pot Still & Batch Kettle Blend",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Diplomatico",
+      "Venezuela",
+      "Aged",
+      "12 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "venezuelan-rum"
+    ],
+    "seoUrl": "/spirits/rum/diplomatico-reserva-exclusiva-rum",
+    "description": "Diplomático's signature sipping rum, blending pot still and batch kettle rums aged up to twelve years into a rich, dessert-like pour of dark chocolate, dried fruit and molasses.",
+    "shortDescription": "Diplomático's signature sipper with dark chocolate, dried fruit and molasses.",
+    "searchKeywords": "diplomatico reserva exclusiva rum venezuela 40% 700ml dark chocolate dried fruit molasses",
+    "badge": "Signature Sipper",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "diplomatico-reserva-exclusiva-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-062-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803399",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "diplomatico-seleccion-de-familia-rum",
+    "name": "Diplomático Selección de Familia Rum",
+    "price": 129.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Diplomático",
+    "countryOfOrigin": "Venezuela",
+    "regionOrState": "Barinas, Venezuela",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Family Reserve Blend",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Toasted Coconut",
+      "Fig",
+      "Oak Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "Up to 12 Years",
+    "vintage": "",
+    "caskMaturation": "Pot Still Rums Aged Up to 12 Years, Ex-Whisky Cask Finish",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Diplomatico",
+      "Venezuela",
+      "Aged",
+      "Family Reserve"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "venezuelan-rum"
+    ],
+    "seoUrl": "/spirits/rum/diplomatico-seleccion-de-familia-rum",
+    "description": "A near-100% pot still family reserve blend aged up to twelve years and finished in ex-whisky casks, Selección de Familia is one of Diplomático's most decorated expressions.",
+    "shortDescription": "A near-pure pot still family reserve, one of Diplomático's most decorated rums.",
+    "searchKeywords": "diplomatico seleccion de familia rum venezuela 43% 700ml dark chocolate coconut fig",
+    "badge": "Family Reserve",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "diplomatico-seleccion-de-familia-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-063-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 129.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803400",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "diplomatico-ambassador-rum",
+    "name": "Diplomático Ambassador Rum",
+    "price": 399.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Diplomático",
+    "countryOfOrigin": "Venezuela",
+    "regionOrState": "Barinas, Venezuela",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Prestige Sherry-Finished Rum",
+    "flavourProfile": [
+      "Dried Fig",
+      "Toasted Nut",
+      "Sherry Sweetness",
+      "Long Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "12 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 12 Years, Finished 2 Years in Spanish Sherry Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Diplomatico",
+      "Venezuela",
+      "Aged",
+      "Prestige"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "venezuelan-rum"
+    ],
+    "seoUrl": "/spirits/rum/diplomatico-ambassador-rum",
+    "description": "From Diplomático's prestige range, Ambassador is aged twelve years from the finest reserves and finished a further two years in Spanish sherry casks for an ultra-premium, dessert-rich sipping rum.",
+    "shortDescription": "Diplomático's ultra-premium 12-year rum, finished two years in sherry casks.",
+    "searchKeywords": "diplomatico ambassador rum venezuela 43% 700ml dried fig toasted nut sherry",
+    "badge": "Prestige Range",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "diplomatico-ambassador-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-064-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 399.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803401",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "plantation-3-stars-white-rum",
+    "name": "Plantation 3 Stars White Rum",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Plantation",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Multi-Origin Caribbean Blend",
+    "abv": "41.2%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "White",
+    "styleOrVariety": "Blended White Rum",
+    "flavourProfile": [
+      "Clean Cane",
+      "Citrus",
+      "Light Spice",
+      "Crisp Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blend of Trinidad, Jamaica & Barbados Rums",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Plantation",
+      "Barbados",
+      "White"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "white-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/plantation-3-stars-white-rum",
+    "description": "A bartenders' mixing staple blending unaged and lightly aged rums from Trinidad, Jamaica and Barbados into a clean, citrus-bright white rum for daiquiris and tiki cocktails.",
+    "shortDescription": "A bartenders' staple blend, clean and citrus-bright for daiquiris.",
+    "searchKeywords": "plantation 3 stars white rum barbados 41.2% 700ml clean cane citrus spice",
+    "badge": "Bartender Staple",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "plantation-3-stars-white-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-065-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803402",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "plantation-original-dark-rum",
+    "name": "Plantation Original Dark Rum",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Plantation",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Multi-Origin Caribbean Blend",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Dark",
+    "styleOrVariety": "Double Aged Dark Rum",
+    "flavourProfile": [
+      "Molasses",
+      "Dark Caramel",
+      "Dried Fruit",
+      "Baking Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Aged in the Caribbean, Finished in French Oak",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Plantation",
+      "Barbados",
+      "Dark"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "dark-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/plantation-original-dark-rum",
+    "description": "Rums from Trinidad aged in American oak in the Caribbean, then blended in France with aged Jamaican rums for Plantation's rich, double-aged dark rum profile.",
+    "shortDescription": "A rich, double-aged dark rum blending Trinidad and Jamaican character.",
+    "searchKeywords": "plantation original dark rum barbados 40% 700ml molasses caramel dried fruit",
+    "badge": "Double Aged",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "plantation-original-dark-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-066-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803403",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "plantation-xo-20th-anniversary-rum",
+    "name": "Plantation XO 20th Anniversary Rum",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Plantation",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Barbados",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Extra Old Barbados Rum",
+    "flavourProfile": [
+      "Flambéed Banana",
+      "Toasted Coconut",
+      "Cherry",
+      "Dark Tobacco"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "12-20 Years",
+    "vintage": "",
+    "caskMaturation": "Aged in Barbados, Finished in Pierre Ferrand Cognac Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Plantation",
+      "Barbados",
+      "Aged",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/plantation-xo-20th-anniversary-rum",
+    "description": "An assemblage of Barbados rums aged 12 to 20 years, finished in casks that previously held Pierre Ferrand Cognac, delivering flambéed banana, toasted coconut and dark tobacco.",
+    "shortDescription": "A Barbados rum aged up to 20 years, finished in Pierre Ferrand Cognac casks.",
+    "searchKeywords": "plantation xo 20th anniversary rum barbados 40% 700ml banana coconut cherry tobacco",
+    "badge": "20th Anniversary",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "plantation-xo-20th-anniversary-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-067-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803404",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "plantation-barbados-5-year-old-rum",
+    "name": "Plantation Barbados 5 Year Old Rum",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Plantation",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Barbados",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Barbados Aged Rum",
+    "flavourProfile": [
+      "Vanilla",
+      "Toasted Oak",
+      "Tropical Fruit",
+      "Baking Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "5 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 5 Years in Bourbon Casks, Finished in Cognac Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Plantation",
+      "Barbados",
+      "Aged",
+      "5 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/plantation-barbados-5-year-old-rum",
+    "description": "Distilled from molasses and aged five years in bourbon casks before further finishing in Cognac casks in France, giving this Barbados rum a rounded vanilla and tropical fruit profile.",
+    "shortDescription": "A 5-year Barbados rum finished in Cognac casks, vanilla and tropical fruit.",
+    "searchKeywords": "plantation barbados 5 year old rum 40% 700ml vanilla oak tropical fruit",
+    "badge": "5 Year Barbados",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "plantation-barbados-5-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-068-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803405",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "plantation-oftd-overproof-rum",
+    "name": "Plantation O.F.T.D Overproof Rum",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Plantation",
+    "countryOfOrigin": "Multi-Origin Caribbean Blend",
+    "regionOrState": "Guyana, Jamaica & Barbados",
+    "abv": "69.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Overproof",
+    "styleOrVariety": "Overproof Tiki Rum",
+    "flavourProfile": [
+      "Intense Molasses",
+      "Funky Ester",
+      "Dark Spice",
+      "High Proof Heat"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blend of Guyana, Jamaica & Barbados Rums",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Plantation",
+      "Overproof",
+      "69%"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "overproof-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/plantation-oftd-overproof-rum",
+    "description": "A collaboration between seven leading tiki bartenders, O.F.T.D blends Guyanese, Jamaican and Barbadian rums bottled at a fierce 69% ABV — built specifically for tiki cocktails that can stand up to strong mixers.",
+    "shortDescription": "A bartender-designed 69% overproof tiki rum built for bold cocktails.",
+    "searchKeywords": "plantation oftd overproof rum 69% 700ml intense molasses funky ester tiki",
+    "badge": "Tiki Bartender Pick",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "plantation-oftd-overproof-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-069-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803406",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "flor-de-cana-4-year-old-extra-seco-rum",
+    "name": "Flor de Caña 4 Year Old Extra Seco Rum",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Flor de Caña",
+    "countryOfOrigin": "Nicaragua",
+    "regionOrState": "Chichigalpa, Nicaragua",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "White",
+    "styleOrVariety": "Extra Dry White Rum",
+    "flavourProfile": [
+      "Clean Cane",
+      "Citrus",
+      "Light Oak",
+      "Crisp Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "4 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 4 Years, Charcoal Filtered",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Flor de Cana",
+      "Nicaragua",
+      "White",
+      "4 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "white-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/flor-de-cana-4-year-old-extra-seco-rum",
+    "description": "Aged four years then charcoal filtered to a crisp, extra dry white rum, this entry-level Flor de Caña is a clean, versatile mixing rum for daiquiris and Cuba Libres.",
+    "shortDescription": "A crisp, charcoal-filtered white rum aged four years for clean mixing.",
+    "searchKeywords": "flor de cana 4 year old extra seco rum nicaragua 40% 700ml clean cane citrus oak",
+    "badge": "4 Year Extra Dry",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "flor-de-cana-4-year-old-extra-seco-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-070-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803407",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "flor-de-cana-7-year-old-gran-reserva-rum",
+    "name": "Flor de Caña 7 Year Old Gran Reserva Rum",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Flor de Caña",
+    "countryOfOrigin": "Nicaragua",
+    "regionOrState": "Chichigalpa, Nicaragua",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Gran Reserva Rum",
+    "flavourProfile": [
+      "Caramel",
+      "Toasted Oak",
+      "Dried Fruit",
+      "Vanilla"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "7 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 7 Years in American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Flor de Cana",
+      "Nicaragua",
+      "Aged",
+      "7 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/flor-de-cana-7-year-old-gran-reserva-rum",
+    "description": "Flor de Caña's core aged expression, matured a minimum of seven years in American oak for a smooth caramel and dried fruit profile that works equally well neat or in an Old Fashioned.",
+    "shortDescription": "A smooth 7-year Nicaraguan rum with caramel and dried fruit character.",
+    "searchKeywords": "flor de cana 7 year old gran reserva rum nicaragua 40% 700ml caramel oak dried fruit",
+    "badge": "7 Year Gran Reserva",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "flor-de-cana-7-year-old-gran-reserva-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-071-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803408",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "flor-de-cana-12-year-old-rum",
+    "name": "Flor de Caña 12 Year Old Rum",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Flor de Caña",
+    "countryOfOrigin": "Nicaragua",
+    "regionOrState": "Chichigalpa, Nicaragua",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Single Estate Rum",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Toffee",
+      "Toasted Oak",
+      "Dried Fig"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "12 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 12 Years, Single Estate",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Flor de Cana",
+      "Nicaragua",
+      "Aged",
+      "12 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/flor-de-cana-12-year-old-rum",
+    "description": "A single-estate rum aged a minimum of twelve years at the base of the San Cristóbal volcano, layering dark chocolate, toffee and toasted oak for a rich sipping rum.",
+    "shortDescription": "A single-estate 12-year rum with dark chocolate, toffee and toasted oak.",
+    "searchKeywords": "flor de cana 12 year old rum nicaragua 40% 700ml dark chocolate toffee oak fig",
+    "badge": "12 Year Single Estate",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "flor-de-cana-12-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-072-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803409",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "flor-de-cana-18-year-old-rum",
+    "name": "Flor de Caña 18 Year Old Rum",
+    "price": 149.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Flor de Caña",
+    "countryOfOrigin": "Nicaragua",
+    "regionOrState": "Chichigalpa, Nicaragua",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Centenario Gold Rum",
+    "flavourProfile": [
+      "Toasted Almond",
+      "Dried Apricot",
+      "Cocoa",
+      "Long Oak Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "18 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 18 Years, Slow Oxidative Ageing",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Flor de Cana",
+      "Nicaragua",
+      "Aged",
+      "18 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/flor-de-cana-18-year-old-rum",
+    "description": "An award-winning ultra-aged expression matured a minimum of eighteen years, Flor de Caña 18 Year layers toasted almond, dried apricot and cocoa across a long, elegant oak finish.",
+    "shortDescription": "An award-winning 18-year rum with toasted almond, apricot and cocoa depth.",
+    "searchKeywords": "flor de cana 18 year old rum nicaragua 40% 700ml toasted almond apricot cocoa oak",
+    "badge": "18 Year Collector",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "flor-de-cana-18-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-073-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 149.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803410",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bumbu-original-rum",
+    "name": "Bumbu Original Rum",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Bumbu",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Barbados",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Spiced",
+    "styleOrVariety": "Spiced Sipping Rum",
+    "flavourProfile": [
+      "Vanilla",
+      "Toffee",
+      "Warm Spice",
+      "Banana"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "Up to 15 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Up to 15 Years in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Bumbu",
+      "Barbados",
+      "Spiced"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "spiced-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/bumbu-original-rum",
+    "description": "Hand-crafted in Barbados from sustainably farmed sugarcane, Bumbu Original blends rums aged up to fifteen years with a whisper of natural spice, banana and vanilla, with no artificial colours or additives.",
+    "shortDescription": "A hand-crafted Barbados sipping rum with vanilla, toffee and banana notes.",
+    "searchKeywords": "bumbu original rum barbados 40% 700ml vanilla toffee banana spice",
+    "badge": "Craft Small Batch",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bumbu-original-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-074-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803411",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bumbu-xo-rum",
+    "name": "Bumbu XO Rum",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Bumbu",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Barbados",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Extra Old Sipping Rum",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Dried Fruit",
+      "Baking Spice",
+      "Long Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "Up to 18 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Up to 18 Years in Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Bumbu",
+      "Barbados",
+      "Aged",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/bumbu-xo-rum",
+    "description": "Bumbu's extra old expression, blending rums aged up to eighteen years for a deeper, dark caramel and dried fruit profile designed for sipping neat or over a single large cube.",
+    "shortDescription": "Bumbu's extra old blend with dark caramel, dried fruit and long oak.",
+    "searchKeywords": "bumbu xo rum barbados 40% 700ml dark caramel dried fruit oak",
+    "badge": "Extra Old",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bumbu-xo-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-075-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803412",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "ron-zacapa-23-solera-gran-reserva-rum",
+    "name": "Ron Zacapa Centenario 23 Solera Gran Reserva Rum",
+    "price": 109.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Ron Zacapa",
+    "countryOfOrigin": "Guatemala",
+    "regionOrState": "Quetzaltenango, Guatemala",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Solera Aged Rum",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Toffee",
+      "Honey",
+      "Oak Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "6-23 Years",
+    "vintage": "",
+    "caskMaturation": "Solera System, Rums Aged 6 to 23 Years",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Ron Zacapa",
+      "Guatemala",
+      "Aged",
+      "Solera"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "guatemalan-rum"
+    ],
+    "seoUrl": "/spirits/rum/ron-zacapa-23-solera-gran-reserva-rum",
+    "description": "Distilled from virgin sugarcane honey and matured above 2,300m using the Solera system, blending rums aged 6 to 23 years into a rich, honeyed sipping rum.",
+    "shortDescription": "A Solera-aged sipping rum distilled from virgin sugarcane honey.",
+    "searchKeywords": "ron zacapa centenario 23 solera gran reserva rum guatemala 40% 700ml dried fruit honey oak",
+    "badge": "Solera 23",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "ron-zacapa-23-solera-gran-reserva-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-076-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 109.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803413",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "ron-zacapa-xo-rum",
+    "name": "Ron Zacapa Centenario XO Rum",
+    "price": 249.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Ron Zacapa",
+    "countryOfOrigin": "Guatemala",
+    "regionOrState": "Quetzaltenango, Guatemala",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Solera Aged XO Blend",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Dried Fig",
+      "Sherry Sweetness",
+      "Long Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "6-25 Years",
+    "vintage": "",
+    "caskMaturation": "Solera System, Finished in French Oak Ex-Cognac Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Ron Zacapa",
+      "Guatemala",
+      "Aged",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "guatemalan-rum"
+    ],
+    "seoUrl": "/spirits/rum/ron-zacapa-xo-rum",
+    "description": "Blending Solera-aged rums of 6 to 25 years across barrels that previously held American whiskey, sherry and Pedro Ximénez, then finished in French oak ex-Cognac casks for Zacapa's most luxurious expression.",
+    "shortDescription": "Zacapa's most luxurious blend, finished in French oak ex-Cognac casks.",
+    "searchKeywords": "ron zacapa centenario xo rum guatemala 40% 700ml dark chocolate fig sherry",
+    "badge": "Luxury XO",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "ron-zacapa-xo-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-077-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 249.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803414",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "el-dorado-12-year-old-rum",
+    "name": "El Dorado 12 Year Old Rum",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "El Dorado",
+    "countryOfOrigin": "Guyana",
+    "regionOrState": "Demerara, Guyana",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Demerara Rum",
+    "flavourProfile": [
+      "Dark Toffee",
+      "Molasses",
+      "Dried Fruit",
+      "Oak Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "12 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 12 Years in Oak Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "El Dorado",
+      "Guyana",
+      "Aged",
+      "12 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "demerara-rum"
+    ],
+    "seoUrl": "/spirits/rum/el-dorado-12-year-old-rum",
+    "description": "Distilled from Guyana's legendary wooden and metal Demerara stills and aged a minimum of twelve years, El Dorado 12 Year is rich with dark toffee, molasses and oak spice.",
+    "shortDescription": "A rich 12-year Demerara rum with dark toffee, molasses and oak spice.",
+    "searchKeywords": "el dorado 12 year old rum guyana 40% 700ml dark toffee molasses oak",
+    "badge": "12 Year Demerara",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "el-dorado-12-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-078-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803415",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "el-dorado-15-year-old-rum",
+    "name": "El Dorado 15 Year Old Rum",
+    "price": 129.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "El Dorado",
+    "countryOfOrigin": "Guyana",
+    "regionOrState": "Demerara, Guyana",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Special Reserve Demerara Rum",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Toasted Coconut",
+      "Molasses",
+      "Long Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "15 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 15 Years in Oak Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "El Dorado",
+      "Guyana",
+      "Aged",
+      "15 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "demerara-rum"
+    ],
+    "seoUrl": "/spirits/rum/el-dorado-15-year-old-rum",
+    "description": "El Dorado's multi-award-winning Special Reserve, aged a minimum of fifteen years for a deep dark chocolate and toasted coconut profile widely regarded as one of the world's finest sipping rums.",
+    "shortDescription": "A multi-award-winning 15-year Demerara rum, rich and chocolate-forward.",
+    "searchKeywords": "el dorado 15 year old special reserve rum guyana 43% 700ml dark chocolate coconut molasses",
+    "badge": "Award-Winning",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "el-dorado-15-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-079-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 129.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803416",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "el-dorado-21-year-old-rum",
+    "name": "El Dorado 21 Year Old Rum",
+    "price": 199.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "El Dorado",
+    "countryOfOrigin": "Guyana",
+    "regionOrState": "Demerara, Guyana",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Rare Collection Demerara Rum",
+    "flavourProfile": [
+      "Dried Fig",
+      "Dark Chocolate",
+      "Cedar",
+      "Long Spice Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "21 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Minimum 21 Years in Oak Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "El Dorado",
+      "Guyana",
+      "Aged",
+      "21 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "demerara-rum"
+    ],
+    "seoUrl": "/spirits/rum/el-dorado-21-year-old-rum",
+    "description": "A rare Demerara rum aged a minimum of twenty-one years, blending wooden and metal Coffey still rums into an elegant, deeply complex expression for serious collectors.",
+    "shortDescription": "A rare, 21-year Demerara rum of exceptional depth for serious collectors.",
+    "searchKeywords": "el dorado 21 year old rum guyana 43% 700ml dried fig dark chocolate cedar",
+    "badge": "Rare Collection",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "el-dorado-21-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-080-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 199.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803417",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "doorlys-5-year-old-rum",
+    "name": "Doorly's 5 Year Old Rum",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Doorly's",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Barbados",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Bajan Aged Rum",
+    "flavourProfile": [
+      "Vanilla",
+      "Oak",
+      "Cookie",
+      "Butterscotch"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "5 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 5 Years in Ex-Bourbon Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Doorly's",
+      "Barbados",
+      "Aged",
+      "5 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/doorlys-5-year-old-rum",
+    "description": "A Foursquare-distilled Bajan rum aged five years in ex-bourbon casks, giving Doorly's 5 Year a smooth, buttery profile of vanilla, oak and cookie notes.",
+    "shortDescription": "A smooth 5-year Bajan rum from Foursquare with vanilla and buttery oak.",
+    "searchKeywords": "doorlys 5 year old rum barbados 40% 700ml vanilla oak cookie butterscotch",
+    "badge": "5 Year Bajan",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "doorlys-5-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-081-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803418",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "doorlys-xo-rum",
+    "name": "Doorly's XO Rum",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Doorly's",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Barbados",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Bajan XO Blend",
+    "flavourProfile": [
+      "Toffee",
+      "Dried Fruit",
+      "Baking Spice",
+      "Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Pot & Column Still Blend, Ex-Bourbon Casks",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Doorly's",
+      "Barbados",
+      "Aged",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/doorlys-xo-rum",
+    "description": "Foursquare's pot and column still Bajan blend bottled at 43% ABV under the Doorly's XO label, layering toffee and dried fruit over a well-integrated oak backbone.",
+    "shortDescription": "A 43% Bajan XO blend from Foursquare with toffee and dried fruit depth.",
+    "searchKeywords": "doorlys xo rum barbados 43% 700ml toffee dried fruit oak spice",
+    "badge": "XO Blend",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "doorlys-xo-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-082-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803419",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "doorlys-12-year-old-rum",
+    "name": "Doorly's 12 Year Old Rum",
+    "price": 109.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Doorly's",
+    "countryOfOrigin": "Barbados",
+    "regionOrState": "Barbados",
+    "abv": "43.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Aged",
+    "styleOrVariety": "Bajan Fine Old Rum",
+    "flavourProfile": [
+      "Dried Apricot",
+      "Toasted Oak",
+      "Honey",
+      "Baking Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum",
+      "Premium Pick"
+    ],
+    "ageStatement": "12 Years",
+    "vintage": "",
+    "caskMaturation": "90% Ex-Bourbon, 10% Madeira Cask Aged",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Doorly's",
+      "Barbados",
+      "Aged",
+      "12 Years"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "aged-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/doorlys-12-year-old-rum",
+    "description": "A combination of pot and column still rums aged twelve years — roughly 90% in ex-bourbon barrels and the remainder in Madeira casks — before blending into Doorly's Fine Old 12 Year.",
+    "shortDescription": "A 12-year Bajan rum blending ex-bourbon and Madeira cask maturation.",
+    "searchKeywords": "doorlys 12 year old rum barbados 43% 700ml dried apricot oak honey spice",
+    "badge": "12 Year Fine Old",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "doorlys-12-year-old-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-083-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 109.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803420",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "goslings-black-seal-rum",
+    "name": "Gosling's Black Seal Rum",
+    "price": 59.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "rum",
+    "subcategory": "rum",
+    "brand": "Goslings",
+    "countryOfOrigin": "Bermuda",
+    "regionOrState": "Hamilton, Bermuda",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Rum",
+    "rumStyle": "Dark",
+    "styleOrVariety": "Bermuda Black Rum",
+    "flavourProfile": [
+      "Molasses",
+      "Caramel",
+      "Dark Spice",
+      "Burnt Sugar"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Rum"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Blend of Pot & Column Still Rums, Oak Aged",
+    "controlledTags": [
+      "Spirits",
+      "Rum",
+      "Goslings",
+      "Bermuda",
+      "Dark"
+    ],
+    "collections": [
+      "spirits",
+      "rum",
+      "dark-rum",
+      "caribbean-rum"
+    ],
+    "seoUrl": "/spirits/rum/goslings-black-seal-rum",
+    "description": "Bermuda's signature dark rum since 1806, blended by the Gosling family for a rich molasses and burnt sugar profile — the essential base for an authentic Dark 'n' Stormy.",
+    "shortDescription": "Bermuda's signature dark rum, the essential base for a Dark 'n' Stormy.",
+    "searchKeywords": "goslings black seal rum bermuda 40% 700ml molasses caramel burnt sugar",
+    "badge": "Dark 'n' Stormy Original",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "goslings-black-seal-rum-700ml-bottle",
+        "sku": "SPIRIT-RUM-084-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "barcode": "93109930803421",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
