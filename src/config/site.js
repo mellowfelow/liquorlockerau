@@ -69695,6 +69695,2187 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "st-remy-vsop-brandy",
+    "name": "St Remy VSOP Brandy",
+    "price": 53.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "St Remy",
+    "countryOfOrigin": "France",
+    "regionOrState": "Charente",
+    "abv": "36.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Brandy",
+    "grade": "VSOP",
+    "styleOrVariety": "French VSOP Brandy",
+    "flavourProfile": [
+      "Vanilla",
+      "Dried Fruit",
+      "Oak",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "VSOP",
+    "vintage": "",
+    "caskMaturation": "Aged in French Oak Barrels",
+    "controlledTags": [
+      "Spirits",
+      "Brandy",
+      "St Remy",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "brandy",
+      "vsop-brandy"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/st-remy-vsop-brandy",
+    "description": "A smooth, approachable French VSOP brandy aged in French oak, with vanilla and dried fruit character that has made it an Australian bar staple for decades.",
+    "shortDescription": "A smooth, approachable French VSOP brandy — an Australian bar staple.",
+    "searchKeywords": "st remy vsop brandy france 36% 700ml vanilla dried fruit oak",
+    "badge": "Bar Staple",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "st-remy-vsop-brandy-700ml-bottle",
+        "sku": "SPIRIT-BRDY-001-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 53.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "st-remy-vsop-brandy-1l-bottle",
+        "sku": "SPIRIT-BRDY-001-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "hennessy-vs-cognac",
+    "name": "Hennessy VS Cognac",
+    "price": 86.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Hennessy",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VS",
+    "styleOrVariety": "Very Special Cognac",
+    "flavourProfile": [
+      "Vibrant Fruit",
+      "Toasted Oak",
+      "Light Spice",
+      "Bright"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "VS",
+    "vintage": "",
+    "caskMaturation": "Blend of Eaux-de-Vie Aged Min. 2 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Hennessy",
+      "France",
+      "VS"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vs-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/hennessy-vs-cognac",
+    "description": "The world's best-selling cognac, Hennessy VS blends young, vibrant eaux-de-vie for a bright, fruit-forward character built for cocktails or a simple pour.",
+    "shortDescription": "The world's best-selling cognac — bright and fruit-forward.",
+    "searchKeywords": "hennessy vs cognac france 40% 700ml vibrant fruit toasted oak",
+    "badge": "World's #1 Cognac",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hennessy-vs-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-002-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 86.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hennessy-vs-cognac-1l-bottle",
+        "sku": "SPIRIT-BRDY-002-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 96,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "hennessy-vsop-cognac",
+    "name": "Hennessy VSOP Cognac",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Hennessy",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VSOP",
+    "styleOrVariety": "VSOP Privilège Cognac",
+    "flavourProfile": [
+      "Dried Apricot",
+      "Cinnamon",
+      "Toasted Oak",
+      "Rounded"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "VSOP",
+    "vintage": "",
+    "caskMaturation": "Blend of Eaux-de-Vie Aged Min. 4 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Hennessy",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vsop-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/hennessy-vsop-cognac",
+    "description": "Hennessy's VSOP Privilège blends eaux-de-vie aged a minimum of four years into a rounder, spicier cognac with dried apricot and cinnamon character.",
+    "shortDescription": "A rounder, spicier cognac with dried apricot and cinnamon character.",
+    "searchKeywords": "hennessy vsop cognac france 40% 700ml dried apricot cinnamon oak",
+    "badge": "VSOP Privilège",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hennessy-vsop-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-003-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hennessy-vsop-cognac-1l-bottle",
+        "sku": "SPIRIT-BRDY-003-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 129.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "hennessy-xo-cognac",
+    "name": "Hennessy XO Cognac",
+    "price": 339,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Hennessy",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "XO",
+    "styleOrVariety": "Extra Old Cognac",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Dried Fig",
+      "Rancio",
+      "Long Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "XO",
+    "vintage": "",
+    "caskMaturation": "Blend of Up to 100 Eaux-de-Vie, Aged 10-30 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Hennessy",
+      "France",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "xo-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/hennessy-xo-cognac",
+    "description": "Created in 1870 as the original XO cognac, Hennessy XO blends up to 100 eaux-de-vie aged 10 to 30 years for exceptional depth and complexity.",
+    "shortDescription": "The original XO cognac, created in 1870 — exceptional depth.",
+    "searchKeywords": "hennessy xo cognac france 40% 700ml dark chocolate dried fig rancio",
+    "badge": "Original XO, Since 1870",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hennessy-xo-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-004-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 339,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "hennessy-paradis-cognac",
+    "name": "Hennessy Paradis Cognac",
+    "price": 2499.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Hennessy",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "Hors d'Age",
+    "styleOrVariety": "Ultra-Premium Cognac",
+    "flavourProfile": [
+      "Candied Fruit",
+      "Iris",
+      "Honey",
+      "Silken Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Hors d'Age",
+    "vintage": "",
+    "caskMaturation": "Blend of Rare Eaux-de-Vie, Some Over 130 Years Old",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Hennessy",
+      "France",
+      "Ultra-Premium"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "ultra-premium-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/hennessy-paradis-cognac",
+    "description": "An ultra-rare cognac drawing on eaux-de-vie from Hennessy's deepest cellars, some over a century old, for an extraordinarily silken, candied-fruit finish.",
+    "shortDescription": "An ultra-rare cognac drawn from eaux-de-vie over a century old.",
+    "searchKeywords": "hennessy paradis cognac france 40% 700ml candied fruit iris honey silken",
+    "badge": "Ultra-Rare Reserve",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hennessy-paradis-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-005-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 2499.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "remy-martin-vsop-cognac",
+    "name": "Rémy Martin VSOP Cognac",
+    "price": 114.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Rémy Martin",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Fine Champagne",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VSOP",
+    "styleOrVariety": "Fine Champagne Cognac",
+    "flavourProfile": [
+      "Vanilla",
+      "Toasted Almond",
+      "Fig",
+      "Rounded"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "VSOP",
+    "vintage": "",
+    "caskMaturation": "Blend of Grande & Petite Champagne Eaux-de-Vie",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Remy Martin",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vsop-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/remy-martin-vsop-cognac",
+    "description": "Made exclusively from Fine Champagne eaux-de-vie, Rémy Martin VSOP is rich and rounded with vanilla and toasted almond depth.",
+    "shortDescription": "Made exclusively from Fine Champagne eaux-de-vie — rich and rounded.",
+    "searchKeywords": "remy martin vsop cognac france 40% 700ml vanilla toasted almond fig",
+    "badge": "Fine Champagne",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "remy-martin-vsop-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-006-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 114.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "remy-martin-vsop-cognac-1l-bottle",
+        "sku": "SPIRIT-BRDY-006-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 129.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "remy-martin-xo-cognac",
+    "name": "Rémy Martin XO Excellence Cognac",
+    "price": 349.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Rémy Martin",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Fine Champagne",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "XO",
+    "styleOrVariety": "Fine Champagne XO Cognac",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Baking Spice",
+      "Rancio",
+      "Deep Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "XO",
+    "vintage": "",
+    "caskMaturation": "Blend of Rare Fine Champagne Eaux-de-Vie",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Remy Martin",
+      "France",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "xo-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/remy-martin-xo-cognac",
+    "description": "Rémy Martin's flagship XO Excellence blends rare Fine Champagne eaux-de-vie into a deep, complex cognac with dried fruit and baking spice.",
+    "shortDescription": "Rémy Martin's flagship XO — deep, complex Fine Champagne character.",
+    "searchKeywords": "remy martin xo excellence cognac france 40% 700ml dried fruit baking spice rancio",
+    "badge": "Flagship XO",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "remy-martin-xo-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-007-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 349.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "remy-martin-club-cognac",
+    "name": "Rémy Martin Club Cognac",
+    "price": 199.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Rémy Martin",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Fine Champagne",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "XO",
+    "styleOrVariety": "Fine Champagne Club Cognac",
+    "flavourProfile": [
+      "Dried Apricot",
+      "Honey",
+      "Toasted Oak",
+      "Rounded Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Aged Between VSOP & XO",
+    "vintage": "",
+    "caskMaturation": "Blend of Fine Champagne Eaux-de-Vie",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Remy Martin",
+      "France",
+      "Club"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "xo-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/remy-martin-club-cognac",
+    "description": "Sitting between VSOP and XO in maturity, Rémy Martin Club is a fuller-bodied Fine Champagne cognac with honeyed depth, designed for the travel retail and gifting market.",
+    "shortDescription": "A fuller-bodied cognac sitting between VSOP and XO in maturity.",
+    "searchKeywords": "remy martin club cognac france 40% 700ml dried apricot honey oak",
+    "badge": "Between VSOP & XO",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "remy-martin-club-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-008-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 199.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "remy-martin-club-cognac-1l-bottle",
+        "sku": "SPIRIT-BRDY-008-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 210,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "courvoisier-vs-cognac",
+    "name": "Courvoisier VS Cognac",
+    "price": 91.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Courvoisier",
+    "countryOfOrigin": "France",
+    "regionOrState": "Jarnac, Cognac",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VS",
+    "styleOrVariety": "Very Special Cognac",
+    "flavourProfile": [
+      "Fresh Grape",
+      "Vanilla",
+      "Light Oak",
+      "Crisp"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "VS",
+    "vintage": "",
+    "caskMaturation": "Blend of Eaux-de-Vie Aged Min. 2.5 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Courvoisier",
+      "France",
+      "VS"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vs-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/courvoisier-vs-cognac",
+    "description": "Napoleon's preferred cognac house, Courvoisier VS blends fresh, youthful eaux-de-vie for a crisp, approachable everyday cognac.",
+    "shortDescription": "Napoleon's preferred cognac house — crisp and approachable.",
+    "searchKeywords": "courvoisier vs cognac france 40% 700ml fresh grape vanilla light oak",
+    "badge": "Napoleon's Cognac",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "courvoisier-vs-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-009-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 91.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "courvoisier-vsop-cognac",
+    "name": "Courvoisier VSOP Cognac",
+    "price": 110,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Courvoisier",
+    "countryOfOrigin": "France",
+    "regionOrState": "Jarnac, Cognac",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VSOP",
+    "styleOrVariety": "VSOP Cognac",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Cinnamon",
+      "Toasted Oak",
+      "Rounded"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "VSOP",
+    "vintage": "",
+    "caskMaturation": "Blend of Eaux-de-Vie Aged Min. 4 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Courvoisier",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vsop-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/courvoisier-vsop-cognac",
+    "description": "A rounder step up from VS, Courvoisier VSOP layers dried fruit and cinnamon over its signature bright, floral eau-de-vie base.",
+    "shortDescription": "A rounder step up from VS — dried fruit and cinnamon depth.",
+    "searchKeywords": "courvoisier vsop cognac france 40% 700ml dried fruit cinnamon oak",
+    "badge": "VSOP Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "courvoisier-vsop-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-010-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 110,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "courvoisier-vsop-cognac-1l-bottle",
+        "sku": "SPIRIT-BRDY-010-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 128,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "courvoisier-xo-cognac",
+    "name": "Courvoisier XO Cognac",
+    "price": 199.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Courvoisier",
+    "countryOfOrigin": "France",
+    "regionOrState": "Jarnac, Cognac",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "XO",
+    "styleOrVariety": "Extra Old Cognac",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Fig",
+      "Rancio",
+      "Long Finish"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "XO",
+    "vintage": "",
+    "caskMaturation": "Blend of Eaux-de-Vie Aged Up to 25 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Courvoisier",
+      "France",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "xo-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/courvoisier-xo-cognac",
+    "description": "Courvoisier XO blends eaux-de-vie aged up to twenty-five years for a deep, rancio-rich cognac with dark chocolate and fig complexity.",
+    "shortDescription": "A deep, rancio-rich cognac aged up to twenty-five years.",
+    "searchKeywords": "courvoisier xo cognac france 40% 700ml dark chocolate fig rancio",
+    "badge": "Deep & Complex",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "courvoisier-xo-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-011-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 199.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "martell-vs-cognac",
+    "name": "Martell VS Cognac",
+    "price": 88.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Martell",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VS",
+    "styleOrVariety": "Very Special Cognac",
+    "flavourProfile": [
+      "Fresh Fruit",
+      "Vanilla",
+      "Light Oak",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "VS",
+    "vintage": "",
+    "caskMaturation": "Blend of Eaux-de-Vie Aged Min. 2 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Martell",
+      "France",
+      "VS"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vs-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/martell-vs-cognac",
+    "description": "The oldest of the great cognac houses, Martell VS is fresh and fruit-forward, distilled entirely off the lees for extra finesse.",
+    "shortDescription": "The oldest of the great cognac houses — fresh and fruit-forward.",
+    "searchKeywords": "martell vs cognac france 40% 700ml fresh fruit vanilla light oak",
+    "badge": "Oldest Cognac House",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "martell-vs-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-012-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 88.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "martell-vsop-cognac",
+    "name": "Martell VSOP Cognac",
+    "price": 111.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Martell",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VSOP",
+    "styleOrVariety": "VSOP Cognac",
+    "flavourProfile": [
+      "Luscious Fruit",
+      "Toasted Oak",
+      "Spice",
+      "Elegant Balance"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "VSOP, Youngest Aged Min. 4 Years",
+    "vintage": "",
+    "caskMaturation": "Blend of Eaux-de-Vie",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Martell",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vsop-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/martell-vsop-cognac",
+    "description": "A refined balance of fruit and spice, Martell VSOP blends eaux-de-vie where the youngest has aged a minimum of four years.",
+    "shortDescription": "A refined balance of fruit and spice, elegantly aged.",
+    "searchKeywords": "martell vsop cognac france 40% 700ml luscious fruit toasted oak spice",
+    "badge": "Elegant Balance",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "martell-vsop-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-013-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 111.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "martell-cordon-bleu-cognac",
+    "name": "Martell Cordon Bleu Cognac",
+    "price": 310,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Martell",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "XO",
+    "styleOrVariety": "Cordon Bleu Cognac",
+    "flavourProfile": [
+      "Nutmeg",
+      "Prune",
+      "Rich Oak",
+      "Rancio"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Aged 10-25 Years",
+    "vintage": "",
+    "caskMaturation": "Blend of Eaux-de-Vie Aged 10 to 25 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Martell",
+      "France",
+      "Cordon Bleu"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "xo-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/martell-cordon-bleu-cognac",
+    "description": "Created in 1912, Martell's most celebrated cognac blends eaux-de-vie aged between ten and twenty-five years for signature nutmeg and prune richness.",
+    "shortDescription": "Martell's most celebrated cognac, created in 1912.",
+    "searchKeywords": "martell cordon bleu cognac france 40% 700ml nutmeg prune rich oak rancio",
+    "badge": "Since 1912",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "martell-cordon-bleu-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-014-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 310,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "martell-xo-cognac",
+    "name": "Martell XO Cognac",
+    "price": 480,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Martell",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "XO",
+    "styleOrVariety": "Extra Old Cognac",
+    "flavourProfile": [
+      "Dried Fig",
+      "Dark Chocolate",
+      "Toasted Oak",
+      "Long Rancio"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "XO",
+    "vintage": "",
+    "caskMaturation": "Blend of Rare Aged Eaux-de-Vie",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Martell",
+      "France",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "xo-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/martell-xo-cognac",
+    "description": "Martell's XO expression showcases the house's signature toasted oak style with deep dried fig and dark chocolate complexity.",
+    "shortDescription": "Martell's XO — deep dried fig and dark chocolate complexity.",
+    "searchKeywords": "martell xo cognac france 40% 700ml dried fig dark chocolate toasted oak",
+    "badge": "House Signature XO",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "martell-xo-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-015-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 480,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "martell-noblige-cognac",
+    "name": "Martell Noblige Cognac",
+    "price": 129.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Martell",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VSOP",
+    "styleOrVariety": "Noblige Cognac",
+    "flavourProfile": [
+      "Ripe Fruit",
+      "Toasted Almond",
+      "Spice",
+      "Complex Layers"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Complex VSOP-Tier Blend",
+    "vintage": "",
+    "caskMaturation": "Blend of Over 100 Eaux-de-Vie",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Martell",
+      "France",
+      "Noblige"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vsop-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/martell-noblige-cognac",
+    "description": "Unusually complex for its tier, Martell Noblige blends more than one hundred eaux-de-vie from the finest terroirs in the Cognac region.",
+    "shortDescription": "Unusually complex — blended from over one hundred eaux-de-vie.",
+    "searchKeywords": "martell noblige cognac france 40% 700ml ripe fruit toasted almond spice",
+    "badge": "100+ Eaux-de-Vie Blend",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "martell-noblige-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-016-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 129.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "martell-noblige-cognac-1l-bottle",
+        "sku": "SPIRIT-BRDY-016-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 210,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "martell-blue-swift-cognac",
+    "name": "Martell Blue Swift Cognac",
+    "price": 125.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Martell",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VSOP",
+    "styleOrVariety": "Bourbon Cask Finished Cognac",
+    "flavourProfile": [
+      "Vanilla",
+      "Toffee",
+      "Charred Oak",
+      "Bold Spice"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "VSOP, Bourbon Cask Finished",
+    "vintage": "",
+    "caskMaturation": "Finished in American Bourbon Casks",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Martell",
+      "France",
+      "Bourbon Cask"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vsop-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/martell-blue-swift-cognac",
+    "description": "A bold, contemporary cognac finished in American bourbon casks, Blue Swift bridges cognac and whiskey drinkers with vanilla and charred oak depth.",
+    "shortDescription": "A bold cognac finished in American bourbon casks.",
+    "searchKeywords": "martell blue swift cognac france 40% 700ml vanilla toffee charred oak",
+    "badge": "Bourbon Cask Finish",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "martell-blue-swift-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-017-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 125.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "louis-xiii-cognac",
+    "name": "Louis XIII Cognac",
+    "price": 5499,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Rémy Martin",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Grande Champagne",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "Hors d'Age",
+    "styleOrVariety": "Grande Champagne Hors d'Age Cognac",
+    "flavourProfile": [
+      "Honey",
+      "Myrrh",
+      "Dried Fig",
+      "Roses"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Up to 100 Years",
+    "vintage": "",
+    "caskMaturation": "Blend of up to 1,200 Eaux-de-Vie, Aged 25 to 100 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Louis XIII",
+      "Remy Martin",
+      "France",
+      "Ultra-Luxury"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "ultra-premium-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/louis-xiii-cognac",
+    "description": "One of the world's most prestigious spirits, Louis XIII blends up to 1,200 Grande Champagne eaux-de-vie aged between 25 and 100 years, presented in its iconic Baccarat-inspired decanter.",
+    "shortDescription": "One of the world's most prestigious spirits, blended from eaux-de-vie up to 100 years old.",
+    "searchKeywords": "louis xiii cognac remy martin france 40% 700ml honey myrrh dried fig roses",
+    "badge": "Ultra-Luxury Icon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "louis-xiii-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-018-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 5499,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "delord-vsop-armagnac",
+    "name": "Delord VSOP Armagnac",
+    "price": 99.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Delord",
+    "countryOfOrigin": "France",
+    "regionOrState": "Bas-Armagnac, Gers",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Armagnac",
+    "grade": "VSOP",
+    "styleOrVariety": "Bas-Armagnac VSOP",
+    "flavourProfile": [
+      "Prune",
+      "Plum",
+      "Fruity",
+      "Youthful Oak"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "4-5 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 4-5 Years in Black Oak Casks",
+    "controlledTags": [
+      "Spirits",
+      "Armagnac",
+      "Delord",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "armagnac",
+      "vsop-armagnac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/delord-vsop-armagnac",
+    "description": "A fuller, more supple style than cognac, Delord's family-run Bas-Armagnac house produces this fruity, youthful VSOP with prune and plum character.",
+    "shortDescription": "A fruity, youthful Bas-Armagnac with prune and plum character.",
+    "searchKeywords": "delord vsop bas armagnac france 40% 700ml prune plum fruity oak",
+    "badge": "Family Bas-Armagnac House",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "delord-vsop-armagnac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-019-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 99.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "chabot-xo-armagnac",
+    "name": "Chabot XO Armagnac",
+    "price": 199.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Chabot",
+    "countryOfOrigin": "France",
+    "regionOrState": "Armagnac, Gers",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "1L",
+    "packSize": "1L Bottle",
+    "primaryProductType": "Armagnac",
+    "grade": "XO",
+    "styleOrVariety": "Armagnac Flagship Blend",
+    "flavourProfile": [
+      "Buttered Fruit Bread",
+      "Spiced Plum",
+      "Dried Apricot",
+      "Honey"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "Aged Up to 35 Years",
+    "vintage": "",
+    "caskMaturation": "Aged Up to 35 Years in Oak",
+    "controlledTags": [
+      "Spirits",
+      "Armagnac",
+      "Chabot",
+      "France",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "armagnac",
+      "xo-armagnac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/chabot-xo-armagnac",
+    "description": "Chabot's flagship expression, aged up to thirty-five years, opens with buttered fruit bread and spiced plum before a long, honeyed finish.",
+    "shortDescription": "Chabot's flagship, aged up to thirty-five years — rich and honeyed.",
+    "searchKeywords": "chabot xo armagnac france 40% 1l buttered fruit bread spiced plum honey",
+    "badge": "Flagship, 35 Years",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "chabot-xo-armagnac-1l-bottle",
+        "sku": "SPIRIT-BRDY-020-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 199.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "st-agnes-vsop-brandy",
+    "name": "St Agnes VSOP Brandy",
+    "price": 69.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "St Agnes",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Riverland, South Australia",
+    "abv": "37.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Brandy",
+    "grade": "VSOP",
+    "styleOrVariety": "Australian VSOP Brandy",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Vanilla",
+      "Toasted Oak",
+      "Balanced Spice"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "5 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 5 Years in French & American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Brandy",
+      "St Agnes",
+      "Australia",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "brandy",
+      "vsop-brandy"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/st-agnes-vsop-brandy",
+    "description": "Established in 1910, St Agnes is one of Australia's most acclaimed brandy houses, and this 5 Year Old VSOP delivers hallmark richness and elegance.",
+    "shortDescription": "One of Australia's most acclaimed brandy houses, since 1910.",
+    "searchKeywords": "st agnes vsop 5 year old brandy australia 37% 700ml dried fruit vanilla oak",
+    "badge": "Australian Icon, Since 1910",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "st-agnes-vsop-brandy-700ml-bottle",
+        "sku": "SPIRIT-BRDY-021-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 69.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "st-agnes-xo-15-year-old-brandy",
+    "name": "St Agnes XO 15 Year Old Brandy",
+    "price": 89.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "St Agnes",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Riverland, South Australia",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Brandy",
+    "grade": "XO",
+    "styleOrVariety": "Australian XO Brandy",
+    "flavourProfile": [
+      "Dark Caramel",
+      "Dried Fig",
+      "Toasted Oak",
+      "Long Spice"
+    ],
+    "dietary": [
+      "Australian Made",
+      "Premium Pick"
+    ],
+    "ageStatement": "15 Years",
+    "vintage": "",
+    "caskMaturation": "Aged 15 Years in French & American Oak",
+    "controlledTags": [
+      "Spirits",
+      "Brandy",
+      "St Agnes",
+      "Australia",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "brandy",
+      "xo-brandy"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/st-agnes-xo-15-year-old-brandy",
+    "description": "A Dan Murphy's 2024 Decoded Spirits finalist, this 15 year old XO from St Agnes layers dark caramel and dried fig over long, oak-driven complexity.",
+    "shortDescription": "A Decoded Spirits finalist — 15 years of dark caramel and oak depth.",
+    "searchKeywords": "st agnes xo 15 year old brandy australia 40% 700ml dark caramel dried fig oak",
+    "badge": "Decoded Spirits Finalist",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "st-agnes-xo-15-year-old-brandy-700ml-bottle",
+        "sku": "SPIRIT-BRDY-022-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 89.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "23rd-street-not-your-nannas-brandy",
+    "name": "23rd Street Not Your Nanna's Brandy",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "23rd Street Distillery",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Renmark, South Australia",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Brandy",
+    "grade": "Age Statement",
+    "styleOrVariety": "Riverland Craft Brandy",
+    "flavourProfile": [
+      "Orchard Fruit",
+      "Vanilla",
+      "Soft Oak",
+      "Modern Style"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Traditional Pot Still, Oak Aged",
+    "controlledTags": [
+      "Spirits",
+      "Brandy",
+      "23rd Street",
+      "Australia",
+      "Riverland"
+    ],
+    "collections": [
+      "spirits",
+      "brandy",
+      "australian-brandy"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/23rd-street-not-your-nannas-brandy",
+    "description": "A modern, gold-medal-winning take on Australian brandy from Renmark's historic 23rd Street Distillery, built to shed brandy's old-fashioned reputation.",
+    "shortDescription": "A modern, gold-medal-winning Riverland brandy for a new generation.",
+    "searchKeywords": "23rd street not your nannas brandy australia 40% 700ml orchard fruit vanilla oak",
+    "badge": "Gold Medal Winner",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "23rd-street-not-your-nannas-brandy-700ml-bottle",
+        "sku": "SPIRIT-BRDY-023-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "zora-apricot-brandy",
+    "name": "Zora Apricot Brandy",
+    "price": 71.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Zora",
+    "countryOfOrigin": "Serbia",
+    "regionOrState": "Western Serbia",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Brandy",
+    "grade": "Age Statement",
+    "styleOrVariety": "Apricot Fruit Brandy",
+    "flavourProfile": [
+      "Ripe Apricot",
+      "Fruity Aroma",
+      "Clean",
+      "Warming"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Distilled from Ripe Apricots",
+    "controlledTags": [
+      "Spirits",
+      "Brandy",
+      "Zora",
+      "Serbia",
+      "Apricot"
+    ],
+    "collections": [
+      "spirits",
+      "brandy",
+      "fruit-brandy"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/zora-apricot-brandy",
+    "description": "A colourless apricot brandy distilled from ripe, sun-grown Western Serbian apricots, with a bright fruity aroma and warming finish.",
+    "shortDescription": "An apricot brandy distilled from ripe Western Serbian apricots.",
+    "searchKeywords": "zora apricot brandy serbia 40% 700ml ripe apricot fruity clean",
+    "badge": "Serbian Apricot",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "zora-apricot-brandy-700ml-bottle",
+        "sku": "SPIRIT-BRDY-024-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 71.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kamnik-signature-rakija-brandy",
+    "name": "Kamnik Signature Rakija Brandy",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Château Kamnik",
+    "countryOfOrigin": "North Macedonia",
+    "regionOrState": "North Macedonia",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Brandy",
+    "grade": "Age Statement",
+    "styleOrVariety": "Oak Aged Grape Rakija",
+    "flavourProfile": [
+      "Muscat Rose",
+      "Grape",
+      "Oak",
+      "Aromatic"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Oak Aged Grape Brandy",
+    "controlledTags": [
+      "Spirits",
+      "Brandy",
+      "Kamnik",
+      "North Macedonia",
+      "Rakija"
+    ],
+    "collections": [
+      "spirits",
+      "brandy",
+      "fruit-brandy"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/kamnik-signature-rakija-brandy",
+    "description": "Made from well-ripened Muscat Hamburg grapes, this oak-aged Macedonian rakija carries a pleasant, rich Muscat rose aroma with a smooth grape-brandy finish.",
+    "shortDescription": "An oak-aged Macedonian grape rakija with rich Muscat rose aroma.",
+    "searchKeywords": "kamnik signature rakija grape brandy north macedonia 40% 700ml muscat rose grape oak",
+    "badge": "Macedonian Rakija",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kamnik-signature-rakija-brandy-700ml-bottle",
+        "sku": "SPIRIT-BRDY-025-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "maraska-cherry-brandy",
+    "name": "Maraska Cherry Brandy",
+    "price": 61.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Maraska",
+    "countryOfOrigin": "Croatia",
+    "regionOrState": "Zadar",
+    "abv": "24.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Brandy",
+    "grade": "Age Statement",
+    "styleOrVariety": "Cherry Fruit Brandy Liqueur",
+    "flavourProfile": [
+      "Sour Cherry",
+      "Sweet",
+      "Fruity",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "",
+    "vintage": "",
+    "caskMaturation": "Distilled from Marasca Cherries",
+    "controlledTags": [
+      "Spirits",
+      "Brandy",
+      "Maraska",
+      "Croatia",
+      "Cherry"
+    ],
+    "collections": [
+      "spirits",
+      "brandy",
+      "fruit-brandy"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/maraska-cherry-brandy",
+    "description": "Croatia's favourite Marasca cherry brandy, a smooth, sweet-and-sour fruit brandy from the Dalmatian coast's signature cherry variety.",
+    "shortDescription": "Croatia's favourite Marasca cherry brandy, smooth and fruity.",
+    "searchKeywords": "maraska cherry brandy croatia 24% 700ml sour cherry sweet fruity",
+    "badge": "Croatia's Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "maraska-cherry-brandy-700ml-bottle",
+        "sku": "SPIRIT-BRDY-026-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 61.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "tikves-lozova-yellow-grape-brandy",
+    "name": "Tikveš Lozova Yellow Grape Brandy",
+    "price": 80.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Tikveš",
+    "countryOfOrigin": "North Macedonia",
+    "regionOrState": "Tikveš",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Brandy",
+    "grade": "Age Statement",
+    "styleOrVariety": "Oak Aged Grape Rakija",
+    "flavourProfile": [
+      "Grape",
+      "Toasted Oak",
+      "Warm",
+      "Traditional"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "36 Months",
+    "vintage": "",
+    "caskMaturation": "Oak Aged 36 Months",
+    "controlledTags": [
+      "Spirits",
+      "Brandy",
+      "Tikves",
+      "North Macedonia",
+      "Rakija"
+    ],
+    "collections": [
+      "spirits",
+      "brandy",
+      "fruit-brandy"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/tikves-lozova-yellow-grape-brandy",
+    "description": "Made from the highest quality grapes grown in Macedonia's sunny Tikveš region and oak aged 36 months in the old-fashioned tradition.",
+    "shortDescription": "A traditional Macedonian grape rakija, oak aged 36 months.",
+    "searchKeywords": "tikves lozova yellow grape brandy rakija north macedonia 40% 700ml grape oak",
+    "badge": "Traditional Rakija",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "tikves-lozova-yellow-grape-brandy-700ml-bottle",
+        "sku": "SPIRIT-BRDY-027-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 80.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "hine-rare-vsop-cognac",
+    "name": "Hine Rare VSOP Cognac",
+    "price": 149.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Hine",
+    "countryOfOrigin": "France",
+    "regionOrState": "Jarnac, Fine Champagne",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VSOP",
+    "styleOrVariety": "Fine Champagne VSOP",
+    "flavourProfile": [
+      "Fresh Grape",
+      "Floral",
+      "Light Oak",
+      "Elegant"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "VSOP",
+    "vintage": "",
+    "caskMaturation": "Blend of Fine Champagne Eaux-de-Vie",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Hine",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vsop-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/hine-rare-vsop-cognac",
+    "description": "A historic Jarnac cognac house favoured by British royalty, Hine Rare VSOP is elegant and floral, made entirely from Fine Champagne eaux-de-vie.",
+    "shortDescription": "A historic cognac house favoured by British royalty — elegant and floral.",
+    "searchKeywords": "hine rare vsop cognac france 40% 700ml fresh grape floral light oak",
+    "badge": "Royal Warrant Heritage",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hine-rare-vsop-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-028-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 149.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "baron-otard-vsop-cognac",
+    "name": "Baron Otard VSOP Cognac",
+    "price": 119.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Baron Otard",
+    "countryOfOrigin": "France",
+    "regionOrState": "Château de Cognac",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "1L",
+    "packSize": "1L Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VSOP",
+    "styleOrVariety": "Fine Champagne VSOP",
+    "flavourProfile": [
+      "Dried Fruit",
+      "Vanilla",
+      "Oak",
+      "Smooth"
+    ],
+    "dietary": [
+      "Imported Spirit"
+    ],
+    "ageStatement": "VSOP",
+    "vintage": "",
+    "caskMaturation": "Aged in the Cellars of Château de Cognac",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Baron Otard",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vsop-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/baron-otard-vsop-cognac",
+    "description": "Distilled and aged within the historic cellars of the Château de Cognac, Baron Otard VSOP is smooth and rounded with dried fruit and vanilla character.",
+    "shortDescription": "Aged within the historic cellars of the Château de Cognac itself.",
+    "searchKeywords": "baron otard vsop cognac france 40% 1l dried fruit vanilla oak",
+    "badge": "Château de Cognac",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "baron-otard-vsop-cognac-1l-bottle",
+        "sku": "SPIRIT-BRDY-029-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 119.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "camus-vsop-cognac",
+    "name": "Camus VSOP Cognac",
+    "price": 119.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Camus",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "VSOP",
+    "styleOrVariety": "Family-Owned VSOP Cognac",
+    "flavourProfile": [
+      "Ripe Fruit",
+      "Vanilla",
+      "Toasted Oak",
+      "Balanced"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "VSOP",
+    "vintage": "",
+    "caskMaturation": "Blend of Eaux-de-Vie Aged Min. 4 Years",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Camus",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "vsop-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/camus-vsop-cognac",
+    "description": "The largest independent family-owned cognac house, Camus VSOP is balanced and fruit-forward, reflecting five generations of blending expertise.",
+    "shortDescription": "The largest independent family-owned cognac house — five generations of blending.",
+    "searchKeywords": "camus vsop cognac france 40% 700ml ripe fruit vanilla toasted oak",
+    "badge": "Family-Owned Since 1863",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "camus-vsop-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-030-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 119.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "camus-xo-cognac",
+    "name": "Camus XO Cognac",
+    "price": 179.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Camus",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac, Charente",
+    "abv": "40.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cognac",
+    "grade": "XO",
+    "styleOrVariety": "Family-Owned XO Cognac",
+    "flavourProfile": [
+      "Dark Chocolate",
+      "Dried Fig",
+      "Rancio",
+      "Long Oak"
+    ],
+    "dietary": [
+      "Imported Spirit",
+      "Premium Pick"
+    ],
+    "ageStatement": "XO",
+    "vintage": "",
+    "caskMaturation": "Blend of Rare Aged Eaux-de-Vie",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Camus",
+      "France",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "cognac",
+      "xo-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/camus-xo-cognac",
+    "description": "Camus XO showcases the family house's Elegance style, prized for its complex rancio depth and long, oak-driven finish.",
+    "shortDescription": "The family house's Elegance style — complex rancio depth.",
+    "searchKeywords": "camus xo cognac france 40% 700ml dark chocolate dried fig rancio oak",
+    "badge": "Camus 'Elegance' Style",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "camus-xo-cognac-700ml-bottle",
+        "sku": "SPIRIT-BRDY-031-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 179.99,
+        "stockLevel": 25,
+        "weight": "1.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
