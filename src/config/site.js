@@ -80308,6 +80308,2565 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "smirnoff-fruit-soda-lime-lemon",
+    "name": "Smirnoff Fruit Soda Lime & Lemon",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Smirnoff",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Vodka Fruit Soda",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Lime",
+      "Lemon"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Smirnoff"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/smirnoff-fruit-soda-lime-lemon",
+    "description": "A lower-calorie vodka soda made with real fruit juice, blending zesty lime and lemon over Smirnoff vodka and soda water.",
+    "shortDescription": "Zesty lime and lemon vodka soda, made with real fruit juice.",
+    "searchKeywords": "smirnoff fruit soda lime lemon vodka premix australia 330ml can",
+    "badge": "Real Fruit Juice",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "smirnoff-fruit-soda-lime-lemon-330ml-can",
+        "sku": "SPIRIT-PMRTD-001-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "smirnoff-pure-cranberry-apple-soda",
+    "name": "Smirnoff Pure Cranberry, Apple & Soda",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Smirnoff",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "300ml",
+    "packSize": "300ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Vodka Soda",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Cranberry",
+      "Apple"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Smirnoff"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/smirnoff-pure-cranberry-apple-soda",
+    "description": "Smirnoff Pure vodka blended with cranberry, apple and soda water for a crisp, lightly tart refreshment.",
+    "shortDescription": "Crisp cranberry and apple vodka soda from the Smirnoff Pure range.",
+    "searchKeywords": "smirnoff pure cranberry apple soda vodka premix australia 300ml can",
+    "badge": "Smirnoff Pure Range",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "smirnoff-pure-cranberry-apple-soda-300ml-can",
+        "sku": "SPIRIT-PMRTD-002-300ML",
+        "unitSize": "300ml",
+        "container": "Can",
+        "packSize": "300ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "smirnoff-ice-double-black",
+    "name": "Smirnoff Ice Double Black",
+    "price": 7.5,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Smirnoff",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Vodka Malt Premix",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Bold",
+      "Crisp"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Smirnoff",
+      "Higher Strength"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/smirnoff-ice-double-black",
+    "description": "A bolder, higher-strength Smirnoff Ice at 6.5% ABV, crisp and clean with a stronger vodka hit.",
+    "shortDescription": "A bolder, higher-strength 6.5% Smirnoff Ice.",
+    "searchKeywords": "smirnoff ice double black vodka premix australia 375ml can",
+    "badge": "6.5% Higher Strength",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "smirnoff-ice-double-black-375ml-can",
+        "sku": "SPIRIT-PMRTD-003-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "smirnoff-ice-red",
+    "name": "Smirnoff Ice Red",
+    "price": 7.5,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Smirnoff",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.6%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Vodka Malt Premix",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Classic",
+      "Citrus"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Smirnoff"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/smirnoff-ice-red",
+    "description": "The classic Smirnoff Ice in its Red can, crisp and refreshing with a light citrus edge.",
+    "shortDescription": "The classic Smirnoff Ice, crisp and refreshing.",
+    "searchKeywords": "smirnoff ice red vodka premix australia 375ml can",
+    "badge": "Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "smirnoff-ice-red-375ml-can",
+        "sku": "SPIRIT-PMRTD-004-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "vodka-cruiser-wild-raspberry",
+    "name": "Vodka Cruiser Wild Raspberry",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Vodka Cruiser",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.6%",
+    "containerType": "Can",
+    "bottleOrCanSize": "275ml",
+    "packSize": "275ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Vodka Premix",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Raspberry"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Vodka Cruiser",
+      "Cruiser"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/vodka-cruiser-wild-raspberry",
+    "description": "One of Vodka Cruiser's core flavours, Wild Raspberry blends triple-distilled vodka with bold, juicy raspberry.",
+    "shortDescription": "A core Vodka Cruiser flavour with bold, juicy raspberry.",
+    "searchKeywords": "vodka cruiser wild raspberry premix australia 275ml bottle",
+    "badge": "Core Flavour",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "vodka-cruiser-wild-raspberry-275ml-can",
+        "sku": "SPIRIT-PMRTD-005-275ML",
+        "unitSize": "275ml",
+        "container": "Can",
+        "packSize": "275ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "vodka-cruiser-lush-guava",
+    "name": "Vodka Cruiser Lush Guava",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Vodka Cruiser",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.6%",
+    "containerType": "Can",
+    "bottleOrCanSize": "275ml",
+    "packSize": "275ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Vodka Premix",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Guava",
+      "Tropical"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Vodka Cruiser",
+      "Cruiser",
+      "Tropical"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/vodka-cruiser-lush-guava",
+    "description": "Bright pink and packed with tropical character, Lush Guava blends punchy ripe guava sweetness with triple-distilled vodka.",
+    "shortDescription": "A punchy, tropical guava vodka premix.",
+    "searchKeywords": "vodka cruiser lush guava tropical premix australia 275ml bottle",
+    "badge": "Tropical",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "vodka-cruiser-lush-guava-275ml-can",
+        "sku": "SPIRIT-PMRTD-006-275ML",
+        "unitSize": "275ml",
+        "container": "Can",
+        "packSize": "275ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jack-daniels-american-serve-cola",
+    "name": "Jack Daniel's American Serve & Cola",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "whisky-premix",
+    "subcategory": "whisky-premix",
+    "brand": "Jack Daniel's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Whiskey Premix",
+    "baseSpirit": "Tennessee Whiskey",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Whiskey",
+      "Jack Daniel's"
+    ],
+    "collections": [
+      "premix-rtds",
+      "whisky-premix"
+    ],
+    "seoUrl": "/premix-rtds/whisky-premix/jack-daniels-american-serve-cola",
+    "description": "Jack Daniel's Old No.7 Tennessee Whiskey blended with cola for the classic American Serve.",
+    "shortDescription": "The classic Jack Daniel's & Cola in American Serve format.",
+    "searchKeywords": "jack daniels american serve cola whiskey premix australia 250ml can",
+    "badge": "Classic Serve",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jack-daniels-american-serve-cola-250ml-can",
+        "sku": "SPIRIT-PMRTD-007-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jack-daniels-tennessee-whiskey-lemonade",
+    "name": "Jack Daniel's Tennessee Whiskey & Lemonade",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "whisky-premix",
+    "subcategory": "whisky-premix",
+    "brand": "Jack Daniel's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Whiskey Premix",
+    "baseSpirit": "Tennessee Whiskey",
+    "flavourProfile": [
+      "Lemonade"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Whiskey",
+      "Jack Daniel's"
+    ],
+    "collections": [
+      "premix-rtds",
+      "whisky-premix"
+    ],
+    "seoUrl": "/premix-rtds/whisky-premix/jack-daniels-tennessee-whiskey-lemonade",
+    "description": "Jack Daniel's Old No.7 Tennessee Whiskey blended with lemonade for a refreshing citrus twist.",
+    "shortDescription": "Jack Daniel's Tennessee Whiskey with a refreshing lemonade twist.",
+    "searchKeywords": "jack daniels tennessee whiskey lemonade premix australia 375ml can",
+    "badge": "Refreshing Citrus",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jack-daniels-tennessee-whiskey-lemonade-375ml-can",
+        "sku": "SPIRIT-PMRTD-008-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jameson-and-cola",
+    "name": "Jameson & Cola",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "whisky-premix",
+    "subcategory": "whisky-premix",
+    "brand": "Jameson",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.8%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Whiskey Premix",
+    "baseSpirit": "Irish Whiskey",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Whiskey",
+      "Jameson"
+    ],
+    "collections": [
+      "premix-rtds",
+      "whisky-premix"
+    ],
+    "seoUrl": "/premix-rtds/whisky-premix/jameson-and-cola",
+    "description": "Triple-distilled Jameson Irish Whiskey blended with cola for a smooth, easy-drinking classic.",
+    "shortDescription": "Smooth Jameson Irish Whiskey blended with cola.",
+    "searchKeywords": "jameson and cola whiskey premix australia 330ml can",
+    "badge": "Triple Distilled",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jameson-and-cola-330ml-can",
+        "sku": "SPIRIT-PMRTD-009-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jameson-soda-ginger-lime",
+    "name": "Jameson Soda Ginger & Lime",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "whisky-premix",
+    "subcategory": "whisky-premix",
+    "brand": "Jameson",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.8%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Whiskey Soda Premix",
+    "baseSpirit": "Irish Whiskey",
+    "flavourProfile": [
+      "Ginger",
+      "Lime"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Whiskey",
+      "Jameson"
+    ],
+    "collections": [
+      "premix-rtds",
+      "whisky-premix"
+    ],
+    "seoUrl": "/premix-rtds/whisky-premix/jameson-soda-ginger-lime",
+    "description": "A light soda base with bright ginger balanced by zesty lime, layered over triple-distilled Jameson Irish Whiskey.",
+    "shortDescription": "Jameson Irish Whiskey with bright ginger and zesty lime soda.",
+    "searchKeywords": "jameson soda ginger lime whiskey premix australia 375ml can",
+    "badge": "All Natural Flavours",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jameson-soda-ginger-lime-375ml-can",
+        "sku": "SPIRIT-PMRTD-010-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jameson-smooth-dry-lime",
+    "name": "Jameson Smooth Dry & Lime",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "whisky-premix",
+    "subcategory": "whisky-premix",
+    "brand": "Jameson",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.3%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Whiskey Premix",
+    "baseSpirit": "Irish Whiskey",
+    "flavourProfile": [
+      "Dry Ginger Ale",
+      "Lime"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Whiskey",
+      "Jameson"
+    ],
+    "collections": [
+      "premix-rtds",
+      "whisky-premix"
+    ],
+    "seoUrl": "/premix-rtds/whisky-premix/jameson-smooth-dry-lime",
+    "description": "Jameson Irish Whiskey blended with dry ginger ale and a splash of lime for a crisp, higher-strength serve.",
+    "shortDescription": "Jameson Irish Whiskey with dry ginger ale and a splash of lime.",
+    "searchKeywords": "jameson smooth dry lime whiskey premix australia 375ml can",
+    "badge": "6.3% Higher Strength",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jameson-smooth-dry-lime-375ml-can",
+        "sku": "SPIRIT-PMRTD-011-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jim-beam-white-label-bourbon-cola",
+    "name": "Jim Beam White Label Bourbon & Cola",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "bourbon-premix",
+    "subcategory": "bourbon-premix",
+    "brand": "Jim Beam",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.8%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Bourbon Premix",
+    "baseSpirit": "Bourbon",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Bourbon",
+      "Jim Beam"
+    ],
+    "collections": [
+      "premix-rtds",
+      "bourbon-premix"
+    ],
+    "seoUrl": "/premix-rtds/bourbon-premix/jim-beam-white-label-bourbon-cola",
+    "description": "Jim Beam White Label Kentucky Straight Bourbon blended with cola, Australia's benchmark bourbon & cola can.",
+    "shortDescription": "Jim Beam White Label bourbon blended with cola.",
+    "searchKeywords": "jim beam white label bourbon cola premix australia 375ml can",
+    "badge": "Benchmark Bourbon & Cola",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jim-beam-white-label-bourbon-cola-375ml-can",
+        "sku": "SPIRIT-PMRTD-012-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jim-beam-white-label-bourbon-dry",
+    "name": "Jim Beam White Label Bourbon & Dry",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "bourbon-premix",
+    "subcategory": "bourbon-premix",
+    "brand": "Jim Beam",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.8%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Bourbon Premix",
+    "baseSpirit": "Bourbon",
+    "flavourProfile": [
+      "Dry Ginger Ale"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Bourbon",
+      "Jim Beam"
+    ],
+    "collections": [
+      "premix-rtds",
+      "bourbon-premix"
+    ],
+    "seoUrl": "/premix-rtds/bourbon-premix/jim-beam-white-label-bourbon-dry",
+    "description": "Jim Beam White Label Kentucky Straight Bourbon blended with crisp dry ginger ale.",
+    "shortDescription": "Jim Beam White Label bourbon blended with dry ginger ale.",
+    "searchKeywords": "jim beam white label bourbon dry premix australia 375ml can",
+    "badge": "Crisp & Dry",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jim-beam-white-label-bourbon-dry-375ml-can",
+        "sku": "SPIRIT-PMRTD-013-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jim-beam-white-ginger-beer",
+    "name": "Jim Beam White & Ginger Beer",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "bourbon-premix",
+    "subcategory": "bourbon-premix",
+    "brand": "Jim Beam",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.8%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Bourbon Premix",
+    "baseSpirit": "Bourbon",
+    "flavourProfile": [
+      "Ginger Beer"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Bourbon",
+      "Jim Beam"
+    ],
+    "collections": [
+      "premix-rtds",
+      "bourbon-premix"
+    ],
+    "seoUrl": "/premix-rtds/bourbon-premix/jim-beam-white-ginger-beer",
+    "description": "Jim Beam White Label Kentucky Straight Bourbon combined with spicy, full-flavoured ginger beer.",
+    "shortDescription": "Jim Beam White Label bourbon combined with spicy ginger beer.",
+    "searchKeywords": "jim beam white ginger beer bourbon premix australia 375ml can",
+    "badge": "Spicy Ginger Beer",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jim-beam-white-ginger-beer-375ml-can",
+        "sku": "SPIRIT-PMRTD-014-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bundaberg-rum-cola",
+    "name": "Bundaberg Rum & Cola",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "rum-premix",
+    "subcategory": "rum-premix",
+    "brand": "Bundaberg Rum",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "abv": "4.6%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Premix",
+    "baseSpirit": "Rum",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "Bundaberg",
+      "Australian"
+    ],
+    "collections": [
+      "premix-rtds",
+      "rum-premix"
+    ],
+    "seoUrl": "/premix-rtds/rum-premix/bundaberg-rum-cola",
+    "description": "Queensland's iconic Bundaberg Rum blended with cola, Australia's classic rum & cola can.",
+    "shortDescription": "Queensland's iconic Bundaberg Rum blended with cola.",
+    "searchKeywords": "bundaberg rum cola premix australia queensland 375ml can",
+    "badge": "Queensland Icon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bundaberg-rum-cola-375ml-can",
+        "sku": "SPIRIT-PMRTD-015-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bundaberg-rum-alcoholic-ginger-beer",
+    "name": "Bundaberg Rum Alcoholic Ginger Beer",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "rum-premix",
+    "subcategory": "rum-premix",
+    "brand": "Bundaberg Rum",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "abv": "4.6%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Premix",
+    "baseSpirit": "Rum",
+    "flavourProfile": [
+      "Ginger Beer"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "Bundaberg",
+      "Australian"
+    ],
+    "collections": [
+      "premix-rtds",
+      "rum-premix"
+    ],
+    "seoUrl": "/premix-rtds/rum-premix/bundaberg-rum-alcoholic-ginger-beer",
+    "description": "Bundaberg Rum combined with spicy alcoholic ginger beer for a full-flavoured Australian classic.",
+    "shortDescription": "Bundaberg Rum combined with spicy alcoholic ginger beer.",
+    "searchKeywords": "bundaberg rum alcoholic ginger beer premix australia queensland 375ml can",
+    "badge": "Queensland Icon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bundaberg-rum-alcoholic-ginger-beer-375ml-can",
+        "sku": "SPIRIT-PMRTD-016-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "captain-morgan-spiced-gold-dry",
+    "name": "Captain Morgan Original Spiced Gold & Dry",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "rum-premix",
+    "subcategory": "rum-premix",
+    "brand": "Captain Morgan",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Premix",
+    "baseSpirit": "Spiced Rum",
+    "flavourProfile": [
+      "Dry Ginger Ale"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "Captain Morgan",
+      "Spiced"
+    ],
+    "collections": [
+      "premix-rtds",
+      "rum-premix"
+    ],
+    "seoUrl": "/premix-rtds/rum-premix/captain-morgan-spiced-gold-dry",
+    "description": "Captain Morgan Original Spiced Gold blended with crisp dry ginger ale.",
+    "shortDescription": "Captain Morgan Spiced Gold blended with crisp dry ginger ale.",
+    "searchKeywords": "captain morgan spiced gold dry rum premix australia 375ml can",
+    "badge": "Spiced Rum",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "captain-morgan-spiced-gold-dry-375ml-can",
+        "sku": "SPIRIT-PMRTD-017-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "malibu-cocktails-pineapple",
+    "name": "Malibu Cocktails Pineapple",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "rum-premix",
+    "subcategory": "rum-premix",
+    "brand": "Malibu",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Cocktail Premix",
+    "baseSpirit": "Coconut Rum",
+    "flavourProfile": [
+      "Pineapple"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "Malibu",
+      "Coconut"
+    ],
+    "collections": [
+      "premix-rtds",
+      "rum-premix"
+    ],
+    "seoUrl": "/premix-rtds/rum-premix/malibu-cocktails-pineapple",
+    "description": "Malibu Caribbean white rum blended with coconut and pineapple in a ready-to-drink cocktail can.",
+    "shortDescription": "Malibu coconut rum blended with tropical pineapple.",
+    "searchKeywords": "malibu cocktails pineapple rum premix australia 250ml can",
+    "badge": "Coconut Rum",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "malibu-cocktails-pineapple-250ml-can",
+        "sku": "SPIRIT-PMRTD-018-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "malibu-passion-fruit",
+    "name": "Malibu Passion Fruit",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "rum-premix",
+    "subcategory": "rum-premix",
+    "brand": "Malibu",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Cocktail Premix",
+    "baseSpirit": "Coconut Rum",
+    "flavourProfile": [
+      "Passionfruit"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "Malibu",
+      "Coconut"
+    ],
+    "collections": [
+      "premix-rtds",
+      "rum-premix"
+    ],
+    "seoUrl": "/premix-rtds/rum-premix/malibu-passion-fruit",
+    "description": "Malibu Caribbean white rum blended with coconut and tangy passionfruit in a ready-to-drink can.",
+    "shortDescription": "Malibu coconut rum blended with tangy passionfruit.",
+    "searchKeywords": "malibu passion fruit rum premix australia 250ml can",
+    "badge": "Coconut Rum",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "malibu-passion-fruit-250ml-can",
+        "sku": "SPIRIT-PMRTD-019-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "malibu-pina-colada",
+    "name": "Malibu Pina Colada",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "rum-premix",
+    "subcategory": "rum-premix",
+    "brand": "Malibu",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Cocktail Premix",
+    "baseSpirit": "Coconut Rum",
+    "flavourProfile": [
+      "Pineapple",
+      "Coconut"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "Malibu",
+      "Coconut"
+    ],
+    "collections": [
+      "premix-rtds",
+      "rum-premix"
+    ],
+    "seoUrl": "/premix-rtds/rum-premix/malibu-pina-colada",
+    "description": "The classic Pina Colada in a can - Malibu coconut rum blended with creamy coconut and pineapple.",
+    "shortDescription": "The classic Pina Colada in a ready-to-drink can.",
+    "searchKeywords": "malibu pina colada rum premix australia 250ml can",
+    "badge": "Classic Cocktail",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "malibu-pina-colada-250ml-can",
+        "sku": "SPIRIT-PMRTD-020-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "the-kraken-spiced-rum-cola",
+    "name": "The Kraken Spiced Rum & Cola",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "rum-premix",
+    "subcategory": "rum-premix",
+    "brand": "The Kraken",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Premix",
+    "baseSpirit": "Spiced Rum",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "The Kraken",
+      "Spiced"
+    ],
+    "collections": [
+      "premix-rtds",
+      "rum-premix"
+    ],
+    "seoUrl": "/premix-rtds/rum-premix/the-kraken-spiced-rum-cola",
+    "description": "The Kraken Black Spiced Rum's bold, rich flavour impeccably paired with cola.",
+    "shortDescription": "The Kraken Black Spiced Rum paired with cola.",
+    "searchKeywords": "the kraken spiced rum cola premix australia 330ml can",
+    "badge": "Bold & Rich",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "the-kraken-spiced-rum-cola-330ml-can",
+        "sku": "SPIRIT-PMRTD-021-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "the-kraken-spiced-rum-dry",
+    "name": "The Kraken Spiced Rum & Dry",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "rum-premix",
+    "subcategory": "rum-premix",
+    "brand": "The Kraken",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Premix",
+    "baseSpirit": "Spiced Rum",
+    "flavourProfile": [
+      "Dry Ginger Ale"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "The Kraken",
+      "Spiced"
+    ],
+    "collections": [
+      "premix-rtds",
+      "rum-premix"
+    ],
+    "seoUrl": "/premix-rtds/rum-premix/the-kraken-spiced-rum-dry",
+    "description": "The Kraken Black Spiced Rum's bold, rich flavour impeccably paired with dry ginger ale.",
+    "shortDescription": "The Kraken Black Spiced Rum paired with dry ginger ale.",
+    "searchKeywords": "the kraken spiced rum dry premix australia 330ml can",
+    "badge": "Bold & Rich",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "the-kraken-spiced-rum-dry-330ml-can",
+        "sku": "SPIRIT-PMRTD-022-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "prohibition-liquor-co-gin-tonic",
+    "name": "Prohibition Liquor Co. Gin & Tonic",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "gin-premix",
+    "subcategory": "gin-premix",
+    "brand": "Prohibition Liquor Co.",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "South Australia",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Gin Premix",
+    "baseSpirit": "Gin",
+    "flavourProfile": [
+      "Tonic",
+      "Botanical"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Gin",
+      "Prohibition Liquor Co.",
+      "South Australia"
+    ],
+    "collections": [
+      "premix-rtds",
+      "gin-premix"
+    ],
+    "seoUrl": "/premix-rtds/gin-premix/prohibition-liquor-co-gin-tonic",
+    "description": "Adelaide-based Prohibition Liquor Co. gin blended with tonic in a ready-to-drink can.",
+    "shortDescription": "Adelaide-crafted Prohibition gin blended with tonic.",
+    "searchKeywords": "prohibition liquor co gin tonic premix australia south australia 250ml can",
+    "badge": "South Australian Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "prohibition-liquor-co-gin-tonic-250ml-can",
+        "sku": "SPIRIT-PMRTD-023-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "gordons-gin-tonic",
+    "name": "Gordon's Gin & Tonic",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "gin-premix",
+    "subcategory": "gin-premix",
+    "brand": "Gordon's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Gin Premix",
+    "baseSpirit": "Gin",
+    "flavourProfile": [
+      "Tonic"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Gin",
+      "Gordon's"
+    ],
+    "collections": [
+      "premix-rtds",
+      "gin-premix"
+    ],
+    "seoUrl": "/premix-rtds/gin-premix/gordons-gin-tonic",
+    "description": "Gordon's London Dry Gin blended with tonic water for the classic G&T in a can.",
+    "shortDescription": "Gordon's London Dry Gin blended with tonic water.",
+    "searchKeywords": "gordons gin tonic premix australia 375ml can",
+    "badge": "Classic G&T",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "gordons-gin-tonic-375ml-can",
+        "sku": "SPIRIT-PMRTD-024-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "tanqueray-gin-tonic",
+    "name": "Tanqueray Gin & Tonic",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "gin-premix",
+    "subcategory": "gin-premix",
+    "brand": "Tanqueray",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "250ml",
+    "packSize": "250ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Gin Premix",
+    "baseSpirit": "Gin",
+    "flavourProfile": [
+      "Tonic"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Gin",
+      "Tanqueray"
+    ],
+    "collections": [
+      "premix-rtds",
+      "gin-premix"
+    ],
+    "seoUrl": "/premix-rtds/gin-premix/tanqueray-gin-tonic",
+    "description": "Tanqueray London Dry Gin blended with premium tonic water in a ready-to-drink can.",
+    "shortDescription": "Tanqueray London Dry Gin blended with premium tonic water.",
+    "searchKeywords": "tanqueray gin tonic premix australia 250ml can",
+    "badge": "London Dry Gin",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "tanqueray-gin-tonic-250ml-can",
+        "sku": "SPIRIT-PMRTD-025-250ML",
+        "unitSize": "250ml",
+        "container": "Can",
+        "packSize": "250ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jose-cuervo-sparkling-margarita",
+    "name": "Jose Cuervo Sparkling Margarita",
+    "price": 7.5,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "tequila-premix",
+    "subcategory": "tequila-premix",
+    "brand": "Jose Cuervo",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Tequila Premix",
+    "baseSpirit": "Tequila",
+    "flavourProfile": [
+      "Lime",
+      "Sparkling"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Tequila",
+      "Jose Cuervo",
+      "Margarita"
+    ],
+    "collections": [
+      "premix-rtds",
+      "tequila-premix"
+    ],
+    "seoUrl": "/premix-rtds/tequila-premix/jose-cuervo-sparkling-margarita",
+    "description": "Jose Cuervo tequila blended with lime and sparkling soda for a ready-to-drink Margarita.",
+    "shortDescription": "Jose Cuervo tequila blended into a sparkling, ready-to-drink Margarita.",
+    "searchKeywords": "jose cuervo sparkling margarita tequila premix australia 330ml can",
+    "badge": "Sparkling Margarita",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jose-cuervo-sparkling-margarita-330ml-can",
+        "sku": "SPIRIT-PMRTD-026-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "white-claw-natural-lime",
+    "name": "White Claw Hard Seltzer Natural Lime",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "hard-seltzer",
+    "subcategory": "hard-seltzer",
+    "brand": "White Claw",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Hard Seltzer",
+    "baseSpirit": "Seltzer",
+    "flavourProfile": [
+      "Lime"
+    ],
+    "dietary": [
+      "Ready-to-Drink",
+      "Gluten Free",
+      "Low Calorie"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Hard Seltzer",
+      "White Claw"
+    ],
+    "collections": [
+      "premix-rtds",
+      "hard-seltzer"
+    ],
+    "seoUrl": "/premix-rtds/hard-seltzer/white-claw-natural-lime",
+    "description": "White Claw Hard Seltzer in Natural Lime - light, crisp and refreshing with no artificial sweeteners.",
+    "shortDescription": "Light, crisp White Claw seltzer with natural lime.",
+    "searchKeywords": "white claw hard seltzer natural lime australia 330ml can",
+    "badge": "Low Calorie",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "white-claw-natural-lime-330ml-can",
+        "sku": "SPIRIT-PMRTD-027-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "white-claw-mango",
+    "name": "White Claw Hard Seltzer Mango",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "hard-seltzer",
+    "subcategory": "hard-seltzer",
+    "brand": "White Claw",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Hard Seltzer",
+    "baseSpirit": "Seltzer",
+    "flavourProfile": [
+      "Mango"
+    ],
+    "dietary": [
+      "Ready-to-Drink",
+      "Gluten Free",
+      "Low Calorie"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Hard Seltzer",
+      "White Claw"
+    ],
+    "collections": [
+      "premix-rtds",
+      "hard-seltzer"
+    ],
+    "seoUrl": "/premix-rtds/hard-seltzer/white-claw-mango",
+    "description": "White Claw Hard Seltzer in Mango - light, crisp and refreshing with no artificial sweeteners.",
+    "shortDescription": "Light, crisp White Claw seltzer with juicy mango.",
+    "searchKeywords": "white claw hard seltzer mango australia 330ml can",
+    "badge": "Low Calorie",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "white-claw-mango-330ml-can",
+        "sku": "SPIRIT-PMRTD-028-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "white-claw-raspberry",
+    "name": "White Claw Hard Seltzer Raspberry",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "hard-seltzer",
+    "subcategory": "hard-seltzer",
+    "brand": "White Claw",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Hard Seltzer",
+    "baseSpirit": "Seltzer",
+    "flavourProfile": [
+      "Raspberry"
+    ],
+    "dietary": [
+      "Ready-to-Drink",
+      "Gluten Free",
+      "Low Calorie"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Hard Seltzer",
+      "White Claw"
+    ],
+    "collections": [
+      "premix-rtds",
+      "hard-seltzer"
+    ],
+    "seoUrl": "/premix-rtds/hard-seltzer/white-claw-raspberry",
+    "description": "White Claw Hard Seltzer in Raspberry - light, crisp and refreshing with no artificial sweeteners.",
+    "shortDescription": "Light, crisp White Claw seltzer with ripe raspberry.",
+    "searchKeywords": "white claw hard seltzer raspberry australia 330ml can",
+    "badge": "Low Calorie",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "white-claw-raspberry-330ml-can",
+        "sku": "SPIRIT-PMRTD-029-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "archie-rose-red-centre-negroni",
+    "name": "Archie Rose Red Centre Negroni",
+    "price": 59.99,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "cocktails",
+    "subcategory": "cocktails",
+    "brand": "Archie Rose",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "New South Wales",
+    "abv": "24.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Bottled Cocktail",
+    "baseSpirit": "Gin",
+    "flavourProfile": [
+      "Bitter",
+      "Herbal",
+      "Citrus"
+    ],
+    "dietary": [
+      "Ready-to-Drink",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice with an orange twist",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Cocktails",
+      "Archie Rose",
+      "Negroni",
+      "Australian"
+    ],
+    "collections": [
+      "premix-rtds",
+      "cocktails"
+    ],
+    "seoUrl": "/premix-rtds/cocktails/archie-rose-red-centre-negroni",
+    "description": "A bottled Negroni from Sydney distillery Archie Rose, blending house gin, vermouth and bitters into a bold, ready-to-pour classic.",
+    "shortDescription": "A bold, ready-to-pour Negroni from Sydney distillery Archie Rose.",
+    "searchKeywords": "archie rose red centre negroni bottled cocktail australia 700ml",
+    "badge": "Ready-to-Pour",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "archie-rose-red-centre-negroni-700ml-bottle",
+        "sku": "SPIRIT-PMRTD-030-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 40,
+        "weight": "1.3kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "archie-rose-rose-vanilla-espresso-martini",
+    "name": "Archie Rose Rose Vanilla Espresso Martini",
+    "price": 59.99,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "cocktails",
+    "subcategory": "cocktails",
+    "brand": "Archie Rose",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "New South Wales",
+    "abv": "15.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Bottled Cocktail",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Coffee",
+      "Vanilla"
+    ],
+    "dietary": [
+      "Ready-to-Drink",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Shake with ice and strain",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Cocktails",
+      "Archie Rose",
+      "Espresso Martini",
+      "Australian"
+    ],
+    "collections": [
+      "premix-rtds",
+      "cocktails"
+    ],
+    "seoUrl": "/premix-rtds/cocktails/archie-rose-rose-vanilla-espresso-martini",
+    "description": "Cold drip coffee and ethically sourced vanilla layered over Archie Rose True Cut Vodka for a ready-to-pour Espresso Martini.",
+    "shortDescription": "A ready-to-pour Espresso Martini made with cold drip coffee and vanilla.",
+    "searchKeywords": "archie rose rose vanilla espresso martini bottled cocktail australia 700ml",
+    "badge": "Ready-to-Pour",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "archie-rose-rose-vanilla-espresso-martini-700ml-bottle",
+        "sku": "SPIRIT-PMRTD-031-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 59.99,
+        "stockLevel": 40,
+        "weight": "1.3kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "prohibition-negroni",
+    "name": "Prohibition Negroni",
+    "price": 45,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "cocktails",
+    "subcategory": "cocktails",
+    "brand": "Prohibition Liquor Co.",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "South Australia",
+    "abv": "25.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "500ml",
+    "packSize": "500ml Bottle",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Bottled Cocktail",
+    "baseSpirit": "Gin",
+    "flavourProfile": [
+      "Bitter",
+      "Herbal",
+      "Citrus"
+    ],
+    "dietary": [
+      "Ready-to-Drink",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve over ice with an orange twist",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Cocktails",
+      "Prohibition Liquor Co.",
+      "Negroni",
+      "South Australia"
+    ],
+    "collections": [
+      "premix-rtds",
+      "cocktails"
+    ],
+    "seoUrl": "/premix-rtds/cocktails/prohibition-negroni",
+    "description": "An award-winning bottled Negroni from Adelaide-based Prohibition Liquor Co., a finalist in Dan Murphy's Decoded Spirits Awards.",
+    "shortDescription": "An award-winning bottled Negroni from Adelaide-based Prohibition Liquor Co.",
+    "searchKeywords": "prohibition negroni bottled cocktail south australia 500ml",
+    "badge": "Award-Winning",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "prohibition-negroni-500ml-bottle",
+        "sku": "SPIRIT-PMRTD-032-500ML",
+        "unitSize": "500ml",
+        "container": "Bottle",
+        "packSize": "500ml Bottle",
+        "price": 45,
+        "stockLevel": 40,
+        "weight": "0.9kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "asahi-zeitaku-shibori-peach",
+    "name": "Asahi Zeitaku Shibori Peach",
+    "price": 6,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "cocktails",
+    "subcategory": "cocktails",
+    "brand": "Asahi",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Fruit RTD",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Peach"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Cocktails",
+      "Asahi",
+      "Japanese"
+    ],
+    "collections": [
+      "premix-rtds",
+      "cocktails"
+    ],
+    "seoUrl": "/premix-rtds/cocktails/asahi-zeitaku-shibori-peach",
+    "description": "A premium Japanese-style RTD crafted with lightly sparkling soda and real peach juice over a vodka base.",
+    "shortDescription": "A premium Japanese-style vodka RTD with real peach juice.",
+    "searchKeywords": "asahi zeitaku shibori peach rtd australia 330ml can",
+    "badge": "Japanese Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "asahi-zeitaku-shibori-peach-330ml-can",
+        "sku": "SPIRIT-PMRTD-033-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 6,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "asahi-zeitaku-shibori-mango",
+    "name": "Asahi Zeitaku Shibori Mango",
+    "price": 6,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "cocktails",
+    "subcategory": "cocktails",
+    "brand": "Asahi",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Fruit RTD",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Mango"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Cocktails",
+      "Asahi",
+      "Japanese"
+    ],
+    "collections": [
+      "premix-rtds",
+      "cocktails"
+    ],
+    "seoUrl": "/premix-rtds/cocktails/asahi-zeitaku-shibori-mango",
+    "description": "A premium Japanese-style RTD crafted with lightly sparkling soda and real mango juice over a vodka base.",
+    "shortDescription": "A premium Japanese-style vodka RTD with real mango juice.",
+    "searchKeywords": "asahi zeitaku shibori mango rtd australia 330ml can",
+    "badge": "Japanese Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "asahi-zeitaku-shibori-mango-330ml-can",
+        "sku": "SPIRIT-PMRTD-034-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 6,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "smirnoff-vodka-crush-mixed-pack",
+    "name": "Smirnoff Vodka Crush Mixed Pack",
+    "price": 70,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "premix-multipacks",
+    "subcategory": "premix-multipacks",
+    "brand": "Smirnoff",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 440ml",
+    "packSize": "10 x 440ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Vodka Premix Multipack",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Lemon Lime",
+      "Mango Peach",
+      "Orange Pineapple"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Smirnoff",
+      "Multipack"
+    ],
+    "collections": [
+      "premix-rtds",
+      "premix-multipacks"
+    ],
+    "seoUrl": "/premix-rtds/premix-multipacks/smirnoff-vodka-crush-mixed-pack",
+    "description": "A mixed 10-can pack of Smirnoff Vodka Crush in Lemon Lime, Mango Peach and Orange Pineapple flavours.",
+    "shortDescription": "A mixed 10-can pack of Smirnoff Vodka Crush flavours.",
+    "searchKeywords": "smirnoff vodka crush mixed pack multipack australia 10x440ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "smirnoff-vodka-crush-mixed-pack-10x440ml-can",
+        "sku": "SPIRIT-PMRTD-035-10X440ML",
+        "unitSize": "10 x 440ml",
+        "container": "Can",
+        "packSize": "10 x 440ml Can",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.6kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jack-daniels-tennessee-whiskey-cola-10-pack",
+    "name": "Jack Daniel's Tennessee Whiskey & Cola 10 Pack",
+    "price": 70,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "premix-multipacks",
+    "subcategory": "premix-multipacks",
+    "brand": "Jack Daniel's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 375ml",
+    "packSize": "10 x 375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Whiskey Premix Multipack",
+    "baseSpirit": "Tennessee Whiskey",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Whiskey",
+      "Jack Daniel's",
+      "Multipack"
+    ],
+    "collections": [
+      "premix-rtds",
+      "premix-multipacks"
+    ],
+    "seoUrl": "/premix-rtds/premix-multipacks/jack-daniels-tennessee-whiskey-cola-10-pack",
+    "description": "A 10-pack of Jack Daniel's Old No.7 Tennessee Whiskey blended with cola.",
+    "shortDescription": "A 10-pack of Jack Daniel's Tennessee Whiskey & Cola.",
+    "searchKeywords": "jack daniels tennessee whiskey cola 10 pack multipack australia 375ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jack-daniels-tennessee-whiskey-cola-10-pack-10x375ml-can",
+        "sku": "SPIRIT-PMRTD-036-10X375ML",
+        "unitSize": "10 x 375ml",
+        "container": "Can",
+        "packSize": "10 x 375ml Can",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jim-beam-white-label-bourbon-cola-10-pack",
+    "name": "Jim Beam White Label Bourbon & Cola 10 Pack",
+    "price": 70,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "premix-multipacks",
+    "subcategory": "premix-multipacks",
+    "brand": "Jim Beam",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.8%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 375ml",
+    "packSize": "10 x 375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Bourbon Premix Multipack",
+    "baseSpirit": "Bourbon",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Bourbon",
+      "Jim Beam",
+      "Multipack"
+    ],
+    "collections": [
+      "premix-rtds",
+      "premix-multipacks"
+    ],
+    "seoUrl": "/premix-rtds/premix-multipacks/jim-beam-white-label-bourbon-cola-10-pack",
+    "description": "A 10-pack of Jim Beam White Label Kentucky Straight Bourbon blended with cola.",
+    "shortDescription": "A 10-pack of Jim Beam White Label Bourbon & Cola.",
+    "searchKeywords": "jim beam white label bourbon cola 10 pack multipack australia 375ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jim-beam-white-label-bourbon-cola-10-pack-10x375ml-can",
+        "sku": "SPIRIT-PMRTD-037-10X375ML",
+        "unitSize": "10 x 375ml",
+        "container": "Can",
+        "packSize": "10 x 375ml Can",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "jameson-smooth-dry-lime-10-pack",
+    "name": "Jameson Smooth Dry & Lime 10 Pack",
+    "price": 70,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "premix-multipacks",
+    "subcategory": "premix-multipacks",
+    "brand": "Jameson",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.3%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 375ml",
+    "packSize": "10 x 375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Whiskey Premix Multipack",
+    "baseSpirit": "Irish Whiskey",
+    "flavourProfile": [
+      "Dry Ginger Ale",
+      "Lime"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Whiskey",
+      "Jameson",
+      "Multipack"
+    ],
+    "collections": [
+      "premix-rtds",
+      "premix-multipacks"
+    ],
+    "seoUrl": "/premix-rtds/premix-multipacks/jameson-smooth-dry-lime-10-pack",
+    "description": "A 10-pack of Jameson Irish Whiskey blended with dry ginger ale and a splash of lime.",
+    "shortDescription": "A 10-pack of Jameson Smooth Dry & Lime.",
+    "searchKeywords": "jameson smooth dry lime 10 pack multipack australia 375ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "jameson-smooth-dry-lime-10-pack-10x375ml-can",
+        "sku": "SPIRIT-PMRTD-038-10X375ML",
+        "unitSize": "10 x 375ml",
+        "container": "Can",
+        "packSize": "10 x 375ml Can",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bundaberg-original-rum-cola-10-pack",
+    "name": "Bundaberg Original Rum & Cola 10 Pack",
+    "price": 70,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "premix-multipacks",
+    "subcategory": "premix-multipacks",
+    "brand": "Bundaberg Rum",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "abv": "4.6%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 375ml",
+    "packSize": "10 x 375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Premix Multipack",
+    "baseSpirit": "Rum",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "Bundaberg",
+      "Multipack",
+      "Australian"
+    ],
+    "collections": [
+      "premix-rtds",
+      "premix-multipacks"
+    ],
+    "seoUrl": "/premix-rtds/premix-multipacks/bundaberg-original-rum-cola-10-pack",
+    "description": "A 10-pack of Bundaberg Original Rum blended with cola.",
+    "shortDescription": "A 10-pack of Bundaberg Original Rum & Cola.",
+    "searchKeywords": "bundaberg original rum cola 10 pack multipack australia queensland 375ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bundaberg-original-rum-cola-10-pack-10x375ml-can",
+        "sku": "SPIRIT-PMRTD-039-10X375ML",
+        "unitSize": "10 x 375ml",
+        "container": "Can",
+        "packSize": "10 x 375ml Can",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "captain-morgan-spiced-gold-cola-10-pack",
+    "name": "Captain Morgan Original Spiced Gold & Cola 10 Pack",
+    "price": 70,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "premix-multipacks",
+    "subcategory": "premix-multipacks",
+    "brand": "Captain Morgan",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 375ml",
+    "packSize": "10 x 375ml Can",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Rum Premix Multipack",
+    "baseSpirit": "Spiced Rum",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve over ice",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Rum",
+      "Captain Morgan",
+      "Multipack",
+      "Spiced"
+    ],
+    "collections": [
+      "premix-rtds",
+      "premix-multipacks"
+    ],
+    "seoUrl": "/premix-rtds/premix-multipacks/captain-morgan-spiced-gold-cola-10-pack",
+    "description": "A 10-pack of Captain Morgan Original Spiced Gold blended with cola.",
+    "shortDescription": "A 10-pack of Captain Morgan Original Spiced Gold & Cola.",
+    "searchKeywords": "captain morgan spiced gold cola 10 pack multipack australia 375ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "captain-morgan-spiced-gold-cola-10-pack-10x375ml-can",
+        "sku": "SPIRIT-PMRTD-040-10X375ML",
+        "unitSize": "10 x 375ml",
+        "container": "Can",
+        "packSize": "10 x 375ml Can",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "vodka-cruiser-mixed-10-pack",
+    "name": "Vodka Cruiser Mixed 10 Pack",
+    "price": 70,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "premix-multipacks",
+    "subcategory": "premix-multipacks",
+    "brand": "Vodka Cruiser",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.6%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "10 x 275ml",
+    "packSize": "10 x 275ml Bottle",
+    "primaryProductType": "Premix / RTD",
+    "styleOrVariety": "Vodka Premix Multipack",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Mixed Flavours"
+    ],
+    "dietary": [
+      "Ready-to-Drink"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Vodka Cruiser",
+      "Multipack"
+    ],
+    "collections": [
+      "premix-rtds",
+      "premix-multipacks"
+    ],
+    "seoUrl": "/premix-rtds/premix-multipacks/vodka-cruiser-mixed-10-pack",
+    "description": "A mixed 10-bottle pack of Vodka Cruiser core flavours in the classic 275mL bottle.",
+    "shortDescription": "A mixed 10-bottle pack of Vodka Cruiser core flavours.",
+    "searchKeywords": "vodka cruiser mixed 10 pack multipack australia 275ml bottles",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "vodka-cruiser-mixed-10-pack-10x275ml-bottle",
+        "sku": "SPIRIT-PMRTD-041-10X275ML",
+        "unitSize": "10 x 275ml",
+        "container": "Bottle",
+        "packSize": "10 x 275ml Bottle",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
