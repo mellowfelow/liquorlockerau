@@ -87408,6 +87408,1351 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "furphy-original-refreshing-ale",
+    "name": "Furphy Original Refreshing Ale",
+    "price": 8,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "pale-ale",
+    "subcategory": "pale-ale",
+    "brand": "Furphy",
+    "brewery": "Furphy",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Victoria",
+    "abv": "4.4%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Pale Ale",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Pale Ale",
+      "Furphy",
+      "Victoria"
+    ],
+    "collections": [
+      "beer",
+      "pale-ale"
+    ],
+    "seoUrl": "/beer/pale-ale/furphy-original-refreshing-ale",
+    "description": "Furphy Original Refreshing Ale is clean and crisp with balanced subtle fruit flavours and aromas, deep gold in colour and slightly hazy.",
+    "shortDescription": "A clean, crisp Victorian ale with balanced fruit character.",
+    "searchKeywords": "furphy original refreshing ale pale ale victoria australia 375ml bottle",
+    "badge": "Victorian Icon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "furphy-original-refreshing-ale-375ml-bottle",
+        "sku": "BEER-001-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 8,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "little-creatures-xpa",
+    "name": "Little Creatures XPA",
+    "price": 8,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "xpa",
+    "subcategory": "xpa",
+    "brand": "Little Creatures",
+    "brewery": "Little Creatures",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Western Australia",
+    "abv": "3.8%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "XPA",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "XPA",
+      "Little Creatures",
+      "Western Australia"
+    ],
+    "collections": [
+      "beer",
+      "xpa"
+    ],
+    "seoUrl": "/beer/xpa/little-creatures-xpa",
+    "description": "Little Creatures XPA is a hop-forward, easy-drinking extra pale ale bursting with tropical fruit character.",
+    "shortDescription": "A hop-forward, easy-drinking XPA with tropical fruit character.",
+    "searchKeywords": "little creatures xpa western australia beer 375ml can",
+    "badge": "Fremantle Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "little-creatures-xpa-375ml-can",
+        "sku": "BEER-002-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 8,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stone-wood-hinterland-hazy-pale-ale",
+    "name": "Stone & Wood Hinterland Hazy Pale Ale",
+    "price": 8.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "hazy-beer",
+    "subcategory": "hazy-beer",
+    "brand": "Stone & Wood",
+    "brewery": "Stone & Wood",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "New South Wales",
+    "abv": "4.7%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Hazy Pale Ale",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Hazy Beer",
+      "Stone & Wood",
+      "New South Wales"
+    ],
+    "collections": [
+      "beer",
+      "hazy-beer"
+    ],
+    "seoUrl": "/beer/hazy-beer/stone-wood-hinterland-hazy-pale-ale",
+    "description": "Stone & Wood Hinterland Hazy Pale Ale is soft and juicy with tropical hop character and a smooth, hazy finish.",
+    "shortDescription": "A soft, juicy hazy pale ale with tropical hop character.",
+    "searchKeywords": "stone wood hinterland hazy pale ale byron bay beer australia 375ml can",
+    "badge": "Byron Bay Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stone-wood-hinterland-hazy-pale-ale-375ml-can",
+        "sku": "BEER-003-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 8.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "balter-hazy-ipa",
+    "name": "Balter Hazy IPA",
+    "price": 8.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "hazy-beer",
+    "subcategory": "hazy-beer",
+    "brand": "Balter",
+    "brewery": "Balter",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Hazy IPA",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Hazy Beer",
+      "Balter",
+      "Queensland"
+    ],
+    "collections": [
+      "beer",
+      "hazy-beer"
+    ],
+    "seoUrl": "/beer/hazy-beer/balter-hazy-ipa",
+    "description": "Balter Hazy IPA is soft, juicy and packed with tropical hop character from a bold blend of US hops.",
+    "shortDescription": "A soft, juicy Hazy IPA packed with tropical hop character.",
+    "searchKeywords": "balter hazy ipa gold coast beer australia 375ml can",
+    "badge": "Gold Coast Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "balter-hazy-ipa-375ml-can",
+        "sku": "BEER-004-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 8.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "little-creatures-hazy-ipa",
+    "name": "Little Creatures Hazy IPA",
+    "price": 8.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "hazy-beer",
+    "subcategory": "hazy-beer",
+    "brand": "Little Creatures",
+    "brewery": "Little Creatures",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Western Australia",
+    "abv": "6.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Hazy IPA",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Hazy Beer",
+      "Little Creatures",
+      "Western Australia"
+    ],
+    "collections": [
+      "beer",
+      "hazy-beer"
+    ],
+    "seoUrl": "/beer/hazy-beer/little-creatures-hazy-ipa",
+    "description": "Little Creatures Hazy IPA delivers explosions of mango, orange and pineapple upfront, followed by a smooth, velvety mouthfeel with low bitterness.",
+    "shortDescription": "Explosive mango, orange and pineapple with a smooth, velvety finish.",
+    "searchKeywords": "little creatures hazy ipa western australia beer 375ml can",
+    "badge": "Fremantle Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "little-creatures-hazy-ipa-375ml-can",
+        "sku": "BEER-005-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 8.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kilkenny-irish-ale",
+    "name": "Kilkenny Irish Ale",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "dark-beer-stout",
+    "subcategory": "dark-beer-stout",
+    "brand": "Kilkenny",
+    "brewery": "Kilkenny",
+    "countryOfOrigin": "Ireland",
+    "regionOrState": "",
+    "abv": "4.3%",
+    "containerType": "Can",
+    "bottleOrCanSize": "470ml",
+    "packSize": "470ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Irish Cream Ale",
+    "dietary": [
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve cold, poured with a nitro widget for a creamy head",
+    "controlledTags": [
+      "Beer",
+      "Dark Beer",
+      "Kilkenny",
+      "Ireland",
+      "Imported"
+    ],
+    "collections": [
+      "beer",
+      "dark-beer-stout"
+    ],
+    "seoUrl": "/beer/dark-beer-stout/kilkenny-irish-ale",
+    "description": "A nitrogenated Irish cream ale from Kilkenny, Ireland, smooth and creamy with a distinctive reddish-amber colour.",
+    "shortDescription": "A smooth, creamy nitrogenated Irish cream ale.",
+    "searchKeywords": "kilkenny irish ale cream ale ireland beer australia 470ml can",
+    "badge": "Irish Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kilkenny-irish-ale-470ml-can",
+        "sku": "BEER-006-470ML",
+        "unitSize": "470ml",
+        "container": "Can",
+        "packSize": "470ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "coopers-dark-ale",
+    "name": "Coopers Dark Ale",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "dark-beer-stout",
+    "subcategory": "dark-beer-stout",
+    "brand": "Coopers",
+    "brewery": "Coopers",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "South Australia",
+    "abv": "4.4%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Dark Ale",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve at cellar temperature",
+    "controlledTags": [
+      "Beer",
+      "Dark Beer",
+      "Coopers",
+      "South Australia"
+    ],
+    "collections": [
+      "beer",
+      "dark-beer-stout"
+    ],
+    "seoUrl": "/beer/dark-beer-stout/coopers-dark-ale",
+    "description": "Coopers Dark Ale is a rich, malty dark ale from the Adelaide-based family brewer, naturally conditioned for a smooth finish.",
+    "shortDescription": "A rich, malty, naturally conditioned dark ale.",
+    "searchKeywords": "coopers dark ale south australia beer 375ml bottle",
+    "badge": "Family Brewed Since 1862",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "coopers-dark-ale-375ml-bottle",
+        "sku": "BEER-007-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "corona-premier",
+    "name": "Corona Premier",
+    "price": 7,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "low-carb-beer",
+    "subcategory": "low-carb-beer",
+    "brand": "Corona",
+    "brewery": "Corona",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "",
+    "abv": "4.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Low-Carb Lager",
+    "dietary": [
+      "Imported",
+      "Low Carb"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve with a wedge of lime",
+    "controlledTags": [
+      "Beer",
+      "Low-Carb Beer",
+      "Corona",
+      "Mexico",
+      "Imported"
+    ],
+    "collections": [
+      "beer",
+      "low-carb-beer"
+    ],
+    "seoUrl": "/beer/low-carb-beer/corona-premier",
+    "description": "Corona's lowest-carb beer, Corona Premier delivers the same light, crisp Mexican lager taste with fewer carbs and calories.",
+    "shortDescription": "Corona's lowest-carb beer with the same light, crisp taste.",
+    "searchKeywords": "corona premier low carb lager mexico beer australia 330ml can",
+    "badge": "Lowest Carb Corona",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "corona-premier-330ml-can",
+        "sku": "BEER-008-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "asahi-super-dry-0-0",
+    "name": "Asahi Super Dry 0.0%",
+    "price": 7,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "low-carb-beer",
+    "subcategory": "low-carb-beer",
+    "brand": "Asahi",
+    "brewery": "Asahi",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Bottle",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Zero Alcohol Lager",
+    "dietary": [
+      "Imported",
+      "Non-Alcoholic",
+      "Low Carb"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Low-Carb Beer",
+      "Asahi",
+      "Japan",
+      "Imported",
+      "Zero Alcohol"
+    ],
+    "collections": [
+      "beer",
+      "low-carb-beer"
+    ],
+    "seoUrl": "/beer/low-carb-beer/asahi-super-dry-0-0",
+    "description": "A zero-alcohol, low-carb version of Asahi's iconic Super Dry lager, described by World Alcohol-Free Awards judges as indistinguishable from the full-strength version.",
+    "shortDescription": "A zero-alcohol, low-carb Super Dry, award-winning taste.",
+    "searchKeywords": "asahi super dry 0.0 zero alcohol low carb lager japan beer australia 330ml bottle",
+    "badge": "Award-Winning Zero Alcohol",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "asahi-super-dry-0-0-330ml-bottle",
+        "sku": "BEER-009-330ML",
+        "unitSize": "330ml",
+        "container": "Bottle",
+        "packSize": "330ml Bottle",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "great-northern-mid-strength",
+    "name": "Great Northern Mid Strength",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "mid-strength-beer",
+    "subcategory": "mid-strength-beer",
+    "brand": "Great Northern",
+    "brewery": "Great Northern",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "abv": "3.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Mid-Strength Lager",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Mid-Strength Beer",
+      "Great Northern",
+      "Queensland"
+    ],
+    "collections": [
+      "beer",
+      "mid-strength-beer"
+    ],
+    "seoUrl": "/beer/mid-strength-beer/great-northern-mid-strength",
+    "description": "Great Northern Mid Strength delivers the same easy-drinking Queensland lager character at a session-friendly 3.5% ABV.",
+    "shortDescription": "An easy-drinking Queensland lager at a session-friendly strength.",
+    "searchKeywords": "great northern mid strength lager queensland beer australia 330ml can",
+    "badge": "Session Strength",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "great-northern-mid-strength-330ml-can",
+        "sku": "BEER-010-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "balter-eazy-hazy",
+    "name": "Balter Eazy Hazy",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "mid-strength-beer",
+    "subcategory": "mid-strength-beer",
+    "brand": "Balter",
+    "brewery": "Balter",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "abv": "3.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Mid-Strength Hazy Ale",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Mid-Strength Beer",
+      "Balter",
+      "Queensland"
+    ],
+    "collections": [
+      "beer",
+      "mid-strength-beer"
+    ],
+    "seoUrl": "/beer/mid-strength-beer/balter-eazy-hazy",
+    "description": "Balter's mid-strength hazy, Eazy Hazy delivers succulent US hops with lime, passionfruit and coconut over a creamy, rolled-wheat base.",
+    "shortDescription": "Balter's mid-strength hazy with lime, passionfruit and coconut.",
+    "searchKeywords": "balter eazy hazy mid strength beer queensland australia 375ml can",
+    "badge": "Session Hazy",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "balter-eazy-hazy-375ml-can",
+        "sku": "BEER-011-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stone-wood-easy-pale-ale",
+    "name": "Stone & Wood Easy Pale Ale",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "mid-strength-beer",
+    "subcategory": "mid-strength-beer",
+    "brand": "Stone & Wood",
+    "brewery": "Stone & Wood",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "New South Wales",
+    "abv": "3.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Mid-Strength Pale Ale",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Mid-Strength Beer",
+      "Stone & Wood",
+      "New South Wales"
+    ],
+    "collections": [
+      "beer",
+      "mid-strength-beer"
+    ],
+    "seoUrl": "/beer/mid-strength-beer/stone-wood-easy-pale-ale",
+    "description": "Stone & Wood's session-strength pale ale, Easy Pale Ale keeps the brewery's signature soft, juicy character at 3.5% ABV.",
+    "shortDescription": "Stone & Wood's session-strength pale ale at 3.5%.",
+    "searchKeywords": "stone wood easy pale ale mid strength beer byron bay australia 375ml can",
+    "badge": "Session Strength",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stone-wood-easy-pale-ale-375ml-can",
+        "sku": "BEER-012-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "little-creatures-little-hazy-lager",
+    "name": "Little Creatures Little Hazy Lager",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "mid-strength-beer",
+    "subcategory": "mid-strength-beer",
+    "brand": "Little Creatures",
+    "brewery": "Little Creatures",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Western Australia",
+    "abv": "3.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Mid-Strength Hazy Lager",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Mid-Strength Beer",
+      "Little Creatures",
+      "Western Australia"
+    ],
+    "collections": [
+      "beer",
+      "mid-strength-beer"
+    ],
+    "seoUrl": "/beer/mid-strength-beer/little-creatures-little-hazy-lager",
+    "description": "The perfect mid-strength at 3.5%, Little Hazy Lager features stone fruits like apricot, peach and summer melon with notes of grapefruit and zesty citrus.",
+    "shortDescription": "A mid-strength hazy lager with stone fruit and citrus notes.",
+    "searchKeywords": "little creatures little hazy lager mid strength beer western australia 375ml can",
+    "badge": "Fremantle Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "little-creatures-little-hazy-lager-375ml-can",
+        "sku": "BEER-013-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "corona-extra-slab",
+    "name": "Corona Extra Slab",
+    "price": 168,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Corona",
+    "brewery": "Corona",
+    "countryOfOrigin": "Mexico",
+    "regionOrState": "",
+    "abv": "4.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "24 x 330ml",
+    "packSize": "24 x 330ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Lager",
+    "dietary": [
+      "Imported"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve with a wedge of lime",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Corona",
+      "Mexico",
+      "Imported"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/corona-extra-slab",
+    "description": "The world's #1 Mexican imported lager, sold in a full 24-can slab.",
+    "shortDescription": "The world's #1 Mexican imported lager, in a full slab.",
+    "searchKeywords": "corona extra slab case mexico lager beer australia 24 x 330ml",
+    "badge": "24 Can Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "corona-extra-slab-24x330ml-can",
+        "sku": "BEER-014-24X330ML",
+        "unitSize": "24 x 330ml",
+        "container": "Can",
+        "packSize": "24 x 330ml Can",
+        "price": 168,
+        "stockLevel": 40,
+        "weight": "9.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "heineken-slab",
+    "name": "Heineken Slab",
+    "price": 168,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Heineken",
+    "brewery": "Heineken",
+    "countryOfOrigin": "Netherlands",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "24 x 330ml",
+    "packSize": "24 x 330ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Lager",
+    "dietary": [
+      "Imported"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Heineken",
+      "Netherlands",
+      "Imported"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/heineken-slab",
+    "description": "World-famous Dutch pure malt lager, sold in a full 24-can slab.",
+    "shortDescription": "World-famous Dutch pure malt lager, in a full slab.",
+    "searchKeywords": "heineken slab case netherlands lager beer australia 24 x 330ml",
+    "badge": "24 Can Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "heineken-slab-24x330ml-can",
+        "sku": "BEER-015-24X330ML",
+        "unitSize": "24 x 330ml",
+        "container": "Can",
+        "packSize": "24 x 330ml Can",
+        "price": 168,
+        "stockLevel": 40,
+        "weight": "9.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "asahi-super-dry-slab",
+    "name": "Asahi Super Dry Slab",
+    "price": 168,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Asahi",
+    "brewery": "Asahi",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "24 x 330ml",
+    "packSize": "24 x 330ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Lager",
+    "dietary": [
+      "Imported"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Asahi",
+      "Japan",
+      "Imported"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/asahi-super-dry-slab",
+    "description": "Japan's #1 Karakuchi super dry lager, sold in a full 24-can slab.",
+    "shortDescription": "Japan's #1 super dry lager, in a full slab.",
+    "searchKeywords": "asahi super dry slab case japan lager beer australia 24 x 330ml",
+    "badge": "24 Can Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "asahi-super-dry-slab-24x330ml-can",
+        "sku": "BEER-016-24X330ML",
+        "unitSize": "24 x 330ml",
+        "container": "Can",
+        "packSize": "24 x 330ml Can",
+        "price": 168,
+        "stockLevel": 40,
+        "weight": "9.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kirin-ichiban-slab",
+    "name": "Kirin Ichiban Slab",
+    "price": 168,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Kirin",
+    "brewery": "Kirin",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "24 x 330ml",
+    "packSize": "24 x 330ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Lager",
+    "dietary": [
+      "Imported"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Kirin",
+      "Japan",
+      "Imported"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/kirin-ichiban-slab",
+    "description": "Kirin Ichiban's single-wort brewed premium Japanese lager, sold in a full 24-can slab.",
+    "shortDescription": "Premium single-wort brewed Japanese lager, in a full slab.",
+    "searchKeywords": "kirin ichiban slab case japan lager beer australia 24 x 330ml",
+    "badge": "24 Can Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kirin-ichiban-slab-24x330ml-can",
+        "sku": "BEER-017-24X330ML",
+        "unitSize": "24 x 330ml",
+        "container": "Can",
+        "packSize": "24 x 330ml Can",
+        "price": 168,
+        "stockLevel": 40,
+        "weight": "9.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "carlton-draught-slab",
+    "name": "Carlton Draught Slab",
+    "price": 180,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Carlton",
+    "brewery": "Carlton",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Victoria",
+    "abv": "4.6%",
+    "containerType": "Can",
+    "bottleOrCanSize": "24 x 375ml",
+    "packSize": "24 x 375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Lager",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Carlton Draught",
+      "Victoria"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/carlton-draught-slab",
+    "description": "The iconic Victorian draught lager, sold in a full 24-can slab.",
+    "shortDescription": "The iconic Victorian draught lager, in a full slab.",
+    "searchKeywords": "carlton draught slab case victoria lager beer australia 24 x 375ml",
+    "badge": "24 Can Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "carlton-draught-slab-24x375ml-can",
+        "sku": "BEER-018-24X375ML",
+        "unitSize": "24 x 375ml",
+        "container": "Can",
+        "packSize": "24 x 375ml Can",
+        "price": 180,
+        "stockLevel": 40,
+        "weight": "10.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "great-northern-slab",
+    "name": "Great Northern Slab",
+    "price": 192,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Great Northern",
+    "brewery": "Great Northern",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "abv": "4.2%",
+    "containerType": "Can",
+    "bottleOrCanSize": "24 x 375ml",
+    "packSize": "24 x 375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Lager",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Great Northern",
+      "Queensland"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/great-northern-slab",
+    "description": "Full-strength Queensland lager with rounded malt character, sold in a full 24-can slab.",
+    "shortDescription": "Full-strength Queensland lager, in a full slab.",
+    "searchKeywords": "great northern slab case queensland lager beer australia 24 x 375ml",
+    "badge": "24 Can Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "great-northern-slab-24x375ml-can",
+        "sku": "BEER-019-24X375ML",
+        "unitSize": "24 x 375ml",
+        "container": "Can",
+        "packSize": "24 x 375ml Can",
+        "price": 192,
+        "stockLevel": 40,
+        "weight": "10.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "balter-xpa-slab",
+    "name": "Balter XPA Slab",
+    "price": 192,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Balter",
+    "brewery": "Balter",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "abv": "3.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "24 x 375ml",
+    "packSize": "24 x 375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "XPA",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Balter",
+      "Queensland"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/balter-xpa-slab",
+    "description": "Gold Coast craft XPA, sold in a full 24-can slab.",
+    "shortDescription": "Gold Coast craft XPA, in a full slab.",
+    "searchKeywords": "balter xpa slab case queensland beer australia 24 x 375ml",
+    "badge": "24 Can Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "balter-xpa-slab-24x375ml-can",
+        "sku": "BEER-020-24X375ML",
+        "unitSize": "24 x 375ml",
+        "container": "Can",
+        "packSize": "24 x 375ml Can",
+        "price": 192,
+        "stockLevel": 40,
+        "weight": "10.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1600788907416-456578634209?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stone-wood-pacific-ale-slab",
+    "name": "Stone & Wood Pacific Ale Slab",
+    "price": 192,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Stone & Wood",
+    "brewery": "Stone & Wood",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "New South Wales",
+    "abv": "4.4%",
+    "containerType": "Can",
+    "bottleOrCanSize": "24 x 375ml",
+    "packSize": "24 x 375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Pale Ale",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Stone & Wood",
+      "New South Wales"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/stone-wood-pacific-ale-slab",
+    "description": "Byron Bay's iconic Pacific Ale, sold in a full 24-can slab.",
+    "shortDescription": "Byron Bay's iconic Pacific Ale, in a full slab.",
+    "searchKeywords": "stone wood pacific ale slab case byron bay beer australia 24 x 375ml",
+    "badge": "24 Can Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stone-wood-pacific-ale-slab-24x375ml-can",
+        "sku": "BEER-021-24X375ML",
+        "unitSize": "24 x 375ml",
+        "container": "Can",
+        "packSize": "24 x 375ml Can",
+        "price": 192,
+        "stockLevel": 40,
+        "weight": "10.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "little-creatures-pale-ale-slab",
+    "name": "Little Creatures Pale Ale Slab",
+    "price": 192,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Little Creatures",
+    "brewery": "Little Creatures",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Western Australia",
+    "abv": "5.2%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "24 x 375ml",
+    "packSize": "24 x 375ml Bottle",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Pale Ale",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Little Creatures",
+      "Western Australia"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/little-creatures-pale-ale-slab",
+    "description": "Fremantle's legendary craft Pale Ale, sold in a full 24-bottle slab.",
+    "shortDescription": "Fremantle's legendary craft Pale Ale, in a full slab.",
+    "searchKeywords": "little creatures pale ale slab case western australia beer 24 x 375ml bottles",
+    "badge": "24 Bottle Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "little-creatures-pale-ale-slab-24x375ml-bottle",
+        "sku": "BEER-022-24X375ML",
+        "unitSize": "24 x 375ml",
+        "container": "Bottle",
+        "packSize": "24 x 375ml Bottle",
+        "price": 192,
+        "stockLevel": 40,
+        "weight": "11kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "furphy-original-refreshing-ale-slab",
+    "name": "Furphy Original Refreshing Ale Slab",
+    "price": 192,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "beer-cases-slabs",
+    "subcategory": "beer-cases-slabs",
+    "brand": "Furphy",
+    "brewery": "Furphy",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Victoria",
+    "abv": "4.4%",
+    "containerType": "Can",
+    "bottleOrCanSize": "24 x 375ml",
+    "packSize": "24 x 375ml Can",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Pale Ale",
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Slab",
+      "Furphy",
+      "Victoria"
+    ],
+    "collections": [
+      "beer",
+      "beer-cases-slabs"
+    ],
+    "seoUrl": "/beer/beer-cases-slabs/furphy-original-refreshing-ale-slab",
+    "description": "The Victorian Original Refreshing Ale, sold in a full 24-can slab.",
+    "shortDescription": "The Victorian Original Refreshing Ale, in a full slab.",
+    "searchKeywords": "furphy original refreshing ale slab case victoria beer australia 24 x 375ml",
+    "badge": "24 Can Slab",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "furphy-original-refreshing-ale-slab-24x375ml-can",
+        "sku": "BEER-023-24X375ML",
+        "unitSize": "24 x 375ml",
+        "container": "Can",
+        "packSize": "24 x 375ml Can",
+        "price": 192,
+        "stockLevel": 40,
+        "weight": "10.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
