@@ -82867,6 +82867,1299 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "strongbow-original-apple-cider",
+    "name": "Strongbow Original Apple Cider",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "apple-cider",
+    "subcategory": "apple-cider",
+    "brand": "Strongbow",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Original",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Apple Cider",
+      "Strongbow"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "apple-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/apple-cider/strongbow-original-apple-cider",
+    "description": "Strongbow's classic Original Apple Cider, crisp and refreshing with a balanced apple sweetness.",
+    "shortDescription": "The classic Strongbow Original Apple Cider.",
+    "searchKeywords": "strongbow original apple cider australia can bottle",
+    "badge": "Australia’s Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "strongbow-original-apple-cider-375ml-can",
+        "sku": "CIDER-001-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "strongbow-original-apple-cider-355ml-bottle",
+        "sku": "CIDER-001-355ML",
+        "unitSize": "355ml",
+        "container": "Bottle",
+        "packSize": "355ml Bottle",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mercury-hard-cider-original",
+    "name": "Mercury Hard Cider Original",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "apple-cider",
+    "subcategory": "apple-cider",
+    "brand": "Mercury",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.9%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Hard Cider",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Apple Cider",
+      "Mercury",
+      "Higher Strength"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "apple-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/apple-cider/mercury-hard-cider-original",
+    "description": "Mercury's higher-strength 6.9% hard apple cider, bold and full-flavoured.",
+    "shortDescription": "A higher-strength 6.9% hard apple cider from Mercury.",
+    "searchKeywords": "mercury hard cider original apple australia 375ml can",
+    "badge": "6.9% Higher Strength",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mercury-hard-cider-original-375ml-can",
+        "sku": "CIDER-002-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "angry-orchard-crisp-apple-cider",
+    "name": "Angry Orchard Crisp Apple Cider",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "apple-cider",
+    "subcategory": "apple-cider",
+    "brand": "Angry Orchard",
+    "countryOfOrigin": "United States",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "355ml",
+    "packSize": "355ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Crisp",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Apple Cider",
+      "Angry Orchard",
+      "USA"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "apple-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/apple-cider/angry-orchard-crisp-apple-cider",
+    "description": "America's top-selling hard cider brand, Angry Orchard Crisp Apple blends culinary and bittersweet apples for a crisp, refreshing finish.",
+    "shortDescription": "America's top-selling hard cider, crisp and refreshing.",
+    "searchKeywords": "angry orchard crisp apple cider usa australia 355ml can",
+    "badge": "US Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "angry-orchard-crisp-apple-cider-355ml-can",
+        "sku": "CIDER-003-355ML",
+        "unitSize": "355ml",
+        "container": "Can",
+        "packSize": "355ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kopparberg-apple-cider",
+    "name": "Kopparberg Apple Cider",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "apple-cider",
+    "subcategory": "apple-cider",
+    "brand": "Kopparberg",
+    "countryOfOrigin": "Sweden",
+    "regionOrState": "",
+    "abv": "7.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Original",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Apple Cider",
+      "Kopparberg",
+      "Sweden"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "apple-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/apple-cider/kopparberg-apple-cider",
+    "description": "Fermented according to the original 1930 Swedish recipe using soft water and the finest apples, Kopparberg Apple Cider is light-coloured with a refreshing fruity taste.",
+    "shortDescription": "Sweden's iconic apple cider, fermented to the original 1930 recipe.",
+    "searchKeywords": "kopparberg apple cider sweden australia 330ml can",
+    "badge": "Swedish Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kopparberg-apple-cider-330ml-can",
+        "sku": "CIDER-004-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "5-seeds-crisp-apple-cider",
+    "name": "5 Seeds Crisp Apple Cider",
+    "price": 7,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "apple-cider",
+    "subcategory": "apple-cider",
+    "brand": "5 Seeds",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.7%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Crisp",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Apple Cider",
+      "5 Seeds",
+      "Australian"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "apple-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/apple-cider/5-seeds-crisp-apple-cider",
+    "description": "5 Seeds Crisp Apple Cider, brewed with Australian apples for a crisp, refreshing taste.",
+    "shortDescription": "A crisp, refreshing Australian apple cider.",
+    "searchKeywords": "5 seeds crisp apple cider australia 330ml can 345ml bottle",
+    "badge": "Australian Made",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "5-seeds-crisp-apple-cider-330ml-can",
+        "sku": "CIDER-005-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "5-seeds-crisp-apple-cider-345ml-bottle",
+        "sku": "CIDER-005-345ML",
+        "unitSize": "345ml",
+        "container": "Bottle",
+        "packSize": "345ml Bottle",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "strongbow-classic-pear-cider",
+    "name": "Strongbow Classic Pear Cider",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "pear-cider",
+    "subcategory": "pear-cider",
+    "brand": "Strongbow",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Pear",
+    "flavour": [
+      "Pear"
+    ],
+    "flavourProfile": [
+      "Pear"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Pear Cider",
+      "Strongbow"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "pear-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/pear-cider/strongbow-classic-pear-cider",
+    "description": "A lightly coloured pear cider with a noticeable pear aroma, fruity flavour and well-balanced sweetness.",
+    "shortDescription": "Strongbow's classic pear cider, fruity and well-balanced.",
+    "searchKeywords": "strongbow classic pear cider australia 375ml can",
+    "badge": "Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "strongbow-classic-pear-cider-375ml-can",
+        "sku": "CIDER-006-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kopparberg-hard-pear-cider",
+    "name": "Kopparberg Hard Pear Cider",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "pear-cider",
+    "subcategory": "pear-cider",
+    "brand": "Kopparberg",
+    "countryOfOrigin": "Sweden",
+    "regionOrState": "",
+    "abv": "7.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Pear",
+    "flavour": [
+      "Pear"
+    ],
+    "flavourProfile": [
+      "Pear"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Pear Cider",
+      "Kopparberg",
+      "Sweden"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "pear-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/pear-cider/kopparberg-hard-pear-cider",
+    "description": "A crisp, naturally sweet Swedish pear cider from Kopparberg, brewed to the original recipe.",
+    "shortDescription": "A crisp, naturally sweet Swedish pear cider.",
+    "searchKeywords": "kopparberg hard pear cider sweden australia 330ml can",
+    "badge": "Swedish Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kopparberg-hard-pear-cider-330ml-can",
+        "sku": "CIDER-007-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mercury-hard-passionfruit-cider",
+    "name": "Mercury Hard Passionfruit Cider",
+    "price": 7,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "flavoured-cider",
+    "subcategory": "flavoured-cider",
+    "brand": "Mercury",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "8.2%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Flavoured",
+    "flavour": [
+      "Passionfruit"
+    ],
+    "flavourProfile": [
+      "Passionfruit"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Flavoured Cider",
+      "Mercury",
+      "Higher Strength"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "flavoured-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/flavoured-cider/mercury-hard-passionfruit-cider",
+    "description": "Fermented with real passionfruit for a delicate aroma and refreshing tartness, balanced by a smooth, high-strength finish.",
+    "shortDescription": "A high-strength 8.2% cider fermented with real passionfruit.",
+    "searchKeywords": "mercury hard passionfruit cider australia 375ml can",
+    "badge": "8.2% Higher Strength",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mercury-hard-passionfruit-cider-375ml-can",
+        "sku": "CIDER-008-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kopparberg-strawberry-lime-cider",
+    "name": "Kopparberg Strawberry & Lime Cider",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "flavoured-cider",
+    "subcategory": "flavoured-cider",
+    "brand": "Kopparberg",
+    "countryOfOrigin": "Sweden",
+    "regionOrState": "",
+    "abv": "4.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Flavoured",
+    "flavour": [
+      "Strawberry",
+      "Lime"
+    ],
+    "flavourProfile": [
+      "Strawberry",
+      "Lime"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Flavoured Cider",
+      "Kopparberg",
+      "Sweden"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "flavoured-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/flavoured-cider/kopparberg-strawberry-lime-cider",
+    "description": "Kopparberg's best-known flavour, blending sweet strawberry with zesty lime over their signature cider base.",
+    "shortDescription": "Kopparberg's best-known flavour, sweet strawberry and zesty lime.",
+    "searchKeywords": "kopparberg strawberry lime cider sweden australia 330ml can",
+    "badge": "Best-Selling Flavour",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kopparberg-strawberry-lime-cider-330ml-can",
+        "sku": "CIDER-009-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kopparberg-apple-passionfruit-cider",
+    "name": "Kopparberg Apple & Passionfruit Cider",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "flavoured-cider",
+    "subcategory": "flavoured-cider",
+    "brand": "Kopparberg",
+    "countryOfOrigin": "Sweden",
+    "regionOrState": "",
+    "abv": "4.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "500ml",
+    "packSize": "500ml Bottle",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Flavoured",
+    "flavour": [
+      "Apple",
+      "Passionfruit"
+    ],
+    "flavourProfile": [
+      "Apple",
+      "Passionfruit"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Flavoured Cider",
+      "Kopparberg",
+      "Sweden"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "flavoured-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/flavoured-cider/kopparberg-apple-passionfruit-cider",
+    "description": "A tropical twist on the Kopparberg classic, blending crisp apple cider with fragrant passionfruit.",
+    "shortDescription": "A tropical twist blending crisp apple cider with passionfruit.",
+    "searchKeywords": "kopparberg apple passionfruit cider sweden australia 500ml bottle",
+    "badge": "Swedish Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kopparberg-apple-passionfruit-cider-500ml-bottle",
+        "sku": "CIDER-010-500ML",
+        "unitSize": "500ml",
+        "container": "Bottle",
+        "packSize": "500ml Bottle",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "strongbow-dry-apple-cider",
+    "name": "Strongbow Dry Apple Cider",
+    "price": 7,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "dry-cider",
+    "subcategory": "dry-cider",
+    "brand": "Strongbow",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Bottle",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Dry",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Dry Cider",
+      "Strongbow"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "dry-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/dry-cider/strongbow-dry-apple-cider",
+    "description": "Tangy, clean and full-flavoured, Strongbow Dry Apple Cider is completely refreshing with a crisp, dry finish.",
+    "shortDescription": "Tangy, clean and completely refreshing with a crisp, dry finish.",
+    "searchKeywords": "strongbow dry apple cider australia 330ml bottle",
+    "badge": "Dry Finish",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "strongbow-dry-apple-cider-330ml-bottle",
+        "sku": "CIDER-011-330ML",
+        "unitSize": "330ml",
+        "container": "Bottle",
+        "packSize": "330ml Bottle",
+        "price": 7,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mercury-cider-dry",
+    "name": "Mercury Cider Dry",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "dry-cider",
+    "subcategory": "dry-cider",
+    "brand": "Mercury",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.6%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Dry",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Dry Cider",
+      "Mercury"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "dry-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/dry-cider/mercury-cider-dry",
+    "description": "A crisp, dry cider from Mercury with clean apple character and a tannic, well-balanced finish.",
+    "shortDescription": "A crisp, dry cider with clean apple character.",
+    "searchKeywords": "mercury cider dry australia 375ml bottle",
+    "badge": "Crisp & Dry",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mercury-cider-dry-375ml-bottle",
+        "sku": "CIDER-012-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "5-seeds-premium-cut-dry-apple-cider",
+    "name": "5 Seeds Premium Cut Dry Apple Cider",
+    "price": 7.5,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "dry-cider",
+    "subcategory": "dry-cider",
+    "brand": "5 Seeds",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.4%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "345ml",
+    "packSize": "345ml Bottle",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Dry",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Dry Cider",
+      "5 Seeds",
+      "Australian"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "dry-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/dry-cider/5-seeds-premium-cut-dry-apple-cider",
+    "description": "5 Seeds Premium Cut is a dry-style apple cider with a crisp, tannic edge and clean, tart finish.",
+    "shortDescription": "A dry-style apple cider with a crisp, tannic edge.",
+    "searchKeywords": "5 seeds premium cut dry apple cider australia 345ml bottle",
+    "badge": "Premium Cut",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "5-seeds-premium-cut-dry-apple-cider-345ml-bottle",
+        "sku": "CIDER-013-345ML",
+        "unitSize": "345ml",
+        "container": "Bottle",
+        "packSize": "345ml Bottle",
+        "price": 7.5,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "willie-smiths-traditional-apple-cider",
+    "name": "Willie Smith's Traditional Apple Cider",
+    "price": 8,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "craft-cider",
+    "subcategory": "craft-cider",
+    "brand": "Willie Smith's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Tasmania",
+    "abv": "5.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "355ml",
+    "packSize": "355ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Traditional",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Craft Cider",
+      "Willie Smith's",
+      "Tasmania"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "craft-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/craft-cider/willie-smiths-traditional-apple-cider",
+    "description": "From the Huon Valley in Tasmania, Willie Smith's Traditional Apple Cider is crafted from whole pressed apples for a true, orchard-fresh character.",
+    "shortDescription": "A true, orchard-fresh cider from Tasmania's Huon Valley.",
+    "searchKeywords": "willie smiths traditional apple cider tasmania australia 355ml can",
+    "badge": "Tasmanian Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "willie-smiths-traditional-apple-cider-355ml-can",
+        "sku": "CIDER-014-355ML",
+        "unitSize": "355ml",
+        "container": "Can",
+        "packSize": "355ml Can",
+        "price": 8,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "willie-smiths-organic-apple-cider",
+    "name": "Willie Smith's Organic Apple Cider",
+    "price": 8,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "craft-cider",
+    "subcategory": "craft-cider",
+    "brand": "Willie Smith's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Tasmania",
+    "abv": "5.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Bottle",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Organic",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "Australian Made",
+      "Organic"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Craft Cider",
+      "Willie Smith's",
+      "Tasmania",
+      "Organic"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "craft-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/craft-cider/willie-smiths-organic-apple-cider",
+    "description": "Certified organic apples from Willie Smith's own Huon Valley orchard, pressed into a clean, characterful Tasmanian cider.",
+    "shortDescription": "A certified organic cider from Willie Smith's own Huon Valley orchard.",
+    "searchKeywords": "willie smiths organic apple cider tasmania australia 330ml bottle",
+    "badge": "Certified Organic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "willie-smiths-organic-apple-cider-330ml-bottle",
+        "sku": "CIDER-015-330ML",
+        "unitSize": "330ml",
+        "container": "Bottle",
+        "packSize": "330ml Bottle",
+        "price": 8,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "pipsqueak-apple-cider",
+    "name": "Pipsqueak Apple Cider",
+    "price": 8,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "craft-cider",
+    "subcategory": "craft-cider",
+    "brand": "Pipsqueak",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Western Australia",
+    "abv": "4.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Bottle",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Craft",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Craft Cider",
+      "Pipsqueak",
+      "Little Creatures"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "craft-cider"
+    ],
+    "seoUrl": "/cider-ginger-beer/craft-cider/pipsqueak-apple-cider",
+    "description": "From Little Creatures, Pipsqueak Apple Cider is a light, easy-drinking craft cider with fresh apple character.",
+    "shortDescription": "A light, easy-drinking craft cider from Little Creatures.",
+    "searchKeywords": "pipsqueak apple cider little creatures australia 330ml bottle",
+    "badge": "Little Creatures Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "pipsqueak-apple-cider-330ml-bottle",
+        "sku": "CIDER-016-330ML",
+        "unitSize": "330ml",
+        "container": "Bottle",
+        "packSize": "330ml Bottle",
+        "price": 8,
+        "stockLevel": 40,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "strongbow-original-apple-cider-10-pack",
+    "name": "Strongbow Original Apple Cider 10 Pack",
+    "price": 70,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "cider-multipacks",
+    "subcategory": "cider-multipacks",
+    "brand": "Strongbow",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "5.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 375ml",
+    "packSize": "10 x 375ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Original",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Multipack",
+      "Strongbow"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "cider-multipacks"
+    ],
+    "seoUrl": "/cider-ginger-beer/cider-multipacks/strongbow-original-apple-cider-10-pack",
+    "description": "A 10-pack of Strongbow Original Apple Cider in the classic 375mL can.",
+    "shortDescription": "A 10-pack of Strongbow Original Apple Cider.",
+    "searchKeywords": "strongbow original apple cider 10 pack multipack australia 375ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "strongbow-original-apple-cider-10-pack-10x375ml-can",
+        "sku": "CIDER-017-10X375ML",
+        "unitSize": "10 x 375ml",
+        "container": "Can",
+        "packSize": "10 x 375ml Can",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mercury-hard-cider-10-pack",
+    "name": "Mercury Hard Cider 10 Pack",
+    "price": 70,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "cider-multipacks",
+    "subcategory": "cider-multipacks",
+    "brand": "Mercury",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "6.9%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 375ml",
+    "packSize": "10 x 375ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Hard Cider",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Multipack",
+      "Mercury"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "cider-multipacks"
+    ],
+    "seoUrl": "/cider-ginger-beer/cider-multipacks/mercury-hard-cider-10-pack",
+    "description": "A 10-pack of Mercury Hard Cider Original in 375mL cans.",
+    "shortDescription": "A 10-pack of Mercury Hard Cider Original.",
+    "searchKeywords": "mercury hard cider 10 pack multipack australia 375ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mercury-hard-cider-10-pack-10x375ml-can",
+        "sku": "CIDER-018-10X375ML",
+        "unitSize": "10 x 375ml",
+        "container": "Can",
+        "packSize": "10 x 375ml Can",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.2kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "5-seeds-crisp-apple-cider-10-pack",
+    "name": "5 Seeds Crisp Apple Cider 10 Pack",
+    "price": 70,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "cider-multipacks",
+    "subcategory": "cider-multipacks",
+    "brand": "5 Seeds",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "4.7%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 330ml",
+    "packSize": "10 x 330ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Crisp",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Multipack",
+      "5 Seeds",
+      "Australian"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "cider-multipacks"
+    ],
+    "seoUrl": "/cider-ginger-beer/cider-multipacks/5-seeds-crisp-apple-cider-10-pack",
+    "description": "A 10-pack of 5 Seeds Crisp Apple Cider in 330mL cans.",
+    "shortDescription": "A 10-pack of 5 Seeds Crisp Apple Cider.",
+    "searchKeywords": "5 seeds crisp apple cider 10 pack multipack australia 330ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "5-seeds-crisp-apple-cider-10-pack-10x330ml-can",
+        "sku": "CIDER-019-10X330ML",
+        "unitSize": "10 x 330ml",
+        "container": "Can",
+        "packSize": "10 x 330ml Can",
+        "price": 70,
+        "stockLevel": 40,
+        "weight": "4.0kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kopparberg-apple-cider-10-pack",
+    "name": "Kopparberg Apple Cider 10 Pack",
+    "price": 75,
+    "primaryCategory": "cider-ginger-beer",
+    "category": "cider-ginger-beer",
+    "primarySubcategory": "cider-multipacks",
+    "subcategory": "cider-multipacks",
+    "brand": "Kopparberg",
+    "countryOfOrigin": "Sweden",
+    "regionOrState": "",
+    "abv": "7.0%",
+    "containerType": "Can",
+    "bottleOrCanSize": "10 x 330ml",
+    "packSize": "10 x 330ml Can",
+    "primaryProductType": "Cider",
+    "ciderStyle": "Original",
+    "flavour": [
+      "Apple"
+    ],
+    "flavourProfile": [
+      "Apple"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "Imported"
+    ],
+    "multipack": true,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Cider",
+      "Multipack",
+      "Kopparberg",
+      "Sweden"
+    ],
+    "collections": [
+      "cider-ginger-beer",
+      "cider-multipacks"
+    ],
+    "seoUrl": "/cider-ginger-beer/cider-multipacks/kopparberg-apple-cider-10-pack",
+    "description": "A 10-pack of Kopparberg Apple Cider in 330mL cans.",
+    "shortDescription": "A 10-pack of Kopparberg Apple Cider.",
+    "searchKeywords": "kopparberg apple cider 10 pack multipack sweden australia 330ml",
+    "badge": "10 Pack",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kopparberg-apple-cider-10-pack-10x330ml-can",
+        "sku": "CIDER-020-10X330ML",
+        "unitSize": "10 x 330ml",
+        "container": "Can",
+        "packSize": "10 x 330ml Can",
+        "price": 75,
+        "stockLevel": 40,
+        "weight": "4.0kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
