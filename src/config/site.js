@@ -85028,6 +85028,2386 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "schweppes-tonic-water",
+    "name": "Schweppes Tonic Water",
+    "price": 3.5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "tonic-water",
+    "subcategory": "tonic-water",
+    "brand": "Schweppes",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "300ml",
+    "packSize": "300ml Bottle",
+    "primaryProductType": "Tonic Water",
+    "flavourProfile": [
+      "Quinine",
+      "Citrus"
+    ],
+    "dietary": [
+      "Non-Alcoholic"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Tonic Water",
+      "Schweppes"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "tonic-water"
+    ],
+    "seoUrl": "/mixers-snacks/tonic-water/schweppes-tonic-water",
+    "description": "The classic Schweppes Tonic Water, a crisp quinine mixer trusted since 1871.",
+    "shortDescription": "The classic tonic water mixer, trusted since 1871.",
+    "searchKeywords": "schweppes tonic water mixer australia 300ml bottle 1.1l",
+    "badge": "Since 1871",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "schweppes-tonic-water-300ml-bottle",
+        "sku": "MIXSNK-001-300ML",
+        "unitSize": "300ml",
+        "container": "Bottle",
+        "packSize": "300ml Bottle",
+        "price": 3.5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "schweppes-tonic-water-1.1l-bottle",
+        "sku": "MIXSNK-001-1.1L",
+        "unitSize": "1.1L",
+        "container": "Bottle",
+        "packSize": "1.1L Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fever-tree-indian-tonic-water",
+    "name": "Fever-Tree Premium Indian Tonic Water",
+    "price": 9,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "tonic-water",
+    "subcategory": "tonic-water",
+    "brand": "Fever-Tree",
+    "countryOfOrigin": "United Kingdom",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "4 x 200ml",
+    "packSize": "4 x 200ml Bottle",
+    "primaryProductType": "Tonic Water",
+    "flavourProfile": [
+      "Quinine",
+      "Citrus"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Tonic Water",
+      "Fever-Tree",
+      "Premium"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "tonic-water"
+    ],
+    "seoUrl": "/mixers-snacks/tonic-water/fever-tree-indian-tonic-water",
+    "description": "A premium Indian tonic water made with naturally sourced quinine, crafted to complement fine spirits.",
+    "shortDescription": "A premium tonic water made with naturally sourced quinine.",
+    "searchKeywords": "fever tree indian tonic water premium mixer australia 200ml 4 pack 500ml",
+    "badge": "Premium Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fever-tree-indian-tonic-water-4x200ml-bottle",
+        "sku": "MIXSNK-002-4X200ML",
+        "unitSize": "4 x 200ml",
+        "container": "Bottle",
+        "packSize": "4 x 200ml Bottle",
+        "price": 9,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "fever-tree-indian-tonic-water-500ml-bottle",
+        "sku": "MIXSNK-002-500ML",
+        "unitSize": "500ml",
+        "container": "Bottle",
+        "packSize": "500ml Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "double-dutch-tonic-water",
+    "name": "Double Dutch Indian Tonic Water",
+    "price": 9,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "tonic-water",
+    "subcategory": "tonic-water",
+    "brand": "Double Dutch",
+    "countryOfOrigin": "United Kingdom",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "4 x 200ml",
+    "packSize": "4 x 200ml Bottle",
+    "primaryProductType": "Tonic Water",
+    "flavourProfile": [
+      "Quinine",
+      "Citrus"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Tonic Water",
+      "Double Dutch",
+      "Premium"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "tonic-water"
+    ],
+    "seoUrl": "/mixers-snacks/tonic-water/double-dutch-tonic-water",
+    "description": "A premium, botanically distilled Indian tonic water from London-based Double Dutch.",
+    "shortDescription": "A premium, botanically distilled Indian tonic water.",
+    "searchKeywords": "double dutch indian tonic water premium mixer australia 200ml 4 pack",
+    "badge": "Premium Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "double-dutch-tonic-water-4x200ml-bottle",
+        "sku": "MIXSNK-003-4X200ML",
+        "unitSize": "4 x 200ml",
+        "container": "Bottle",
+        "packSize": "4 x 200ml Bottle",
+        "price": 9,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "schweppes-soda-water",
+    "name": "Schweppes Soda Water",
+    "price": 5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "soda-water",
+    "subcategory": "soda-water",
+    "brand": "Schweppes",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "1.1L",
+    "packSize": "1.1L Bottle",
+    "primaryProductType": "Soda Water",
+    "flavourProfile": [
+      "Neutral",
+      "Crisp"
+    ],
+    "dietary": [
+      "Non-Alcoholic"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Soda Water",
+      "Schweppes"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "soda-water"
+    ],
+    "seoUrl": "/mixers-snacks/soda-water/schweppes-soda-water",
+    "description": "Pure, crisp Schweppes Soda Water, the classic sparkling mineral water mixer.",
+    "shortDescription": "Pure, crisp classic sparkling water mixer.",
+    "searchKeywords": "schweppes soda water mixer australia 1.1l bottle",
+    "badge": "Classic Mixer",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "schweppes-soda-water-1.1l-bottle",
+        "sku": "MIXSNK-004-1.1L",
+        "unitSize": "1.1L",
+        "container": "Bottle",
+        "packSize": "1.1L Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "schweppes-dry-ginger-ale",
+    "name": "Schweppes Dry Ginger Ale",
+    "price": 5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "ginger-ale-ginger-beer",
+    "subcategory": "ginger-ale-ginger-beer",
+    "brand": "Schweppes",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "1.1L",
+    "packSize": "1.1L Bottle",
+    "primaryProductType": "Ginger Ale",
+    "flavourProfile": [
+      "Ginger",
+      "Dry"
+    ],
+    "dietary": [
+      "Non-Alcoholic"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Ginger Ale",
+      "Schweppes"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "ginger-ale-ginger-beer"
+    ],
+    "seoUrl": "/mixers-snacks/ginger-ale-ginger-beer/schweppes-dry-ginger-ale",
+    "description": "The classic Schweppes Dry Ginger Ale, crisp and mildly spiced for highballs and spirits.",
+    "shortDescription": "The classic dry ginger ale mixer for highballs.",
+    "searchKeywords": "schweppes dry ginger ale mixer australia 1.1l bottle",
+    "badge": "Classic Mixer",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "schweppes-dry-ginger-ale-1.1l-bottle",
+        "sku": "MIXSNK-005-1.1L",
+        "unitSize": "1.1L",
+        "container": "Bottle",
+        "packSize": "1.1L Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "bundaberg-ginger-beer",
+    "name": "Bundaberg Ginger Beer",
+    "price": 4,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "ginger-ale-ginger-beer",
+    "subcategory": "ginger-ale-ginger-beer",
+    "brand": "Bundaberg",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Ginger Beer",
+    "flavourProfile": [
+      "Ginger",
+      "Spicy"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Ginger Beer",
+      "Bundaberg",
+      "Queensland"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "ginger-ale-ginger-beer"
+    ],
+    "seoUrl": "/mixers-snacks/ginger-ale-ginger-beer/bundaberg-ginger-beer",
+    "description": "Craft brewed over three days in Bundaberg, Queensland with real ginger and no artificial colours or flavours.",
+    "shortDescription": "Craft brewed with real ginger, no artificial colours or flavours.",
+    "searchKeywords": "bundaberg ginger beer non alcoholic mixer australia queensland 375ml 750ml",
+    "badge": "Craft Brewed",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bundaberg-ginger-beer-375ml-bottle",
+        "sku": "MIXSNK-006-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 4,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "bundaberg-ginger-beer-750ml-bottle",
+        "sku": "MIXSNK-006-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 6,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fever-tree-ginger-beer",
+    "name": "Fever-Tree Premium Ginger Beer",
+    "price": 5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "ginger-ale-ginger-beer",
+    "subcategory": "ginger-ale-ginger-beer",
+    "brand": "Fever-Tree",
+    "countryOfOrigin": "United Kingdom",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "500ml",
+    "packSize": "500ml Bottle",
+    "primaryProductType": "Ginger Beer",
+    "flavourProfile": [
+      "Ginger",
+      "Spicy"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Ginger Beer",
+      "Fever-Tree",
+      "Premium"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "ginger-ale-ginger-beer"
+    ],
+    "seoUrl": "/mixers-snacks/ginger-ale-ginger-beer/fever-tree-ginger-beer",
+    "description": "A fiery, three-times-strength ginger beer made with ginger from five different origins.",
+    "shortDescription": "A fiery ginger beer made with ginger from five origins.",
+    "searchKeywords": "fever tree premium ginger beer mixer australia 500ml bottle",
+    "badge": "Premium Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fever-tree-ginger-beer-500ml-bottle",
+        "sku": "MIXSNK-007-500ML",
+        "unitSize": "500ml",
+        "container": "Bottle",
+        "packSize": "500ml Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "coca-cola-classic",
+    "name": "Coca-Cola Classic",
+    "price": 3.5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "soft-drinks",
+    "subcategory": "soft-drinks",
+    "brand": "Coca-Cola",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Soft Drink",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Non-Alcoholic"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Soft Drink",
+      "Coca-Cola",
+      "Cola"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "soft-drinks"
+    ],
+    "seoUrl": "/mixers-snacks/soft-drinks/coca-cola-classic",
+    "description": "The original Coca-Cola Classic, Australia's favourite cola soft drink.",
+    "shortDescription": "Australia's favourite cola soft drink.",
+    "searchKeywords": "coca cola classic coke soft drink australia 375ml can 1.25l",
+    "badge": "Original Taste",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "coca-cola-classic-375ml-can",
+        "sku": "MIXSNK-008-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 3.5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "coca-cola-classic-1.25l-bottle",
+        "sku": "MIXSNK-008-1.25L",
+        "unitSize": "1.25L",
+        "container": "Bottle",
+        "packSize": "1.25L Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "coca-cola-zero-sugar",
+    "name": "Coca-Cola Zero Sugar",
+    "price": 3.5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "soft-drinks",
+    "subcategory": "soft-drinks",
+    "brand": "Coca-Cola",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Soft Drink",
+    "flavourProfile": [
+      "Cola"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Zero Sugar"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Soft Drink",
+      "Coca-Cola",
+      "Cola",
+      "Zero Sugar"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "soft-drinks"
+    ],
+    "seoUrl": "/mixers-snacks/soft-drinks/coca-cola-zero-sugar",
+    "description": "Coca-Cola Zero Sugar delivers the same great Coca-Cola taste with zero sugar and zero calories.",
+    "shortDescription": "The same great Coca-Cola taste with zero sugar.",
+    "searchKeywords": "coca cola zero sugar soft drink australia 375ml can 1.25l",
+    "badge": "Zero Sugar",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "coca-cola-zero-sugar-375ml-can",
+        "sku": "MIXSNK-009-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 3.5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "coca-cola-zero-sugar-1.25l-bottle",
+        "sku": "MIXSNK-009-1.25L",
+        "unitSize": "1.25L",
+        "container": "Bottle",
+        "packSize": "1.25L Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "sprite",
+    "name": "Sprite",
+    "price": 3.5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "soft-drinks",
+    "subcategory": "soft-drinks",
+    "brand": "Sprite",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Soft Drink",
+    "flavourProfile": [
+      "Lemon",
+      "Lime"
+    ],
+    "dietary": [
+      "Non-Alcoholic"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Soft Drink",
+      "Sprite",
+      "Lemon Lime"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "soft-drinks"
+    ],
+    "seoUrl": "/mixers-snacks/soft-drinks/sprite",
+    "description": "Sprite delivers a crisp, refreshing lemon-lime taste with a natural cool feeling.",
+    "shortDescription": "A crisp, refreshing lemon-lime soft drink.",
+    "searchKeywords": "sprite lemon lime soft drink australia 375ml can 1.25l",
+    "badge": "Crisp & Refreshing",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "sprite-375ml-can",
+        "sku": "MIXSNK-010-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 3.5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "sprite-1.25l-bottle",
+        "sku": "MIXSNK-010-1.25L",
+        "unitSize": "1.25L",
+        "container": "Bottle",
+        "packSize": "1.25L Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fanta-orange",
+    "name": "Fanta Orange",
+    "price": 3.5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "soft-drinks",
+    "subcategory": "soft-drinks",
+    "brand": "Fanta",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Soft Drink",
+    "flavourProfile": [
+      "Orange"
+    ],
+    "dietary": [
+      "Non-Alcoholic"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Soft Drink",
+      "Fanta",
+      "Orange"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "soft-drinks"
+    ],
+    "seoUrl": "/mixers-snacks/soft-drinks/fanta-orange",
+    "description": "Fanta Orange, a bold and fruity orange-flavoured soft drink.",
+    "shortDescription": "A bold and fruity orange-flavoured soft drink.",
+    "searchKeywords": "fanta orange soft drink australia 375ml can 1.25l",
+    "badge": "Bold & Fruity",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fanta-orange-375ml-can",
+        "sku": "MIXSNK-011-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 3.5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "fanta-orange-1.25l-bottle",
+        "sku": "MIXSNK-011-1.25L",
+        "unitSize": "1.25L",
+        "container": "Bottle",
+        "packSize": "1.25L Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fever-tree-aromatic-tonic-water",
+    "name": "Fever-Tree Aromatic Tonic Water",
+    "price": 9,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "cocktail-mixers",
+    "subcategory": "cocktail-mixers",
+    "brand": "Fever-Tree",
+    "countryOfOrigin": "United Kingdom",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "4 x 200ml",
+    "packSize": "4 x 200ml Bottle",
+    "primaryProductType": "Cocktail Mixer",
+    "flavourProfile": [
+      "Angostura Bitters",
+      "Botanical"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Cocktail Mixer",
+      "Fever-Tree",
+      "Premium"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "cocktail-mixers"
+    ],
+    "seoUrl": "/mixers-snacks/cocktail-mixers/fever-tree-aromatic-tonic-water",
+    "description": "A rose-pink tonic infused with angostura bark and botanicals, designed to pair with gin like a Pink G&T.",
+    "shortDescription": "A rose-pink tonic infused with angostura bark and botanicals.",
+    "searchKeywords": "fever tree aromatic tonic water cocktail mixer australia 200ml 4 pack",
+    "badge": "Premium Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fever-tree-aromatic-tonic-water-4x200ml-bottle",
+        "sku": "MIXSNK-012-4X200ML",
+        "unitSize": "4 x 200ml",
+        "container": "Bottle",
+        "packSize": "4 x 200ml Bottle",
+        "price": 9,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fever-tree-light-tonic-water",
+    "name": "Fever-Tree Refreshingly Light Tonic Water",
+    "price": 9,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "cocktail-mixers",
+    "subcategory": "cocktail-mixers",
+    "brand": "Fever-Tree",
+    "countryOfOrigin": "United Kingdom",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "4 x 200ml",
+    "packSize": "4 x 200ml Bottle",
+    "primaryProductType": "Cocktail Mixer",
+    "flavourProfile": [
+      "Quinine",
+      "Light"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported",
+      "Lower Sugar"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Cocktail Mixer",
+      "Fever-Tree",
+      "Light"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "cocktail-mixers"
+    ],
+    "seoUrl": "/mixers-snacks/cocktail-mixers/fever-tree-light-tonic-water",
+    "description": "A lighter, lower-sugar version of Fever-Tree Indian Tonic Water with two-thirds less sugar and calories.",
+    "shortDescription": "A lighter, lower-sugar version of Fever-Tree Indian Tonic.",
+    "searchKeywords": "fever tree light tonic water low sugar cocktail mixer australia 200ml 4 pack",
+    "badge": "Lower Sugar",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fever-tree-light-tonic-water-4x200ml-bottle",
+        "sku": "MIXSNK-013-4X200ML",
+        "unitSize": "4 x 200ml",
+        "container": "Bottle",
+        "packSize": "4 x 200ml Bottle",
+        "price": 9,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fever-tree-clementine-tonic-water",
+    "name": "Fever-Tree Clementine Tonic Water",
+    "price": 9,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "cocktail-mixers",
+    "subcategory": "cocktail-mixers",
+    "brand": "Fever-Tree",
+    "countryOfOrigin": "United Kingdom",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "4 x 200ml",
+    "packSize": "4 x 200ml Bottle",
+    "primaryProductType": "Cocktail Mixer",
+    "flavourProfile": [
+      "Clementine",
+      "Citrus"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Cocktail Mixer",
+      "Fever-Tree",
+      "Citrus"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "cocktail-mixers"
+    ],
+    "seoUrl": "/mixers-snacks/cocktail-mixers/fever-tree-clementine-tonic-water",
+    "description": "Sicilian clementine oils blended into a light tonic base for a fruity, aromatic twist on the classic G&T.",
+    "shortDescription": "Sicilian clementine oils in a light, fruity tonic.",
+    "searchKeywords": "fever tree clementine tonic water cocktail mixer australia 200ml 4 pack",
+    "badge": "Premium Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fever-tree-clementine-tonic-water-4x200ml-bottle",
+        "sku": "MIXSNK-014-4X200ML",
+        "unitSize": "4 x 200ml",
+        "container": "Bottle",
+        "packSize": "4 x 200ml Bottle",
+        "price": 9,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "fever-tree-elderflower-tonic-water",
+    "name": "Fever-Tree Elderflower Tonic Water",
+    "price": 9,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "cocktail-mixers",
+    "subcategory": "cocktail-mixers",
+    "brand": "Fever-Tree",
+    "countryOfOrigin": "United Kingdom",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "4 x 200ml",
+    "packSize": "4 x 200ml Bottle",
+    "primaryProductType": "Cocktail Mixer",
+    "flavourProfile": [
+      "Elderflower",
+      "Floral"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Cocktail Mixer",
+      "Fever-Tree",
+      "Floral"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "cocktail-mixers"
+    ],
+    "seoUrl": "/mixers-snacks/cocktail-mixers/fever-tree-elderflower-tonic-water",
+    "description": "Hand-picked elderflowers blended into a delicate, floral tonic water.",
+    "shortDescription": "Hand-picked elderflowers in a delicate, floral tonic.",
+    "searchKeywords": "fever tree elderflower tonic water cocktail mixer australia 200ml 4 pack",
+    "badge": "Premium Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "fever-tree-elderflower-tonic-water-4x200ml-bottle",
+        "sku": "MIXSNK-015-4X200ML",
+        "unitSize": "4 x 200ml",
+        "container": "Bottle",
+        "packSize": "4 x 200ml Bottle",
+        "price": 9,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "double-dutch-indian-tonic-water-4pack",
+    "name": "Double Dutch Indian Tonic Water 4 Pack",
+    "price": 9,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "cocktail-mixers",
+    "subcategory": "cocktail-mixers",
+    "brand": "Double Dutch",
+    "countryOfOrigin": "United Kingdom",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "4 x 200ml",
+    "packSize": "4 x 200ml Bottle",
+    "primaryProductType": "Cocktail Mixer",
+    "flavourProfile": [
+      "Quinine",
+      "Citrus"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Cocktail Mixer",
+      "Double Dutch",
+      "Premium"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "cocktail-mixers"
+    ],
+    "seoUrl": "/mixers-snacks/cocktail-mixers/double-dutch-indian-tonic-water-4pack",
+    "description": "A premium, botanically distilled Indian tonic water from Double Dutch, in a convenient 4 pack.",
+    "shortDescription": "A premium, botanically distilled Indian tonic, 4 pack.",
+    "searchKeywords": "double dutch indian tonic water 4 pack cocktail mixer australia 200ml",
+    "badge": "Premium Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "double-dutch-indian-tonic-water-4pack-4x200ml-bottle",
+        "sku": "MIXSNK-016-4X200ML",
+        "unitSize": "4 x 200ml",
+        "container": "Bottle",
+        "packSize": "4 x 200ml Bottle",
+        "price": 9,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "double-dutch-slimline-tonic-water",
+    "name": "Double Dutch Slimline Tonic Water",
+    "price": 9,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "cocktail-mixers",
+    "subcategory": "cocktail-mixers",
+    "brand": "Double Dutch",
+    "countryOfOrigin": "United Kingdom",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "4 x 200ml",
+    "packSize": "4 x 200ml Bottle",
+    "primaryProductType": "Cocktail Mixer",
+    "flavourProfile": [
+      "Quinine",
+      "Light"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported",
+      "Lower Sugar"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled as a mixer",
+    "controlledTags": [
+      "Mixer",
+      "Cocktail Mixer",
+      "Double Dutch",
+      "Light"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "cocktail-mixers"
+    ],
+    "seoUrl": "/mixers-snacks/cocktail-mixers/double-dutch-slimline-tonic-water",
+    "description": "A lighter, lower-sugar botanically distilled tonic water from Double Dutch.",
+    "shortDescription": "A lighter, lower-sugar botanically distilled tonic.",
+    "searchKeywords": "double dutch slimline tonic water low sugar cocktail mixer australia 200ml 4 pack",
+    "badge": "Lower Sugar",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "double-dutch-slimline-tonic-water-4x200ml-bottle",
+        "sku": "MIXSNK-017-4X200ML",
+        "unitSize": "4 x 200ml",
+        "container": "Bottle",
+        "packSize": "4 x 200ml Bottle",
+        "price": 9,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "berri-low-acid-orange-juice",
+    "name": "Berri Low Acid Orange Juice",
+    "price": 5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "juices-syrups",
+    "subcategory": "juices-syrups",
+    "brand": "Berri",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "1L",
+    "packSize": "1L Bottle",
+    "primaryProductType": "Juice",
+    "flavourProfile": [
+      "Orange"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Australian Made",
+      "Pulp Free"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled or as a mixer",
+    "controlledTags": [
+      "Juice",
+      "Berri",
+      "Orange",
+      "Australian"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "juices-syrups"
+    ],
+    "seoUrl": "/mixers-snacks/juices-syrups/berri-low-acid-orange-juice",
+    "description": "Australian-grown, pulp-free orange juice with no added sugar, gentler on the stomach.",
+    "shortDescription": "Australian-grown, pulp-free, low acid orange juice.",
+    "searchKeywords": "berri low acid orange juice australia 1l bottle",
+    "badge": "Australian Grown",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "berri-low-acid-orange-juice-1l-bottle",
+        "sku": "MIXSNK-018-1L",
+        "unitSize": "1L",
+        "container": "Bottle",
+        "packSize": "1L Bottle",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "monin-pure-sugar-cane-syrup",
+    "name": "Monin Pure Sugar Cane Syrup",
+    "price": 15,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "juices-syrups",
+    "subcategory": "juices-syrups",
+    "brand": "Monin",
+    "countryOfOrigin": "France",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cocktail Syrup",
+    "flavourProfile": [
+      "Sugar Cane"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Use to sweeten cocktails and coffee",
+    "controlledTags": [
+      "Syrup",
+      "Monin",
+      "Cocktail Syrup"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "juices-syrups"
+    ],
+    "seoUrl": "/mixers-snacks/juices-syrups/monin-pure-sugar-cane-syrup",
+    "description": "A pure sugar cane syrup from Monin, the essential sweetener base for cocktails and coffee.",
+    "shortDescription": "The essential pure sugar cane syrup for cocktails and coffee.",
+    "searchKeywords": "monin pure sugar cane syrup cocktail mixer australia 700ml",
+    "badge": "Bartender Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "monin-pure-sugar-cane-syrup-700ml-bottle",
+        "sku": "MIXSNK-019-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 15,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "monin-vanilla-syrup",
+    "name": "Monin Vanilla Syrup",
+    "price": 15,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "juices-syrups",
+    "subcategory": "juices-syrups",
+    "brand": "Monin",
+    "countryOfOrigin": "France",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cocktail Syrup",
+    "flavourProfile": [
+      "Vanilla"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Use to flavour cocktails and coffee",
+    "controlledTags": [
+      "Syrup",
+      "Monin",
+      "Cocktail Syrup",
+      "Vanilla"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "juices-syrups"
+    ],
+    "seoUrl": "/mixers-snacks/juices-syrups/monin-vanilla-syrup",
+    "description": "Rich, smooth Monin Vanilla Syrup for cocktails, coffee and desserts.",
+    "shortDescription": "Rich, smooth vanilla syrup for cocktails and coffee.",
+    "searchKeywords": "monin vanilla syrup cocktail mixer australia 700ml",
+    "badge": "Bartender Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "monin-vanilla-syrup-700ml-bottle",
+        "sku": "MIXSNK-020-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 15,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "monin-caramel-syrup",
+    "name": "Monin Caramel Syrup",
+    "price": 15,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "juices-syrups",
+    "subcategory": "juices-syrups",
+    "brand": "Monin",
+    "countryOfOrigin": "France",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cocktail Syrup",
+    "flavourProfile": [
+      "Caramel"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Use to flavour cocktails and coffee",
+    "controlledTags": [
+      "Syrup",
+      "Monin",
+      "Cocktail Syrup",
+      "Caramel"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "juices-syrups"
+    ],
+    "seoUrl": "/mixers-snacks/juices-syrups/monin-caramel-syrup",
+    "description": "Buttery, rich Monin Caramel Syrup for cocktails, coffee and desserts.",
+    "shortDescription": "Buttery, rich caramel syrup for cocktails and coffee.",
+    "searchKeywords": "monin caramel syrup cocktail mixer australia 700ml",
+    "badge": "Bartender Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "monin-caramel-syrup-700ml-bottle",
+        "sku": "MIXSNK-021-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 15,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "monin-hazelnut-syrup",
+    "name": "Monin Hazelnut Syrup",
+    "price": 15,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "juices-syrups",
+    "subcategory": "juices-syrups",
+    "brand": "Monin",
+    "countryOfOrigin": "France",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cocktail Syrup",
+    "flavourProfile": [
+      "Hazelnut"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Use to flavour cocktails and coffee",
+    "controlledTags": [
+      "Syrup",
+      "Monin",
+      "Cocktail Syrup",
+      "Hazelnut"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "juices-syrups"
+    ],
+    "seoUrl": "/mixers-snacks/juices-syrups/monin-hazelnut-syrup",
+    "description": "Nutty, aromatic Monin Hazelnut Syrup for cocktails, coffee and desserts.",
+    "shortDescription": "Nutty, aromatic hazelnut syrup for cocktails and coffee.",
+    "searchKeywords": "monin hazelnut syrup cocktail mixer australia 700ml",
+    "badge": "Bartender Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "monin-hazelnut-syrup-700ml-bottle",
+        "sku": "MIXSNK-022-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 15,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "monin-raspberry-syrup",
+    "name": "Monin Raspberry Syrup",
+    "price": 15,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "juices-syrups",
+    "subcategory": "juices-syrups",
+    "brand": "Monin",
+    "countryOfOrigin": "France",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Cocktail Syrup",
+    "flavourProfile": [
+      "Raspberry"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Use to flavour cocktails and coffee",
+    "controlledTags": [
+      "Syrup",
+      "Monin",
+      "Cocktail Syrup",
+      "Raspberry"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "juices-syrups"
+    ],
+    "seoUrl": "/mixers-snacks/juices-syrups/monin-raspberry-syrup",
+    "description": "Bright, fruity Monin Raspberry Syrup for cocktails, coffee and desserts.",
+    "shortDescription": "Bright, fruity raspberry syrup for cocktails and coffee.",
+    "searchKeywords": "monin raspberry syrup cocktail mixer australia 700ml",
+    "badge": "Bartender Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "monin-raspberry-syrup-700ml-bottle",
+        "sku": "MIXSNK-023-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 15,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "smiths-thinly-cut-original",
+    "name": "Smith's Thinly Cut Original",
+    "price": 4,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "chips-party-snacks",
+    "subcategory": "chips-party-snacks",
+    "brand": "Smith's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Packet",
+    "bottleOrCanSize": "175g",
+    "packSize": "175g Packet",
+    "primaryProductType": "Potato Chips",
+    "flavourProfile": [
+      "Original",
+      "Salted"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve as a party snack",
+    "controlledTags": [
+      "Snack",
+      "Chips",
+      "Smith's",
+      "Australian"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "chips-party-snacks"
+    ],
+    "seoUrl": "/mixers-snacks/chips-party-snacks/smiths-thinly-cut-original",
+    "description": "Smith's Thinly Cut Original potato chips, thin, crunchy and lightly salted.",
+    "shortDescription": "Thin, crunchy, lightly salted potato chips.",
+    "searchKeywords": "smiths thinly cut original chips party snack australia 175g packet",
+    "badge": "Aussie Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "smiths-thinly-cut-original-175g-packet",
+        "sku": "MIXSNK-024-175G",
+        "unitSize": "175g",
+        "container": "Packet",
+        "packSize": "175g Packet",
+        "price": 4,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "smiths-thinly-cut-salt-vinegar",
+    "name": "Smith's Thinly Cut Salt & Vinegar",
+    "price": 4,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "chips-party-snacks",
+    "subcategory": "chips-party-snacks",
+    "brand": "Smith's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Packet",
+    "bottleOrCanSize": "175g",
+    "packSize": "175g Packet",
+    "primaryProductType": "Potato Chips",
+    "flavourProfile": [
+      "Salt",
+      "Vinegar"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve as a party snack",
+    "controlledTags": [
+      "Snack",
+      "Chips",
+      "Smith's",
+      "Australian"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "chips-party-snacks"
+    ],
+    "seoUrl": "/mixers-snacks/chips-party-snacks/smiths-thinly-cut-salt-vinegar",
+    "description": "Smith's Thinly Cut Salt & Vinegar potato chips, tangy and crunchy.",
+    "shortDescription": "Tangy, crunchy salt and vinegar potato chips.",
+    "searchKeywords": "smiths thinly cut salt vinegar chips party snack australia 175g packet",
+    "badge": "Aussie Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "smiths-thinly-cut-salt-vinegar-175g-packet",
+        "sku": "MIXSNK-025-175G",
+        "unitSize": "175g",
+        "container": "Packet",
+        "packSize": "175g Packet",
+        "price": 4,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "smiths-thinly-cut-sour-cream-onion",
+    "name": "Smith's Thinly Cut Sour Cream & Onion",
+    "price": 4,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "chips-party-snacks",
+    "subcategory": "chips-party-snacks",
+    "brand": "Smith's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Packet",
+    "bottleOrCanSize": "175g",
+    "packSize": "175g Packet",
+    "primaryProductType": "Potato Chips",
+    "flavourProfile": [
+      "Sour Cream",
+      "Onion"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve as a party snack",
+    "controlledTags": [
+      "Snack",
+      "Chips",
+      "Smith's",
+      "Australian"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "chips-party-snacks"
+    ],
+    "seoUrl": "/mixers-snacks/chips-party-snacks/smiths-thinly-cut-sour-cream-onion",
+    "description": "Smith's Thinly Cut Sour Cream & Onion potato chips, creamy and savoury.",
+    "shortDescription": "Creamy, savoury sour cream and onion potato chips.",
+    "searchKeywords": "smiths thinly cut sour cream onion chips party snack australia 175g packet",
+    "badge": "Aussie Classic",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "smiths-thinly-cut-sour-cream-onion-175g-packet",
+        "sku": "MIXSNK-026-175G",
+        "unitSize": "175g",
+        "container": "Packet",
+        "packSize": "175g Packet",
+        "price": 4,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kettle-sea-salt-chips",
+    "name": "Kettle Sea Salt Chips",
+    "price": 4.5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "chips-party-snacks",
+    "subcategory": "chips-party-snacks",
+    "brand": "Kettle",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Packet",
+    "bottleOrCanSize": "165g",
+    "packSize": "165g Packet",
+    "primaryProductType": "Potato Chips",
+    "flavourProfile": [
+      "Sea Salt"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve as a party snack",
+    "controlledTags": [
+      "Snack",
+      "Chips",
+      "Kettle",
+      "Australian"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "chips-party-snacks"
+    ],
+    "seoUrl": "/mixers-snacks/chips-party-snacks/kettle-sea-salt-chips",
+    "description": "Kettle Sea Salt Chips, kettle-cooked in small batches with a hearty crunch and simple sea salt seasoning.",
+    "shortDescription": "Kettle-cooked chips with a hearty crunch and sea salt.",
+    "searchKeywords": "kettle sea salt chips party snack australia 165g packet",
+    "badge": "Kettle Cooked",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kettle-sea-salt-chips-165g-packet",
+        "sku": "MIXSNK-027-165G",
+        "unitSize": "165g",
+        "container": "Packet",
+        "packSize": "165g Packet",
+        "price": 4.5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "kettle-sour-cream-chives-chips",
+    "name": "Kettle Sour Cream & Chives Chips",
+    "price": 4.5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "chips-party-snacks",
+    "subcategory": "chips-party-snacks",
+    "brand": "Kettle",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Packet",
+    "bottleOrCanSize": "165g",
+    "packSize": "165g Packet",
+    "primaryProductType": "Potato Chips",
+    "flavourProfile": [
+      "Sour Cream",
+      "Chives"
+    ],
+    "dietary": [
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve as a party snack",
+    "controlledTags": [
+      "Snack",
+      "Chips",
+      "Kettle",
+      "Australian"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "chips-party-snacks"
+    ],
+    "seoUrl": "/mixers-snacks/chips-party-snacks/kettle-sour-cream-chives-chips",
+    "description": "Kettle Ridge Cut Sour Cream & Chives Chips, kettle-cooked with a creamy, herby seasoning.",
+    "shortDescription": "Kettle-cooked chips with creamy sour cream and chives.",
+    "searchKeywords": "kettle sour cream chives chips party snack australia 165g packet",
+    "badge": "Kettle Cooked",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kettle-sour-cream-chives-chips-165g-packet",
+        "sku": "MIXSNK-028-165G",
+        "unitSize": "165g",
+        "container": "Packet",
+        "packSize": "165g Packet",
+        "price": 4.5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "doritos-original",
+    "name": "Doritos Original Corn Chips",
+    "price": 4.5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "chips-party-snacks",
+    "subcategory": "chips-party-snacks",
+    "brand": "Doritos",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Packet",
+    "bottleOrCanSize": "170g",
+    "packSize": "170g Packet",
+    "primaryProductType": "Corn Chips",
+    "flavourProfile": [
+      "Original",
+      "Salted"
+    ],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Serve as a party snack",
+    "controlledTags": [
+      "Snack",
+      "Corn Chips",
+      "Doritos"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "chips-party-snacks"
+    ],
+    "seoUrl": "/mixers-snacks/chips-party-snacks/doritos-original",
+    "description": "Doritos Original Corn Chips, bold and crunchy triangle corn chips.",
+    "shortDescription": "Bold and crunchy original triangle corn chips.",
+    "searchKeywords": "doritos original corn chips party snack australia 170g packet",
+    "badge": "Party Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "doritos-original-170g-packet",
+        "sku": "MIXSNK-029-170G",
+        "unitSize": "170g",
+        "container": "Packet",
+        "packSize": "170g Packet",
+        "price": 4.5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "doritos-nacho-cheese",
+    "name": "Doritos Nacho Cheese Corn Chips",
+    "price": 4.5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "chips-party-snacks",
+    "subcategory": "chips-party-snacks",
+    "brand": "Doritos",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Packet",
+    "bottleOrCanSize": "170g",
+    "packSize": "170g Packet",
+    "primaryProductType": "Corn Chips",
+    "flavourProfile": [
+      "Nacho Cheese"
+    ],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Serve as a party snack",
+    "controlledTags": [
+      "Snack",
+      "Corn Chips",
+      "Doritos"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "chips-party-snacks"
+    ],
+    "seoUrl": "/mixers-snacks/chips-party-snacks/doritos-nacho-cheese",
+    "description": "Doritos Nacho Cheese Corn Chips, bold cheesy flavour on a crunchy triangle corn chip.",
+    "shortDescription": "Bold, cheesy nacho-flavoured triangle corn chips.",
+    "searchKeywords": "doritos nacho cheese corn chips party snack australia 170g packet",
+    "badge": "Party Favourite",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "doritos-nacho-cheese-170g-packet",
+        "sku": "MIXSNK-030-170G",
+        "unitSize": "170g",
+        "container": "Packet",
+        "packSize": "170g Packet",
+        "price": 4.5,
+        "stockLevel": 50,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stainless-steel-cocktail-shaker",
+    "name": "Stainless Steel Cocktail Shaker",
+    "price": 25,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Each",
+    "bottleOrCanSize": "Standard",
+    "packSize": "Standard Each",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to shake and mix cocktails",
+    "controlledTags": [
+      "Bar Accessory",
+      "Cocktail Shaker",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/stainless-steel-cocktail-shaker",
+    "description": "A durable stainless steel cocktail shaker for mixing and chilling cocktails at home or behind the bar.",
+    "shortDescription": "A durable stainless steel shaker for mixing cocktails.",
+    "searchKeywords": "stainless steel cocktail shaker bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stainless-steel-cocktail-shaker-standard-each",
+        "sku": "MIXSNK-031-STANDARD",
+        "unitSize": "Standard",
+        "container": "Each",
+        "packSize": "Standard Each",
+        "price": 25,
+        "stockLevel": 50,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stainless-steel-jigger",
+    "name": "Stainless Steel Jigger",
+    "price": 10,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Each",
+    "bottleOrCanSize": "Standard",
+    "packSize": "Standard Each",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to measure spirits accurately",
+    "controlledTags": [
+      "Bar Accessory",
+      "Jigger",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/stainless-steel-jigger",
+    "description": "A dual-sided stainless steel jigger for accurate cocktail measuring.",
+    "shortDescription": "A dual-sided jigger for accurate cocktail measuring.",
+    "searchKeywords": "stainless steel jigger bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stainless-steel-jigger-standard-each",
+        "sku": "MIXSNK-032-STANDARD",
+        "unitSize": "Standard",
+        "container": "Each",
+        "packSize": "Standard Each",
+        "price": 10,
+        "stockLevel": 50,
+        "weight": "0.1kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stainless-steel-bar-spoon",
+    "name": "Stainless Steel Bar Spoon",
+    "price": 10,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Each",
+    "bottleOrCanSize": "Standard",
+    "packSize": "Standard Each",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to stir cocktails",
+    "controlledTags": [
+      "Bar Accessory",
+      "Bar Spoon",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/stainless-steel-bar-spoon",
+    "description": "A long-handled stainless steel bar spoon with a twisted stem for smooth layering and stirring.",
+    "shortDescription": "A long-handled spoon for smooth stirring and layering.",
+    "searchKeywords": "stainless steel bar spoon bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stainless-steel-bar-spoon-standard-each",
+        "sku": "MIXSNK-033-STANDARD",
+        "unitSize": "Standard",
+        "container": "Each",
+        "packSize": "Standard Each",
+        "price": 10,
+        "stockLevel": 50,
+        "weight": "0.1kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stainless-steel-muddler",
+    "name": "Stainless Steel Muddler",
+    "price": 10,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Each",
+    "bottleOrCanSize": "Standard",
+    "packSize": "Standard Each",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to muddle fruit and herbs",
+    "controlledTags": [
+      "Bar Accessory",
+      "Muddler",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/stainless-steel-muddler",
+    "description": "A stainless steel muddler for crushing fruit, herbs and sugar in cocktails.",
+    "shortDescription": "A muddler for crushing fruit, herbs and sugar.",
+    "searchKeywords": "stainless steel muddler bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stainless-steel-muddler-standard-each",
+        "sku": "MIXSNK-034-STANDARD",
+        "unitSize": "Standard",
+        "container": "Each",
+        "packSize": "Standard Each",
+        "price": 10,
+        "stockLevel": 50,
+        "weight": "0.15kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stainless-steel-strainer",
+    "name": "Stainless Steel Strainer",
+    "price": 10,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Each",
+    "bottleOrCanSize": "Standard",
+    "packSize": "Standard Each",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to strain cocktails when pouring",
+    "controlledTags": [
+      "Bar Accessory",
+      "Strainer",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/stainless-steel-strainer",
+    "description": "A stainless steel Hawthorne-style strainer for straining ice and pulp from shaken cocktails.",
+    "shortDescription": "A Hawthorne-style strainer for shaken cocktails.",
+    "searchKeywords": "stainless steel strainer bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stainless-steel-strainer-standard-each",
+        "sku": "MIXSNK-035-STANDARD",
+        "unitSize": "Standard",
+        "container": "Each",
+        "packSize": "Standard Each",
+        "price": 10,
+        "stockLevel": 50,
+        "weight": "0.1kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stainless-steel-bottle-opener",
+    "name": "Stainless Steel Bottle Opener",
+    "price": 5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Each",
+    "bottleOrCanSize": "Standard",
+    "packSize": "Standard Each",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to open capped bottles",
+    "controlledTags": [
+      "Bar Accessory",
+      "Bottle Opener",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/stainless-steel-bottle-opener",
+    "description": "A compact stainless steel bottle opener for beer, cider and mixer bottles.",
+    "shortDescription": "A compact bottle opener for beer, cider and mixers.",
+    "searchKeywords": "stainless steel bottle opener bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stainless-steel-bottle-opener-standard-each",
+        "sku": "MIXSNK-036-STANDARD",
+        "unitSize": "Standard",
+        "container": "Each",
+        "packSize": "Standard Each",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.08kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stainless-steel-corkscrew",
+    "name": "Stainless Steel Corkscrew",
+    "price": 10,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Each",
+    "bottleOrCanSize": "Standard",
+    "packSize": "Standard Each",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to open wine bottles",
+    "controlledTags": [
+      "Bar Accessory",
+      "Corkscrew",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/stainless-steel-corkscrew",
+    "description": "A waiter's-style stainless steel corkscrew with a folding lever arm and built-in bottle opener.",
+    "shortDescription": "A waiter's-style corkscrew with a folding lever arm.",
+    "searchKeywords": "stainless steel corkscrew bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stainless-steel-corkscrew-standard-each",
+        "sku": "MIXSNK-037-STANDARD",
+        "unitSize": "Standard",
+        "container": "Each",
+        "packSize": "Standard Each",
+        "price": 10,
+        "stockLevel": 50,
+        "weight": "0.1kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stainless-steel-wine-pourer",
+    "name": "Stainless Steel Wine Pourer",
+    "price": 10,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Each",
+    "bottleOrCanSize": "Standard",
+    "packSize": "Standard Each",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to pour wine and spirits cleanly",
+    "controlledTags": [
+      "Bar Accessory",
+      "Wine Pourer",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/stainless-steel-wine-pourer",
+    "description": "A stainless steel wine pourer that fits standard bottle necks for drip-free pouring.",
+    "shortDescription": "A drip-free wine pourer that fits standard bottle necks.",
+    "searchKeywords": "stainless steel wine pourer bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stainless-steel-wine-pourer-standard-each",
+        "sku": "MIXSNK-038-STANDARD",
+        "unitSize": "Standard",
+        "container": "Each",
+        "packSize": "Standard Each",
+        "price": 10,
+        "stockLevel": 50,
+        "weight": "0.05kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "stainless-steel-cocktail-stirrer",
+    "name": "Stainless Steel Cocktail Stirrer",
+    "price": 5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Each",
+    "bottleOrCanSize": "Standard",
+    "packSize": "Standard Each",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to stir individual drinks",
+    "controlledTags": [
+      "Bar Accessory",
+      "Cocktail Stirrer",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/stainless-steel-cocktail-stirrer",
+    "description": "A single stainless steel cocktail stirrer for stirring individual drinks at the bar or table.",
+    "shortDescription": "A stirrer for individual drinks at the bar or table.",
+    "searchKeywords": "stainless steel cocktail stirrer bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "stainless-steel-cocktail-stirrer-standard-each",
+        "sku": "MIXSNK-039-STANDARD",
+        "unitSize": "Standard",
+        "container": "Each",
+        "packSize": "Standard Each",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.03kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "cocktail-picks-pack-of-50",
+    "name": "Cocktail Picks (Pack of 50)",
+    "price": 5,
+    "primaryCategory": "mixers-snacks",
+    "category": "mixers-snacks",
+    "primarySubcategory": "bar-accessories",
+    "subcategory": "bar-accessories",
+    "brand": "Bar Essentials",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Pack",
+    "bottleOrCanSize": "Pack of 50",
+    "packSize": "Pack of 50 Pack",
+    "primaryProductType": "Bar Accessory",
+    "flavourProfile": [],
+    "dietary": [],
+    "multipack": false,
+    "servingSuggestion": "Use to garnish cocktails",
+    "controlledTags": [
+      "Bar Accessory",
+      "Cocktail Picks",
+      "Barware"
+    ],
+    "collections": [
+      "mixers-snacks",
+      "bar-accessories"
+    ],
+    "seoUrl": "/mixers-snacks/bar-accessories/cocktail-picks-pack-of-50",
+    "description": "A pack of 50 cocktail picks for garnishing olives, cherries and citrus twists.",
+    "shortDescription": "A pack of 50 picks for garnishing cocktails.",
+    "searchKeywords": "cocktail picks pack of 50 bar accessory australia",
+    "badge": "Bar Essential",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "cocktail-picks-pack-of-50-packof50-pack",
+        "sku": "MIXSNK-040-PACKOF50",
+        "unitSize": "Pack of 50",
+        "container": "Pack",
+        "packSize": "Pack of 50 Pack",
+        "price": 5,
+        "stockLevel": 50,
+        "weight": "0.05kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
