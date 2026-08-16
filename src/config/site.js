@@ -84160,6 +84160,874 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "giesen-0-chardonnay",
+    "name": "Giesen 0% Chardonnay",
+    "price": 29.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "non-alcoholic-wine",
+    "subcategory": "non-alcoholic-wine",
+    "brand": "Giesen",
+    "countryOfOrigin": "New Zealand",
+    "regionOrState": "Marlborough",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Non-Alcoholic Wine",
+    "flavourProfile": [
+      "Stone Fruit",
+      "Citrus"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Non-Alcoholic",
+      "Wine",
+      "Giesen",
+      "New Zealand"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "non-alcoholic-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/non-alcoholic-wine/giesen-0-chardonnay",
+    "description": "Alcohol removed via gentle spinning cone technology, Giesen 0% Chardonnay retains the stone fruit and citrus character of the original wine.",
+    "shortDescription": "A stone fruit and citrus Chardonnay with the alcohol gently removed.",
+    "searchKeywords": "giesen 0 chardonnay non alcoholic wine new zealand australia 750ml",
+    "badge": "Alcohol Removed",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "giesen-0-chardonnay-750ml-bottle",
+        "sku": "NOLOW2-001-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 29.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "giesen-0-riesling",
+    "name": "Giesen 0% Riesling",
+    "price": 29.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "non-alcoholic-wine",
+    "subcategory": "non-alcoholic-wine",
+    "brand": "Giesen",
+    "countryOfOrigin": "New Zealand",
+    "regionOrState": "Marlborough",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Non-Alcoholic Wine",
+    "flavourProfile": [
+      "Citrus",
+      "Floral"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Non-Alcoholic",
+      "Wine",
+      "Giesen",
+      "New Zealand"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "non-alcoholic-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/non-alcoholic-wine/giesen-0-riesling",
+    "description": "A crisp, aromatic 0% Riesling with citrus and floral notes, alcohol gently removed to preserve the wine's character.",
+    "shortDescription": "A crisp, aromatic Riesling with the alcohol gently removed.",
+    "searchKeywords": "giesen 0 riesling non alcoholic wine new zealand australia 750ml",
+    "badge": "Alcohol Removed",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "giesen-0-riesling-750ml-bottle",
+        "sku": "NOLOW2-002-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 29.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "giesen-0-sparkling",
+    "name": "Giesen 0% Sparkling",
+    "price": 29.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "non-alcoholic-wine",
+    "subcategory": "non-alcoholic-wine",
+    "brand": "Giesen",
+    "countryOfOrigin": "New Zealand",
+    "regionOrState": "Marlborough",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Non-Alcoholic Wine",
+    "flavourProfile": [
+      "Apple",
+      "Citrus"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Non-Alcoholic",
+      "Wine",
+      "Giesen",
+      "New Zealand",
+      "Sparkling"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "non-alcoholic-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/non-alcoholic-wine/giesen-0-sparkling",
+    "description": "Giesen 0% Sparkling Brut delivers fine bubbles and crisp apple and citrus character with the alcohol gently removed.",
+    "shortDescription": "Fine bubbles and crisp character with the alcohol gently removed.",
+    "searchKeywords": "giesen 0 sparkling brut non alcoholic wine new zealand australia 750ml",
+    "badge": "Alcohol Removed",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "giesen-0-sparkling-750ml-bottle",
+        "sku": "NOLOW2-003-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 29.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "freixenet-alcohol-free-sparkling-white",
+    "name": "Freixenet Alcohol-Free Sparkling White",
+    "price": 29.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "non-alcoholic-wine",
+    "subcategory": "non-alcoholic-wine",
+    "brand": "Freixenet",
+    "countryOfOrigin": "Spain",
+    "regionOrState": "Catalonia",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Non-Alcoholic Wine",
+    "flavourProfile": [
+      "Citrus",
+      "Tropical"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Imported"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Non-Alcoholic",
+      "Wine",
+      "Freixenet",
+      "Spain",
+      "Sparkling"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "non-alcoholic-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/non-alcoholic-wine/freixenet-alcohol-free-sparkling-white",
+    "description": "Created for quality-focused non-alcoholic sparkling wine drinkers, Freixenet Alcohol-Free Sparkling White delivers tropical aromas, citrus hints and balanced bubbles.",
+    "shortDescription": "Tropical aromas, citrus hints and balanced bubbles, alcohol-free.",
+    "searchKeywords": "freixenet alcohol free sparkling white non alcoholic spain australia 750ml",
+    "badge": "Spanish Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "freixenet-alcohol-free-sparkling-white-750ml-bottle",
+        "sku": "NOLOW2-004-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 29.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "lyres-highland-malt",
+    "name": "Lyre's Highland Malt",
+    "price": 49.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "non-alcoholic-spirits",
+    "subcategory": "non-alcoholic-spirits",
+    "brand": "Lyre's",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "primaryProductType": "Non-Alcoholic Spirit",
+    "flavourProfile": [
+      "Honey",
+      "Stone Fruit",
+      "Almond",
+      "Charred Oak"
+    ],
+    "dietary": [
+      "Non-Alcoholic",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Neat, on ice, or in a whisky highball",
+    "controlledTags": [
+      "Non-Alcoholic",
+      "Spirits",
+      "Lyre's",
+      "Whisky-Style"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "non-alcoholic-spirits"
+    ],
+    "seoUrl": "/no-low-alcohol/non-alcoholic-spirits/lyres-highland-malt",
+    "description": "Australia's first non-alcoholic whisky-style spirit, Lyre's Highland Malt captures the essence of a blended malt whisky with soft earthiness, stone fruit, almond and lightly charred oak.",
+    "shortDescription": "Australia's first non-alcoholic whisky-style spirit.",
+    "searchKeywords": "lyres highland malt non alcoholic whisky australia 700ml",
+    "badge": "Australia's First Non-Alc Whisky",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "lyres-highland-malt-700ml-bottle",
+        "sku": "NOLOW2-005-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 49.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "hahn-premium-light",
+    "name": "Hahn Premium Light",
+    "price": 7.5,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "low-alcohol-beer",
+    "subcategory": "low-alcohol-beer",
+    "brand": "Hahn",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "2.4%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Low-Alcohol Beer",
+    "flavourProfile": [
+      "Malt",
+      "Light"
+    ],
+    "dietary": [
+      "Low Alcohol"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Low Alcohol",
+      "Beer",
+      "Hahn"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "low-alcohol-beer"
+    ],
+    "seoUrl": "/no-low-alcohol/low-alcohol-beer/hahn-premium-light",
+    "description": "A full-flavoured light beer from Hahn, brewed to deliver premium taste at a lower 2.4% ABV.",
+    "shortDescription": "A full-flavoured light beer at a lower 2.4% ABV.",
+    "searchKeywords": "hahn premium light low alcohol beer australia 375ml can",
+    "badge": "Low Alcohol",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hahn-premium-light-375ml-can",
+        "sku": "NOLOW2-006-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "pure-blonde-ultra-low-carb-lager",
+    "name": "Pure Blonde Ultra Low Carb Lager",
+    "price": 7,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "low-alcohol-beer",
+    "subcategory": "low-alcohol-beer",
+    "brand": "Pure Blonde",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "abv": "3.5%",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "primaryProductType": "Low-Alcohol Beer",
+    "flavourProfile": [
+      "Crisp",
+      "Clean"
+    ],
+    "dietary": [
+      "Low Alcohol",
+      "Low Carb"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Low Alcohol",
+      "Beer",
+      "Pure Blonde",
+      "Low Carb"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "low-alcohol-beer"
+    ],
+    "seoUrl": "/no-low-alcohol/low-alcohol-beer/pure-blonde-ultra-low-carb-lager",
+    "description": "A crisp, clean lager brewed with an ultra low carbohydrate profile and a session-friendly 3.5% ABV.",
+    "shortDescription": "A crisp, clean lager with an ultra low carb profile.",
+    "searchKeywords": "pure blonde ultra low carb lager low alcohol beer australia 375ml can",
+    "badge": "Ultra Low Carb",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "pure-blonde-ultra-low-carb-lager-375ml-can",
+        "sku": "NOLOW2-007-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pure-blonde-ultra-low-carb-lager-330ml-bottle",
+        "sku": "NOLOW2-007-330ML",
+        "unitSize": "330ml",
+        "container": "Bottle",
+        "packSize": "330ml Bottle",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "victoria-bitter-low-carb",
+    "name": "Victoria Bitter Low Carb",
+    "price": 7.5,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "low-alcohol-beer",
+    "subcategory": "low-alcohol-beer",
+    "brand": "Victoria Bitter",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Victoria",
+    "abv": "3.5%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Bottle",
+    "primaryProductType": "Low-Alcohol Beer",
+    "flavourProfile": [
+      "Malt",
+      "Bitter"
+    ],
+    "dietary": [
+      "Low Alcohol",
+      "Low Carb"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Low Alcohol",
+      "Beer",
+      "Victoria Bitter",
+      "VB"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "low-alcohol-beer"
+    ],
+    "seoUrl": "/no-low-alcohol/low-alcohol-beer/victoria-bitter-low-carb",
+    "description": "Brewed with the same VB ingredients to deliver VB's balanced, bitter flavour at a lower-carb, session-friendly strength.",
+    "shortDescription": "VB's balanced, bitter flavour at a lower-carb, session strength.",
+    "searchKeywords": "victoria bitter low carb vb low alcohol beer australia 375ml bottle",
+    "badge": "Low Carb",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "victoria-bitter-low-carb-375ml-bottle",
+        "sku": "NOLOW2-008-375ML",
+        "unitSize": "375ml",
+        "container": "Bottle",
+        "packSize": "375ml Bottle",
+        "price": 7.5,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mcguigan-zero-shiraz",
+    "name": "McGuigan Zero Shiraz",
+    "price": 19.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "low-alcohol-wine",
+    "subcategory": "low-alcohol-wine",
+    "brand": "McGuigan",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "South Australia",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Low-Alcohol Wine",
+    "flavourProfile": [
+      "Dark Berry",
+      "Spice"
+    ],
+    "dietary": [
+      "Low Alcohol",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve at room temperature",
+    "controlledTags": [
+      "Low Alcohol",
+      "Wine",
+      "McGuigan",
+      "Shiraz"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "low-alcohol-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/low-alcohol-wine/mcguigan-zero-shiraz",
+    "description": "Australia's number one selling alcohol-free wine, McGuigan Zero Shiraz delivers dark berry and spice character with no more than 0.05% residual alcohol.",
+    "shortDescription": "Australia's number one selling alcohol-free Shiraz.",
+    "searchKeywords": "mcguigan zero shiraz low alcohol wine australia 750ml",
+    "badge": "Australia's #1 Alcohol-Free Wine",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mcguigan-zero-shiraz-750ml-bottle",
+        "sku": "NOLOW2-009-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 19.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mcguigan-zero-chardonnay",
+    "name": "McGuigan Zero Chardonnay",
+    "price": 19.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "low-alcohol-wine",
+    "subcategory": "low-alcohol-wine",
+    "brand": "McGuigan",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "South Australia",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Low-Alcohol Wine",
+    "flavourProfile": [
+      "Stone Fruit",
+      "Oak"
+    ],
+    "dietary": [
+      "Low Alcohol",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Low Alcohol",
+      "Wine",
+      "McGuigan",
+      "Chardonnay"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "low-alcohol-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/low-alcohol-wine/mcguigan-zero-chardonnay",
+    "description": "Part of Australia's number one selling alcohol-free wine range, McGuigan Zero Chardonnay offers stone fruit and gentle oak character.",
+    "shortDescription": "Stone fruit and gentle oak character, alcohol-free.",
+    "searchKeywords": "mcguigan zero chardonnay low alcohol wine australia 750ml",
+    "badge": "Alcohol-Free",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mcguigan-zero-chardonnay-750ml-bottle",
+        "sku": "NOLOW2-010-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 19.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mcguigan-zero-sauvignon-blanc",
+    "name": "McGuigan Zero Sauvignon Blanc",
+    "price": 19.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "low-alcohol-wine",
+    "subcategory": "low-alcohol-wine",
+    "brand": "McGuigan",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "South Australia",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Low-Alcohol Wine",
+    "flavourProfile": [
+      "Citrus",
+      "Tropical"
+    ],
+    "dietary": [
+      "Low Alcohol",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Low Alcohol",
+      "Wine",
+      "McGuigan",
+      "Sauvignon Blanc"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "low-alcohol-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/low-alcohol-wine/mcguigan-zero-sauvignon-blanc",
+    "description": "Part of Australia's number one selling alcohol-free wine range, McGuigan Zero Sauvignon Blanc offers zesty citrus and tropical character.",
+    "shortDescription": "Zesty citrus and tropical character, alcohol-free.",
+    "searchKeywords": "mcguigan zero sauvignon blanc low alcohol wine australia 750ml",
+    "badge": "Alcohol-Free",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mcguigan-zero-sauvignon-blanc-750ml-bottle",
+        "sku": "NOLOW2-011-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 19.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mcguigan-zero-rose",
+    "name": "McGuigan Zero Rosé",
+    "price": 19.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "low-alcohol-wine",
+    "subcategory": "low-alcohol-wine",
+    "brand": "McGuigan",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "South Australia",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Low-Alcohol Wine",
+    "flavourProfile": [
+      "Red Berry",
+      "Dry"
+    ],
+    "dietary": [
+      "Low Alcohol",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Low Alcohol",
+      "Wine",
+      "McGuigan",
+      "Rosé"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "low-alcohol-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/low-alcohol-wine/mcguigan-zero-rose",
+    "description": "Part of Australia's number one selling alcohol-free wine range, McGuigan Zero Dry Rosé offers red berry character with a dry finish.",
+    "shortDescription": "Red berry character with a dry finish, alcohol-free.",
+    "searchKeywords": "mcguigan zero rose low alcohol wine australia 750ml",
+    "badge": "Alcohol-Free",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mcguigan-zero-rose-750ml-bottle",
+        "sku": "NOLOW2-012-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 19.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "mcguigan-zero-sparkling",
+    "name": "McGuigan Zero Sparkling",
+    "price": 19.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "low-alcohol-wine",
+    "subcategory": "low-alcohol-wine",
+    "brand": "McGuigan",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "South Australia",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Low-Alcohol Wine",
+    "flavourProfile": [
+      "Apple",
+      "Citrus"
+    ],
+    "dietary": [
+      "Low Alcohol",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Low Alcohol",
+      "Wine",
+      "McGuigan",
+      "Sparkling"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "low-alcohol-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/low-alcohol-wine/mcguigan-zero-sparkling",
+    "description": "Part of Australia's number one selling alcohol-free wine range, McGuigan Zero Dry Sparkling delivers fine bubbles and crisp apple character.",
+    "shortDescription": "Fine bubbles and crisp apple character, alcohol-free.",
+    "searchKeywords": "mcguigan zero sparkling low alcohol wine australia 750ml",
+    "badge": "Alcohol-Free",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "mcguigan-zero-sparkling-750ml-bottle",
+        "sku": "NOLOW2-013-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 19.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "slug": "banrock-station-zero-alcohol-chardonnay",
+    "name": "Banrock Station Zero Alcohol Chardonnay",
+    "price": 19.99,
+    "primaryCategory": "no-low-alcohol",
+    "category": "no-low-alcohol",
+    "primarySubcategory": "low-alcohol-wine",
+    "subcategory": "low-alcohol-wine",
+    "brand": "Banrock Station",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "South Australia",
+    "abv": "0.0%",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "primaryProductType": "Low-Alcohol Wine",
+    "flavourProfile": [
+      "Stone Fruit",
+      "Citrus"
+    ],
+    "dietary": [
+      "Low Alcohol",
+      "Australian Made"
+    ],
+    "multipack": false,
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Low Alcohol",
+      "Wine",
+      "Banrock Station",
+      "Chardonnay"
+    ],
+    "collections": [
+      "no-low-alcohol",
+      "low-alcohol-wine"
+    ],
+    "seoUrl": "/no-low-alcohol/low-alcohol-wine/banrock-station-zero-alcohol-chardonnay",
+    "description": "From South Australia's Riverland, Banrock Station Zero Alcohol Chardonnay offers stone fruit and citrus character with the alcohol removed.",
+    "shortDescription": "A Riverland Chardonnay with the alcohol removed.",
+    "searchKeywords": "banrock station zero alcohol chardonnay low alcohol wine australia 750ml",
+    "badge": "Riverland, SA",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "banrock-station-zero-alcohol-chardonnay-750ml-bottle",
+        "sku": "NOLOW2-014-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 19.99,
+        "stockLevel": 30,
+        "weight": "0.4kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
