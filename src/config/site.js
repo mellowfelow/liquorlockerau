@@ -88753,6 +88753,1068 @@ export const PRODUCTS = [
       }
     ]
   },
+  {
+    "slug": "balter-cerveza",
+    "name": "Balter Cerveza",
+    "price": 8,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "craft-beer",
+    "subcategory": "craft-beer",
+    "brand": "Balter",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "Queensland",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "dietary": [
+      "Australian Made"
+    ],
+    "servingSuggestion": "Serve chilled with a wedge of lime",
+    "controlledTags": [
+      "Beer",
+      "Craft Beer",
+      "Balter",
+      "Queensland",
+      "Cerveza"
+    ],
+    "collections": [
+      "beer",
+      "craft-beer"
+    ],
+    "seoUrl": "/beer/craft-beer/balter-cerveza",
+    "description": "Balter Cerveza is a crisp, refreshing Mexican-style lager, perfect for easy enjoyment on sunny days.",
+    "shortDescription": "A crisp, refreshing Mexican-style lager from Balter.",
+    "searchKeywords": "balter cerveza lager queensland beer australia 375ml can",
+    "badge": "Gold Coast Craft",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "balter-cerveza-375ml-can",
+        "sku": "GAPFILL-001-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 8,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "balter-cerveza-355ml-bottle",
+        "sku": "GAPFILL-001-355ML",
+        "unitSize": "355ml",
+        "container": "Bottle",
+        "packSize": "355ml Bottle",
+        "price": 8,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "abv": "4.5%",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Lager"
+  },
+  {
+    "slug": "reschs-pilsener",
+    "name": "Reschs Pilsener",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "lager",
+    "subcategory": "lager",
+    "brand": "Reschs",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "New South Wales",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "dietary": [
+      "Australian Made"
+    ],
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Lager",
+      "Reschs",
+      "Pilsner",
+      "New South Wales"
+    ],
+    "collections": [
+      "beer",
+      "lager"
+    ],
+    "seoUrl": "/beer/lager/reschs-pilsener",
+    "description": "A historic NSW pilsner with a crisp, clean malt character and noble hop bitterness.",
+    "shortDescription": "A historic NSW pilsner with crisp malt character.",
+    "searchKeywords": "reschs pilsener pilsner nsw lager beer australia 375ml can",
+    "badge": "NSW Heritage",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "reschs-pilsener-375ml-can",
+        "sku": "GAPFILL-002-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7.5,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "abv": "4.9%",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Pilsner"
+  },
+  {
+    "slug": "pilsner-urquell",
+    "name": "Pilsner Urquell",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "imported-beer",
+    "subcategory": "imported-beer",
+    "brand": "Pilsner Urquell",
+    "countryOfOrigin": "Czech Republic",
+    "regionOrState": "Plzeň",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Imported Beer",
+      "Pilsner Urquell",
+      "Czech Republic"
+    ],
+    "collections": [
+      "beer",
+      "imported-beer"
+    ],
+    "seoUrl": "/beer/imported-beer/pilsner-urquell",
+    "description": "The world's first pale lager, brewed in Plzeň since 1842 with a distinctive golden colour and balanced bitterness.",
+    "shortDescription": "The world's first pale lager, brewed in Plzeň since 1842.",
+    "searchKeywords": "pilsner urquell czech pilsner beer australia 330ml bottle",
+    "badge": "World's First Pale Lager",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "pilsner-urquell-330ml-bottle",
+        "sku": "GAPFILL-003-330ML",
+        "unitSize": "330ml",
+        "container": "Bottle",
+        "packSize": "330ml Bottle",
+        "price": 7.5,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "abv": "4.4%",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Pilsner"
+  },
+  {
+    "slug": "sapporo-premium-beer",
+    "name": "Sapporo Premium Beer",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "imported-beer",
+    "subcategory": "imported-beer",
+    "brand": "Sapporo",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "355ml",
+    "packSize": "355ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Imported Beer",
+      "Sapporo",
+      "Japan"
+    ],
+    "collections": [
+      "beer",
+      "imported-beer"
+    ],
+    "seoUrl": "/beer/imported-beer/sapporo-premium-beer",
+    "description": "A German-style pilsner lager brewed with a single hop variety for refined bitterness and delicate floral aromas.",
+    "shortDescription": "A refined Japanese lager with delicate floral hop aromas.",
+    "searchKeywords": "sapporo premium beer japan lager australia 355ml bottle",
+    "badge": "Award-Winning Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "sapporo-premium-beer-355ml-bottle",
+        "sku": "GAPFILL-004-355ML",
+        "unitSize": "355ml",
+        "container": "Bottle",
+        "packSize": "355ml Bottle",
+        "price": 7.5,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "sapporo-premium-beer-650ml-can",
+        "sku": "GAPFILL-004-650ML",
+        "unitSize": "650ml",
+        "container": "Can",
+        "packSize": "650ml Can",
+        "price": 11,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "abv": "5.0%",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Lager"
+  },
+  {
+    "slug": "singha-lager",
+    "name": "Singha Lager",
+    "price": 7.5,
+    "primaryCategory": "beer",
+    "category": "beer",
+    "primarySubcategory": "imported-beer",
+    "subcategory": "imported-beer",
+    "brand": "Singha",
+    "countryOfOrigin": "Thailand",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Beer",
+      "Imported Beer",
+      "Singha",
+      "Thailand"
+    ],
+    "collections": [
+      "beer",
+      "imported-beer"
+    ],
+    "seoUrl": "/beer/imported-beer/singha-lager",
+    "description": "Thailand's iconic export lager, full-bodied with a distinctive hop character.",
+    "shortDescription": "Thailand's iconic export lager, full-bodied and distinctive.",
+    "searchKeywords": "singha lager thailand beer australia 330ml bottle",
+    "badge": "Thai Import",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "singha-lager-330ml-bottle",
+        "sku": "GAPFILL-005-330ML",
+        "unitSize": "330ml",
+        "container": "Bottle",
+        "packSize": "330ml Bottle",
+        "price": 7.5,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "abv": "5.0%",
+    "primaryProductType": "Beer",
+    "styleOrVariety": "Lager"
+  },
+  {
+    "slug": "aix-rose",
+    "name": "AIX Rosé",
+    "price": 34.99,
+    "primaryCategory": "wine",
+    "category": "wine",
+    "primarySubcategory": "rose",
+    "subcategory": "rose",
+    "brand": "AIX",
+    "countryOfOrigin": "France",
+    "regionOrState": "Provence",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Wine",
+      "Rosé",
+      "AIX",
+      "Provence",
+      "France"
+    ],
+    "collections": [
+      "wine",
+      "rose"
+    ],
+    "seoUrl": "/wine/rose/aix-rose",
+    "description": "A pale, elegant Provence rosé from the AOP Coteaux d'Aix en Provence appellation, with delicate red berry and citrus notes.",
+    "shortDescription": "A pale, elegant Provence rosé with delicate red berry notes.",
+    "searchKeywords": "aix rose provence france wine australia 750ml bottle",
+    "badge": "Provence Icon",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "aix-rose-750ml-bottle",
+        "sku": "GAPFILL-006-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 34.99,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Wine",
+    "styleOrVariety": "Grenache, Cinsault, Syrah",
+    "vintage": ""
+  },
+  {
+    "slug": "prince-hubert-de-polignac-vsop-cognac",
+    "name": "Prince Hubert de Polignac VSOP Cognac",
+    "price": 79.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Prince Hubert de Polignac",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Neat or on the rocks",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Prince Hubert de Polignac",
+      "France",
+      "VSOP"
+    ],
+    "collections": [
+      "spirits",
+      "brandy-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/prince-hubert-de-polignac-vsop-cognac",
+    "description": "A refined VSOP Cognac from the historic Prince Hubert de Polignac house, balanced with dried fruit and oak character.",
+    "shortDescription": "A refined VSOP Cognac with dried fruit and oak character.",
+    "searchKeywords": "prince hubert de polignac vsop cognac france australia 700ml bottle",
+    "badge": "Historic Cognac House",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "prince-hubert-de-polignac-vsop-cognac-700ml-bottle",
+        "sku": "GAPFILL-007-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 79.99,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Cognac",
+    "styleOrVariety": "VSOP Cognac",
+    "ageStatement": ""
+  },
+  {
+    "slug": "prince-hubert-de-polignac-xo-cognac",
+    "name": "Prince Hubert de Polignac XO Cognac",
+    "price": 129.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "brandy-cognac",
+    "subcategory": "brandy-cognac",
+    "brand": "Prince Hubert de Polignac",
+    "countryOfOrigin": "France",
+    "regionOrState": "Cognac",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "dietary": [
+      "Imported",
+      "Premium Pick"
+    ],
+    "servingSuggestion": "Neat",
+    "controlledTags": [
+      "Spirits",
+      "Cognac",
+      "Prince Hubert de Polignac",
+      "France",
+      "XO"
+    ],
+    "collections": [
+      "spirits",
+      "brandy-cognac"
+    ],
+    "seoUrl": "/spirits/brandy-cognac/prince-hubert-de-polignac-xo-cognac",
+    "description": "An extra-aged XO Cognac from Prince Hubert de Polignac, rich with dried fruit, spice and a long, warming finish.",
+    "shortDescription": "An extra-aged XO Cognac, rich with dried fruit and spice.",
+    "searchKeywords": "prince hubert de polignac xo cognac france australia 700ml bottle",
+    "badge": "Extra Aged",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "prince-hubert-de-polignac-xo-cognac-700ml-bottle",
+        "sku": "GAPFILL-008-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 129.99,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Cognac",
+    "styleOrVariety": "XO Cognac",
+    "ageStatement": ""
+  },
+  {
+    "slug": "baileys-chocolate-flavoured-liqueur",
+    "name": "Baileys Chocolate Flavoured Liqueur",
+    "price": 44.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Baileys",
+    "countryOfOrigin": "Ireland",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Serve over ice or in coffee",
+    "controlledTags": [
+      "Spirits",
+      "Liqueurs",
+      "Baileys",
+      "Ireland",
+      "Chocolate"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs"
+    ],
+    "seoUrl": "/spirits/liqueurs/baileys-chocolate-flavoured-liqueur",
+    "description": "Baileys Original Irish Cream blended with rich chocolate flavour for an indulgent, silky liqueur.",
+    "shortDescription": "Baileys Irish Cream blended with rich chocolate flavour.",
+    "searchKeywords": "baileys chocolate flavoured liqueur ireland australia 700ml bottle",
+    "badge": "Indulgent Blend",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "baileys-chocolate-flavoured-liqueur-700ml-bottle",
+        "sku": "GAPFILL-009-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 44.99,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Liqueur",
+    "styleOrVariety": "Irish Cream Liqueur",
+    "ageStatement": ""
+  },
+  {
+    "slug": "campari-negroni-ready-to-drink",
+    "name": "Campari Negroni Ready-to-Drink",
+    "price": 45,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Campari",
+    "countryOfOrigin": "Italy",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "500ml",
+    "packSize": "500ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Serve over ice with an orange twist",
+    "controlledTags": [
+      "Spirits",
+      "Liqueurs",
+      "Campari",
+      "Italy",
+      "Negroni",
+      "RTD"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs"
+    ],
+    "seoUrl": "/spirits/liqueurs/campari-negroni-ready-to-drink",
+    "description": "Equal parts Campari, sweet vermouth and London dry gin, pre-blended by Campari for a perfectly balanced ready-to-drink Negroni.",
+    "shortDescription": "A perfectly balanced ready-to-drink Negroni from Campari.",
+    "searchKeywords": "campari negroni ready to drink italy australia 500ml bottle",
+    "badge": "Official Campari RTD",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "campari-negroni-ready-to-drink-500ml-bottle",
+        "sku": "GAPFILL-010-500ML",
+        "unitSize": "500ml",
+        "container": "Bottle",
+        "packSize": "500ml Bottle",
+        "price": 45,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Bottled Cocktail",
+    "styleOrVariety": "Negroni",
+    "ageStatement": ""
+  },
+  {
+    "slug": "bombora-coconut-rum-liqueur",
+    "name": "Bombora Coconut Rum Liqueur",
+    "price": 34.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Bombora",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "700ml",
+    "packSize": "700ml Bottle",
+    "dietary": [
+      "Australian Made"
+    ],
+    "servingSuggestion": "Serve over ice or in a tropical cocktail",
+    "controlledTags": [
+      "Spirits",
+      "Liqueurs",
+      "Bombora",
+      "Coconut",
+      "Australian"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs"
+    ],
+    "seoUrl": "/spirits/liqueurs/bombora-coconut-rum-liqueur",
+    "description": "A tropical blend of exotic coconut rum flavours and aromas combined with a premium fortified wine base for a smooth, elegant Australian cocktail mixer.",
+    "shortDescription": "A tropical coconut rum liqueur on a fortified wine base.",
+    "searchKeywords": "bombora coconut rum liqueur australia 700ml bottle",
+    "badge": "Australian Made",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bombora-coconut-rum-liqueur-700ml-bottle",
+        "sku": "GAPFILL-011-700ML",
+        "unitSize": "700ml",
+        "container": "Bottle",
+        "packSize": "700ml Bottle",
+        "price": 34.99,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Liqueur",
+    "styleOrVariety": "Coconut Rum Liqueur",
+    "ageStatement": ""
+  },
+  {
+    "slug": "bols-triple-sec-curacao-liqueur",
+    "name": "Bols Triple Sec Curaçao Liqueur",
+    "price": 32.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "liqueurs",
+    "subcategory": "liqueurs",
+    "brand": "Bols",
+    "countryOfOrigin": "Netherlands",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "500ml",
+    "packSize": "500ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Use in Margaritas, Cosmopolitans and Sidecars",
+    "controlledTags": [
+      "Spirits",
+      "Liqueurs",
+      "Bols",
+      "Netherlands",
+      "Triple Sec"
+    ],
+    "collections": [
+      "spirits",
+      "liqueurs"
+    ],
+    "seoUrl": "/spirits/liqueurs/bols-triple-sec-curacao-liqueur",
+    "description": "From the world's oldest distilled spirits brand, Bols Triple Sec Curaçao is a classic orange liqueur essential for Margaritas and Cosmopolitans.",
+    "shortDescription": "A classic orange liqueur essential for Margaritas and Cosmopolitans.",
+    "searchKeywords": "bols triple sec curacao liqueur netherlands australia 500ml bottle",
+    "badge": "World's Oldest Spirits Brand",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "bols-triple-sec-curacao-liqueur-500ml-bottle",
+        "sku": "GAPFILL-012-500ML",
+        "unitSize": "500ml",
+        "container": "Bottle",
+        "packSize": "500ml Bottle",
+        "price": 32.99,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Liqueur",
+    "styleOrVariety": "Triple Sec",
+    "ageStatement": ""
+  },
+  {
+    "slug": "iichiko-silhouette-shochu",
+    "name": "Iichiko Silhouette Shochu",
+    "price": 54.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Iichiko",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Oita Prefecture",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "720ml",
+    "packSize": "720ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Serve on the rocks, with water, or in a highball",
+    "controlledTags": [
+      "Spirits",
+      "Shochu",
+      "Iichiko",
+      "Japan"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu"
+    ],
+    "seoUrl": "/spirits/soju-shochu/iichiko-silhouette-shochu",
+    "description": "Japan's #1 barley shochu brand, Iichiko Silhouette offers a light, smooth texture with a delicate aroma.",
+    "shortDescription": "Japan's #1 barley shochu, light and smooth.",
+    "searchKeywords": "iichiko silhouette barley shochu japan australia 720ml bottle",
+    "badge": "Japan's #1 Barley Shochu",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "iichiko-silhouette-shochu-720ml-bottle",
+        "sku": "GAPFILL-013-720ML",
+        "unitSize": "720ml",
+        "container": "Bottle",
+        "packSize": "720ml Bottle",
+        "price": 54.99,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Shochu",
+    "styleOrVariety": "Barley Shochu",
+    "ageStatement": ""
+  },
+  {
+    "slug": "iichiko-saiten-shochu",
+    "name": "Iichiko Saiten Shochu",
+    "price": 64.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Iichiko",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "Oita Prefecture",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "750ml",
+    "packSize": "750ml Bottle",
+    "dietary": [
+      "Imported",
+      "Premium Pick"
+    ],
+    "servingSuggestion": "Serve on the rocks, with water, or in a highball",
+    "controlledTags": [
+      "Spirits",
+      "Shochu",
+      "Iichiko",
+      "Japan",
+      "Premium"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu"
+    ],
+    "seoUrl": "/spirits/soju-shochu/iichiko-saiten-shochu",
+    "description": "A premium barley shochu from Iichiko, aged for a richer, rounder character than the classic Silhouette expression.",
+    "shortDescription": "A premium, richer barley shochu from Iichiko.",
+    "searchKeywords": "iichiko saiten barley shochu japan australia 750ml bottle",
+    "badge": "Premium Barley Shochu",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "iichiko-saiten-shochu-750ml-bottle",
+        "sku": "GAPFILL-014-750ML",
+        "unitSize": "750ml",
+        "container": "Bottle",
+        "packSize": "750ml Bottle",
+        "price": 64.99,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Shochu",
+    "styleOrVariety": "Barley Shochu",
+    "ageStatement": ""
+  },
+  {
+    "slug": "kurokiri-shochu",
+    "name": "Kurokiri Shochu",
+    "price": 49.99,
+    "primaryCategory": "spirits",
+    "category": "spirits",
+    "primarySubcategory": "soju-shochu",
+    "subcategory": "soju-shochu",
+    "brand": "Kurokiri",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "",
+    "containerType": "Bottle",
+    "bottleOrCanSize": "720ml",
+    "packSize": "720ml Bottle",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Serve on the rocks, with hot water, or in a highball",
+    "controlledTags": [
+      "Spirits",
+      "Shochu",
+      "Kurokiri",
+      "Japan"
+    ],
+    "collections": [
+      "spirits",
+      "soju-shochu"
+    ],
+    "seoUrl": "/spirits/soju-shochu/kurokiri-shochu",
+    "description": "A classic black-koji sweet potato shochu with a rich, earthy character and smooth finish.",
+    "shortDescription": "A classic black-koji sweet potato shochu, rich and earthy.",
+    "searchKeywords": "kurokiri sweet potato shochu japan australia 720ml bottle",
+    "badge": "Black Koji",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "kurokiri-shochu-720ml-bottle",
+        "sku": "GAPFILL-015-720ML",
+        "unitSize": "720ml",
+        "container": "Bottle",
+        "packSize": "720ml Bottle",
+        "price": 49.99,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "primaryProductType": "Shochu",
+    "styleOrVariety": "Sweet Potato Shochu",
+    "ageStatement": ""
+  },
+  {
+    "slug": "archie-rose-double-malt-whisky-dry-ginger-beer",
+    "name": "Archie Rose Double Malt Whisky with Dry Ginger Beer",
+    "price": 8,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "whisky-premix",
+    "subcategory": "whisky-premix",
+    "brand": "Archie Rose",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "New South Wales",
+    "containerType": "Can",
+    "bottleOrCanSize": "330ml",
+    "packSize": "330ml Can",
+    "dietary": [
+      "Australian Made"
+    ],
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Whisky",
+      "Archie Rose",
+      "Ginger Beer"
+    ],
+    "collections": [
+      "premix-rtds",
+      "whisky-premix"
+    ],
+    "seoUrl": "/premix-rtds/whisky-premix/archie-rose-double-malt-whisky-dry-ginger-beer",
+    "description": "Archie Rose reimagines the classic whisky and dry with their Double Malt Whisky, dry ginger beer, and a zesty-bitter pop of Australian native finger lime.",
+    "shortDescription": "Archie Rose's Double Malt Whisky with dry ginger beer and finger lime.",
+    "searchKeywords": "archie rose double malt whisky dry ginger beer finger lime premix australia 330ml can",
+    "badge": "Native Finger Lime",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "archie-rose-double-malt-whisky-dry-ginger-beer-330ml-can",
+        "sku": "GAPFILL-016-330ML",
+        "unitSize": "330ml",
+        "container": "Can",
+        "packSize": "330ml Can",
+        "price": 8,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "abv": "6.0%",
+    "primaryProductType": "Premix / RTD",
+    "baseSpirit": "Whisky",
+    "flavourProfile": [
+      "Dry Ginger Beer",
+      "Finger Lime"
+    ],
+    "multipack": false
+  },
+  {
+    "slug": "minus-196-double-lemon",
+    "name": "Minus 196 Double Lemon",
+    "price": 7.5,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Minus 196",
+    "countryOfOrigin": "Japan",
+    "regionOrState": "",
+    "containerType": "Can",
+    "bottleOrCanSize": "355ml",
+    "packSize": "355ml Can",
+    "dietary": [
+      "Imported"
+    ],
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Minus 196",
+      "Japan",
+      "Seltzer"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/minus-196-double-lemon",
+    "description": "Suntory's Minus 196 uses proprietary Freeze Crush Infusion technology, freezing whole lemons at -196°C before crushing and infusing them with vodka.",
+    "shortDescription": "Whole lemons frozen at -196°C, crushed and infused with vodka.",
+    "searchKeywords": "minus 196 double lemon vodka seltzer japan premix australia 355ml can",
+    "badge": "Freeze Crush Infusion",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "minus-196-double-lemon-355ml-can",
+        "sku": "GAPFILL-017-355ML",
+        "unitSize": "355ml",
+        "container": "Can",
+        "packSize": "355ml Can",
+        "price": 7.5,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "abv": "6.0%",
+    "primaryProductType": "Premix / RTD",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Lemon"
+    ],
+    "multipack": false
+  },
+  {
+    "slug": "hard-rated-lemon",
+    "name": "Hard Rated Lemon",
+    "price": 7,
+    "primaryCategory": "premix-rtds",
+    "category": "premix-rtds",
+    "primarySubcategory": "vodka-premix",
+    "subcategory": "vodka-premix",
+    "brand": "Hard Rated",
+    "countryOfOrigin": "Australia",
+    "regionOrState": "",
+    "containerType": "Can",
+    "bottleOrCanSize": "375ml",
+    "packSize": "375ml Can",
+    "dietary": [
+      "Australian Made"
+    ],
+    "servingSuggestion": "Serve chilled",
+    "controlledTags": [
+      "Premix",
+      "RTD",
+      "Vodka",
+      "Hard Rated",
+      "Lemon"
+    ],
+    "collections": [
+      "premix-rtds",
+      "vodka-premix"
+    ],
+    "seoUrl": "/premix-rtds/vodka-premix/hard-rated-lemon",
+    "description": "Australia's hottest RTD brand for 2025/26, Hard Rated Lemon brings the nostalgic lemon soft drink flavour to a crisp, boozy can.",
+    "shortDescription": "Australia's hottest RTD brand, nostalgic lemon flavour with a kick.",
+    "searchKeywords": "hard rated lemon vodka soda premix australia 375ml can",
+    "badge": "#1 Hottest RTD Brand",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+    ],
+    "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop",
+    "variants": [
+      {
+        "id": "hard-rated-lemon-375ml-can",
+        "sku": "GAPFILL-018-375ML",
+        "unitSize": "375ml",
+        "container": "Can",
+        "packSize": "375ml Can",
+        "price": 7,
+        "stockLevel": 30,
+        "weight": "0.5kg",
+        "availability": "https://schema.org/InStock",
+        "image": "https://images.unsplash.com/photo-1527281400683-1aae777175f8?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "abv": "4.5%",
+    "primaryProductType": "Premix / RTD",
+    "baseSpirit": "Vodka",
+    "flavourProfile": [
+      "Lemon"
+    ],
+    "multipack": false
+  },
 ];
 
 export function getProductsForCategory(mainCategory, subCategory) {
